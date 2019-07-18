@@ -5,15 +5,15 @@
   <heading>JUDICIARY</heading>
   <container>
     <prefix>Chapter</prefix>
-    <num>1</num>
+    <num>4.1</num>
     <heading>Courts and Powers</heading>
     <annotation type="Editor's Notes">This law was originally enacted in the 1984 Code.</annotation>
     <container>
       <prefix>Part</prefix>
-      <num>1.1</num>
+      <num>4.1.1</num>
       <heading>Judicial Power</heading>
       <section>
-        <num>1.1.1</num>
+        <num>4.1.1.010</num>
         <heading>Scope and Extent</heading>
         <para>
           <num>(a)</num>
@@ -21,7 +21,7 @@
         </para>
       </section>
       <section>
-        <num>1.1.2</num>
+        <num>4.1.1.020</num>
         <heading>Jurisdiction</heading>
         <para>
           <num>(a)</num>
@@ -49,7 +49,7 @@
         </para>
       </section>
       <section>
-        <num>1.1.3</num>
+        <num>4.1.1.030</num>
         <heading>The San Ildefonso Court of Appeals</heading>
         <para>
           <num>(a)</num>
@@ -61,7 +61,7 @@
         </para>
       </section>
       <section>
-        <num>1.1.4</num>
+        <num>4.1.1.040</num>
         <heading>Definition of an Indian</heading>
         <para>
           <num>(a)</num>
@@ -83,10 +83,10 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.2</num>
+      <num>4.1.2</num>
       <heading>Judges of the Pueblo of San Ildefonso Judiciary</heading>
       <section>
-        <num>1.2.1</num>
+        <num>4.1.2.010</num>
         <heading>Selection, Removal, Disqualification, Duties</heading>
         <para>
           <num>(a)</num>
@@ -136,10 +136,10 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.3</num>
+      <num>4.1.3</num>
       <heading>Removal of Judges of the Pueblo of San Ildefonso Judiciary</heading>
       <section>
-        <num>1.3.1</num>
+        <num>4.1.3.010</num>
         <heading/>
         <text>Tribal Judges of the Pueblo of San Ildefonso Judiciary may be removed upon the grounds of gross misconduct involving moral turpitude or neglect of duty by the following procedures:</text>
         <para>
@@ -162,10 +162,10 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.4</num>
+      <num>4.1.4</num>
       <heading>Disqualification of judges of the Pueblo of San Ildefonso Judiciary</heading>
       <section>
-        <num>1.4.1</num>
+        <num>4.1.4.010</num>
         <heading>General</heading>
         <para>
           <num>(a)</num>
@@ -179,10 +179,10 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.5</num>
+      <num>4.1.5</num>
       <heading>Duties and Powers of Judges of the Pueblo of San Ildefonso Judiciary</heading>
       <section>
-        <num>1.5.1</num>
+        <num>4.1.5.010</num>
         <heading>General</heading>
         <para>
           <num>(a)</num>
@@ -220,10 +220,10 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.6</num>
+      <num>4.1.6</num>
       <heading>Court Clerk</heading>
       <section>
-        <num>1.6.1</num>
+        <num>4.1.6.010</num>
         <heading>Selection, Qualification and Duties</heading>
         <para>
           <num>(a)</num>
@@ -281,10 +281,10 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.7</num>
+      <num>4.1.7</num>
       <heading>Bonding of Pueblo of San Ildefonso Judiciary and Court Personnel</heading>
       <section>
-        <num>1.7.1</num>
+        <num>4.1.7.010</num>
         <heading>General</heading>
         <para>
           <num>(a)</num>
@@ -294,10 +294,10 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.8</num>
+      <num>4.1.8</num>
       <heading>Records of the Pueblo of San Ildefonso Judiciary</heading>
       <section>
-        <num>1.8.1</num>
+        <num>4.1.8.010</num>
         <heading>Scope, Copies, Ordinances, Etc.</heading>
         <para>
           <num>(a)</num>
@@ -337,7 +337,7 @@
         </para>
       </section>
       <section>
-        <num>1.8.2</num>
+        <num>4.1.8.020</num>
         <heading>Copies of Proceedings</heading>
         <para>
           <num>(a)</num>
@@ -345,7 +345,7 @@
         </para>
       </section>
       <section>
-        <num>1.8.3</num>
+        <num>4.1.8.030</num>
         <heading>Pueblo of San Ildefonso Laws, Ordinances, Etc.</heading>
         <para>
           <num>(a)</num>
@@ -356,15 +356,15 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>2</num>
+    <num>4.2</num>
     <heading>Court Procedures</heading>
     <annotation type="Editor's Notes">This law was originally enacted in the 1984 Code.</annotation>
     <container>
       <prefix>Part</prefix>
-      <num>2.1</num>
+      <num>4.2.1</num>
       <heading>Records of the Pueblo of San Ildefonso Judiciary</heading>
       <section>
-        <num>2.1.1</num>
+        <num>4.2.1.010</num>
         <heading>Court Sessions</heading>
         <para>
           <num>(a)</num>
@@ -372,7 +372,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.2</num>
+        <num>4.2.1.020</num>
         <heading>Official Station</heading>
         <para>
           <num>(a)</num>
@@ -380,7 +380,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.3</num>
+        <num>4.2.1.030</num>
         <heading>Location of Filing</heading>
         <para>
           <num>(a)</num>
@@ -388,7 +388,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.4</num>
+        <num>4.2.1.040</num>
         <heading>Copies of Documents</heading>
         <para>
           <num>(a)</num>
@@ -396,7 +396,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.5</num>
+        <num>4.2.1.050</num>
         <heading>Notice to Parties</heading>
         <para>
           <num>(a)</num>
@@ -404,7 +404,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.6</num>
+        <num>4.2.1.060</num>
         <heading>Extension of Time</heading>
         <para>
           <num>(a)</num>
@@ -412,7 +412,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.7</num>
+        <num>4.2.1.070</num>
         <heading>Court Decorum</heading>
         <para>
           <num>(a)</num>
@@ -452,7 +452,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.8</num>
+        <num>4.2.1.080</num>
         <heading>Exhibits</heading>
         <para>
           <num>(a)</num>
@@ -460,7 +460,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.9</num>
+        <num>4.2.1.090</num>
         <heading>Rules of Evidence</heading>
         <para>
           <num>(a)</num>
@@ -468,7 +468,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.10</num>
+        <num>4.2.1.100</num>
         <heading>Jury Trial</heading>
         <para>
           <num>(a)</num>
@@ -476,7 +476,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.11</num>
+        <num>4.2.1.110</num>
         <heading>Rules Governing Jury Trial</heading>
         <para>
           <num>(a)</num>
@@ -504,7 +504,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.12</num>
+        <num>4.2.1.120</num>
         <heading>Jury Duties</heading>
         <para>
           <num>(a)</num>
@@ -512,7 +512,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.13</num>
+        <num>4.2.1.130</num>
         <heading>Lay Counsel</heading>
         <para>
           <num>(a)</num>
@@ -552,7 +552,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.14</num>
+        <num>4.2.1.140</num>
         <heading>Professional Attorneys</heading>
         <para>
           <num>(a)</num>
@@ -612,7 +612,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.15</num>
+        <num>4.2.1.150</num>
         <heading>Appointment of Prosecutor</heading>
         <para>
           <num>(a)</num>
@@ -628,7 +628,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.16</num>
+        <num>4.2.1.160</num>
         <heading>Subpoena</heading>
         <para>
           <num>(a)</num>
@@ -640,7 +640,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.17</num>
+        <num>4.2.1.170</num>
         <heading>Death or Disability of the Judge</heading>
         <para>
           <num>(a)</num>
@@ -648,7 +648,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.18</num>
+        <num>4.2.1.180</num>
         <heading>Contempt of Court</heading>
         <para>
           <num>(a)</num>
@@ -688,7 +688,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.19</num>
+        <num>4.2.1.190</num>
         <heading>Default on Fine</heading>
         <para>
           <num>(a)</num>
@@ -696,7 +696,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.20</num>
+        <num>4.2.1.200</num>
         <heading>Disposition of Fines, Fees, and other Payments Made to the Court</heading>
         <para>
           <num>(a)</num>
@@ -704,7 +704,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.21</num>
+        <num>4.2.1.210</num>
         <heading>Disposition of Equipment and Property Confiscated by the Court</heading>
         <para>
           <num>(a)</num>
@@ -712,7 +712,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.22</num>
+        <num>4.2.1.220</num>
         <heading>New Trial</heading>
         <para>
           <num>(a)</num>
@@ -744,7 +744,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.23</num>
+        <num>4.2.1.230</num>
         <heading>Appeals</heading>
         <para>
           <num>(a)</num>
@@ -772,7 +772,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.24</num>
+        <num>4.2.1.240</num>
         <heading>Terms of Probation</heading>
         <para>
           <num>(a)</num>
@@ -828,7 +828,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.25</num>
+        <num>4.2.1.250</num>
         <heading>Dismissal of Cases on File</heading>
         <para>
           <num>(a)</num>
@@ -836,7 +836,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.26</num>
+        <num>4.2.1.260</num>
         <heading>Cooperation by Federal and State Employees</heading>
         <para>
           <num>(a)</num>
@@ -844,7 +844,7 @@
         </para>
       </section>
       <section>
-        <num>2.1.27</num>
+        <num>4.2.1.270</num>
         <heading>Amendment of the Rules of the Courts of the Pueblo of San Ildefonso</heading>
         <para>
           <num>(a)</num>
@@ -859,19 +859,19 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>3</num>
+    <num>4.3</num>
     <heading>Pre-Trial Conference</heading>
     <container>
       <prefix>Part</prefix>
-      <num>3.1</num>
+      <num>4.3.1</num>
       <heading>Pre-Trial Conference</heading>
       <section>
-        <num>3.1.1</num>
+        <num>4.3.1.010</num>
         <heading/>
         <text>The procedure established in this Section are intended to establish a means whereby both civil and criminal disputes can be settled in the traditional and customary manner by discussion between the parties before a trusted, impartial tribal authority prior to resorting to formal trial procedures and are incorporated as a part of the Code.  The procedures require that formal Court authority be invoked by the filing of a complaint, but anticipate that a great percentage of cases can be settled by traditional and customary means, administered thereafter by the Tribal Court.  The procedures set forth herein shall not be interpreted or applied to deny any person any right otherwise guaranteed by San Ildefonso Pueblo or Federal Law, including the Indian Civil Rights Act.</text>
       </section>
       <section>
-        <num>3.1.2</num>
+        <num>4.3.1.020</num>
         <heading>Applicability</heading>
         <para>
           <num>(a)</num>
@@ -879,7 +879,7 @@
         </para>
       </section>
       <section>
-        <num>3.1.3</num>
+        <num>4.3.1.030</num>
         <heading>Civil Case</heading>
         <para>
           <num>(a)</num>
@@ -887,7 +887,7 @@
         </para>
       </section>
       <section>
-        <num>3.1.4</num>
+        <num>4.3.1.040</num>
         <heading>Criminal Cases</heading>
         <para>
           <num>(a)</num>
@@ -895,7 +895,7 @@
         </para>
       </section>
       <section>
-        <num>3.1.5</num>
+        <num>4.3.1.050</num>
         <heading>Time</heading>
         <para>
           <num>(a)</num>
@@ -903,7 +903,7 @@
         </para>
       </section>
       <section>
-        <num>3.1.6</num>
+        <num>4.3.1.060</num>
         <heading>Attendance – Civil Cases</heading>
         <para>
           <num>(a)</num>
@@ -911,7 +911,7 @@
         </para>
       </section>
       <section>
-        <num>3.1.7</num>
+        <num>4.3.1.070</num>
         <heading>Attendance – Criminal Cases</heading>
         <para>
           <num>(a)</num>
@@ -919,7 +919,7 @@
         </para>
       </section>
       <section>
-        <num>3.1.8</num>
+        <num>4.3.1.080</num>
         <heading>Conduct of Pre-Trial Conference</heading>
         <para>
           <num>(a)</num>
@@ -927,7 +927,7 @@
         </para>
       </section>
       <section>
-        <num>3.1.9</num>
+        <num>4.3.1.090</num>
         <heading>Public and Attorneys</heading>
         <para>
           <num>(a)</num>
@@ -935,7 +935,7 @@
         </para>
       </section>
       <section>
-        <num>3.1.10</num>
+        <num>4.3.1.100</num>
         <heading>Judge's Function</heading>
         <para>
           <num>(a)</num>
@@ -943,7 +943,7 @@
         </para>
       </section>
       <section>
-        <num>3.1.11</num>
+        <num>4.3.1.110</num>
         <heading>Disposition of the Cases</heading>
         <para>
           <num>(a)</num>
@@ -955,7 +955,7 @@
         </para>
       </section>
       <section>
-        <num>3.1.12</num>
+        <num>4.3.1.120</num>
         <heading>Voluntary Agreements</heading>
         <para>
           <num>(a)</num>
@@ -963,7 +963,7 @@
         </para>
       </section>
       <section>
-        <num>3.1.13</num>
+        <num>4.3.1.130</num>
         <heading>Criminal Defendants</heading>
         <para>
           <num>(a)</num>
@@ -971,7 +971,7 @@
         </para>
       </section>
       <section>
-        <num>3.1.14</num>
+        <num>4.3.1.140</num>
         <heading>Unsettled Cases</heading>
         <para>
           <num>(a)</num>
@@ -982,15 +982,15 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>4</num>
+    <num>4.4</num>
     <heading>Judicial Act of 201</heading>
     <container>
       <prefix>Part</prefix>
-      <num>4.1</num>
+      <num>4.4.1</num>
       <heading>Judicial Act of 2012</heading>
       <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-016, dated May 10, 2012.</annotation>
       <section>
-        <num>4.1.1</num>
+        <num>4.4.1.010</num>
         <heading>Findings</heading>
         <para>
           <num>(a)</num>
@@ -1002,7 +1002,7 @@
         </para>
       </section>
       <section>
-        <num>4.1.2</num>
+        <num>4.4.1.020</num>
         <heading>Preamble</heading>
         <para>
           <num>(a)</num>
@@ -1021,7 +1021,7 @@
         </para>
       </section>
       <section>
-        <num>4.1.3</num>
+        <num>4.4.1.030</num>
         <heading>Title and Purpose</heading>
         <para>
           <num>(a)</num>
@@ -1033,7 +1033,7 @@
         </para>
       </section>
       <section>
-        <num>4.1.4</num>
+        <num>4.4.1.040</num>
         <heading>The Judiciary</heading>
         <para>
           <num>(a)</num>
@@ -1041,7 +1041,7 @@
         </para>
       </section>
       <section>
-        <num>4.1.5</num>
+        <num>4.4.1.050</num>
         <heading>Jurisdiction</heading>
         <para>
           <num>(a)</num>
@@ -1059,17 +1059,17 @@
           <num>(d)</num>
           <text>Reciprocity of Decisions: The Trial Court and Supreme Court shall enforce the judgments decrees, orders, warrants, subpoenas, records, and other judicial acts of foreign courts; and such process from foreign courts shall be presumed valid by the Trial Court and Supreme Court unless an objecting party demonstrates that (1) the foreign court lacked personal or subject-matter jurisdiction, or (2) the judgment, decree, warrant, subpoena, record, or other judicial act of the court (a) was obtained by fraud, duress, or coercion, (b) was obtained without fair notice or a fair hearing, (c) is repugnant to the public policy of the Pueblo, or (d) is not final under the laws and procedure of the foreign court: <em>provided that</em>:</text>
           <para>
-            <num>(i)</num>
+            <num>(1)</num>
             <text>The foreign court, in the view of the Trial Court or Supreme Court, has provided or will provide reciprocal enforcement of Trial Court or Supreme Court judgments, decrees, orders, warrants, subpoenas, records, and other judicial acts.</text>
           </para>
           <para>
-            <num>(ii)</num>
+            <num>(2)</num>
             <text>This section does not apply to judgments or orders that federal law requires be given Full Faith and Credit.</text>
           </para>
         </para>
       </section>
       <section>
-        <num>4.1.6</num>
+        <num>4.4.1.060</num>
         <heading>Power of the Courts</heading>
         <para>
           <num>(a)</num>
@@ -1133,7 +1133,7 @@
         </para>
       </section>
       <section>
-        <num>4.1.7</num>
+        <num>4.4.1.070</num>
         <heading>Duties of the Courts</heading>
         <para>
           <num>(a)</num>
@@ -1157,7 +1157,7 @@
         </para>
       </section>
       <section>
-        <num>4.1.8</num>
+        <num>4.4.1.080</num>
         <heading>Fiscal Procedures</heading>
         <para>
           <num>(a)</num>
@@ -1189,7 +1189,7 @@
         </para>
       </section>
       <section>
-        <num>4.1.9</num>
+        <num>4.4.1.090</num>
         <heading>Amendments</heading>
         <para>
           <num>(a)</num>
@@ -1197,7 +1197,7 @@
         </para>
       </section>
       <section>
-        <num>4.1.10</num>
+        <num>4.4.1.100</num>
         <heading>Severability</heading>
         <para>
           <num>(a)</num>
@@ -1208,11 +1208,11 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>5</num>
+    <num>4.5</num>
     <heading>Rules of Appellate Procedure</heading>
     <container>
       <prefix>Part</prefix>
-      <num>5.1</num>
+      <num>4.5.1</num>
       <heading>[RESERVED]</heading>
     </container>
   </container>

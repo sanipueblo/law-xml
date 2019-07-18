@@ -5,25 +5,25 @@
   <heading>GENERAL PROVISIONS</heading>
   <container>
     <prefix>Chapter</prefix>
-    <num>1</num>
+    <num>1.1</num>
     <heading>Authority.</heading>
     <annotation type="Editor's Notes">This law was originally enacted in the 1984 Code;</annotation>
     <container>
       <prefix>Part</prefix>
-      <num>1.1</num>
+      <num>1.1.1</num>
       <heading>Preamble</heading>
       <section>
-        <num>1.1.1</num>
+        <num>1.1.1.010</num>
         <heading>General</heading>
         <text>We, the people of the Pueblo of San Ildefonso, in order to establish justice, promote the common welfare and preserve the advantages of self-government, do hereby establish the Civil and Criminal Code of the Pueblo of San Ildefonso (1) to protect the peace and order of all person and their property within the territorial boundaries of the pueblo of San Ildefonso; (2) to protect the traditions, customs, landbase and human resources of the Pueblo of San Ildefonso; (3) to protect the natural resources and beauty of the Pueblo of San Ildefonso;(4)to preserve the   life ways and natural resources of the Pueblo of San Ildefonso for future generations so that they may have the benefits that will be theirs to enjoy and keep.</text>
       </section>
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.2</num>
+      <num>1.1.2</num>
       <heading>Adoption and Amendment</heading>
       <section>
-        <num>1.2.1</num>
+        <num>1.1.2.010</num>
         <heading>Authority</heading>
         <para>
           <num>(a)</num>
@@ -40,28 +40,28 @@
         </para>
       </section>
       <section>
-        <num>1.2.2</num>
+        <num>1.1.2.020</num>
         <heading>Repeal of Prior Inconsistent Ordinances</heading>
         <text>Any and all ordinances or portions thereof heretofore enacted by the San Ildefonso Pueblo council which is any way in conflict with the provisions of this Civil and Criminal Code are hereby repealed.</text>
       </section>
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.3</num>
+      <num>1.1.3</num>
       <heading>Interpretation of This Code</heading>
       <section>
-        <num>1.3.1</num>
+        <num>1.1.3.010</num>
         <heading>General</heading>
         <text>This Code shall be interpreted pursuant to the traditions and customs of the San Ildefonso Tribe.  Where any doubt arises as to these traditions and customs, the Court may request the advise of elders as counselors whom are familiar with these traditions and customs.  If none such exists, then the Court may use applicable federal and state case law and statutory law, adopting those principles and procedures not in conflict with the laws, customs and traditions of the Pueblo of San Ildefonso.</text>
       </section>
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.4</num>
+      <num>1.1.4</num>
       <heading>Code Reform and Approval Act of 2016</heading>
       <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-013, dated July 7, 2016.</annotation>
       <section>
-        <num>1.4.1</num>
+        <num>1.1.4.010</num>
         <heading>Findings</heading>
         <para>
           <num>(a)</num>
@@ -97,12 +97,12 @@
         </para>
       </section>
       <section>
-        <num>1.4.2</num>
+        <num>1.1.4.020</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the, "Code Reform and Approval Act of 2016."</text>
       </section>
       <section>
-        <num>1.4.3</num>
+        <num>1.1.4.030</num>
         <heading>Definitions</heading>
         <para>
           <num>(a)</num>
@@ -118,12 +118,12 @@
         </para>
       </section>
       <section>
-        <num>1.4.4</num>
+        <num>1.1.4.040</num>
         <heading>Purpose</heading>
         <text>The purpose of this Act is to approve the Code, and to establish a process to maintain and update the Code as laws and budgets are enacted by the Council.</text>
       </section>
       <section>
-        <num>1.4.5</num>
+        <num>1.1.4.050</num>
         <heading>Findings</heading>
         <text>The Council hereby finds and declares that:</text>
         <para>
@@ -152,7 +152,7 @@
         </para>
       </section>
       <section>
-        <num>1.4.6</num>
+        <num>1.1.4.060</num>
         <heading>Approval of Code</heading>
         <text>Section 1.2.1 of the Code shall read as follows:</text>
         <para>
@@ -176,77 +176,77 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>2</num>
+    <num>1.2</num>
     <heading>Name of the Pueblo.</heading>
     <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-017, dated May 7, 2013.</annotation>
     <container>
       <prefix>Part</prefix>
-      <num>2.1</num>
+      <num>1.2.1</num>
       <heading>Findings</heading>
       <section>
-        <num>2.1.1</num>
+        <num>1.2.1.010</num>
         <heading>The Pueblo is currently recognized by the Department of the Interior, Bureau of Indian Affairs (BIA) as the "Pueblo of San Ildefonso";</heading>
       </section>
       <section>
-        <num>2.1.2</num>
+        <num>1.2.1.020</num>
         <heading>Subsequently, the Pueblo is identified as the "Pueblo of San Ildefonso" on the list of tribes published annually in the Federal Register, pursuant to the Federally Recognized Indian Tribe List Act of 1994, Public Law 103-454; §103(4), 108 Stat. 4791;</heading>
       </section>
       <section>
-        <num>2.1.3</num>
+        <num>1.2.1.030</num>
         <heading>The list of Federally Recognized Indian Tribes is used by Federal agencies and departments to determine eligibility for services;</heading>
       </section>
       <section>
-        <num>2.1.4</num>
+        <num>1.2.1.040</num>
         <heading>The name "the Pueblo de San Ildefonso" is used in the Agreement, as approved by the BIA;</heading>
       </section>
       <section>
-        <num>2.1.5</num>
+        <num>1.2.1.050</num>
         <heading>The Council recognizes the need to formally adopt an official name, such that there is consistency between the Pueblo's Governance Agreement, recognition by the BIA, listing in the Federal Register, and all other Pueblo documents.</heading>
       </section>
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>2.2</num>
+      <num>1.2.2</num>
       <heading>Name</heading>
       <section>
-        <num>2.2.1</num>
+        <num>1.2.2.010</num>
         <heading>The Pueblo de San Ildefonso Council hereby formally adopts the "Pueblo de San Ildefonso" as the official name of the Pueblo;</heading>
       </section>
       <section>
-        <num>2.2.2</num>
+        <num>1.2.2.020</num>
         <heading>The Council requests that the United States Department of Interior acknowledge and change the name of the Pueblo to Pueblo de San Ildefonso.</heading>
       </section>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>3</num>
+    <num>1.3</num>
     <heading>Government Organization.</heading>
     <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-031, dated August 20, 2012.</annotation>
     <container>
       <prefix>Part</prefix>
-      <num>3.1</num>
+      <num>1.3.1</num>
       <heading>Findings</heading>
       <section>
-        <num>3.1.1</num>
+        <num>1.3.1.010</num>
         <heading>The Council finds that well organized governments promote efficient provision of services to members;</heading>
       </section>
       <section>
-        <num>3.1.2</num>
+        <num>1.3.1.020</num>
         <heading>The Councils finds it necessary to establish an organizational chart of the Pueblo including various departments;</heading>
       </section>
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>3.2</num>
+      <num>1.3.2</num>
       <heading>Governmental Organizational Act</heading>
       <section>
-        <num>3.2.1</num>
+        <num>1.3.2.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the Governmental Organizational Act ("Organization Act").</text>
       </section>
       <section>
-        <num>3.2.2</num>
+        <num>1.3.2.020</num>
         <heading>Definitions</heading>
         <para>
           <num>(a)</num>
@@ -266,38 +266,38 @@
         </para>
       </section>
       <section>
-        <num>3.2.3</num>
+        <num>1.3.2.030</num>
         <heading>Purpose</heading>
         <text>The purpose of the Act is to establish procedures regarding governmental organization of the Pueblo.</text>
       </section>
       <section>
-        <num>3.2.4</num>
+        <num>1.3.2.040</num>
         <heading>Findings</heading>
         <text>The Council hereby finds that, establishing a clear governmental organization will promote efficiency and the cost-effective delivery of services to Members.</text>
       </section>
       <section>
-        <num>3.2.5</num>
+        <num>1.3.2.050</num>
         <heading>Organization</heading>
         <text><em>Governmental Organization</em> – The Council hereby adopts the attached organizational chart (<em>See,</em> Exhibit A).  The Governor may not reorganize the attached organizational chart without prior Council approval.</text>
       </section>
       <section>
-        <num>3.2.6</num>
+        <num>1.3.2.060</num>
         <heading>Sovereign Immunity</heading>
         <text>Nothing in this Act waives the sovereign immunity of the Pueblo or any of its representatives, officers, or employees.</text>
       </section>
       <section>
-        <num>3.2.7</num>
+        <num>1.3.2.070</num>
         <heading>Severability</heading>
         <text>If a court of competent jurisdiction finds any provision of this Act to be invalid or illegal under applicable tribal and/or federal law, such provision shall be severed from this Act and the remainder of this Act shall remain in full force and effect.</text>
       </section>
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>3.3</num>
+      <num>1.3.3</num>
       <heading>Governmental Organizational Act of 2016</heading>
       <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-015, dated July 21, 2016.</annotation>
       <section>
-        <num>3.3.1</num>
+        <num>1.3.3.010</num>
         <heading>Findings</heading>
         <para>
           <num>(a)</num>
@@ -325,17 +325,17 @@
         </para>
       </section>
       <section>
-        <num>3.3.2</num>
+        <num>1.3.3.020</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "GOVERNMENTAL ORGANIZATIONAL ACT OF 2016" ("Act").</text>
       </section>
       <section>
-        <num>3.3.3</num>
+        <num>1.3.3.030</num>
         <heading>Purpose</heading>
         <text>The purpose of this Act is to adopt a single organizational chart for the government of the Pueblo, and to repeal all prior organizational charts for the government of the Pueblo.</text>
       </section>
       <section>
-        <num>3.3.4</num>
+        <num>1.3.3.040</num>
         <heading>Findings</heading>
         <text>The Council hereby finds and declares that:</text>
         <para>
@@ -356,7 +356,7 @@
         </para>
       </section>
       <section>
-        <num>3.3.5</num>
+        <num>1.3.3.050</num>
         <heading>Governmental Organization</heading>
         <para>
           <num>(a)</num>
@@ -378,11 +378,11 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>3.4</num>
+      <num>1.3.4</num>
       <heading>Typographical Correction Act of 2016</heading>
       <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-012, dated July 7, 2016.</annotation>
       <section>
-        <num>3.4.1</num>
+        <num>1.3.4.010</num>
         <heading>Findings</heading>
         <para>
           <num>(a)</num>
@@ -410,17 +410,17 @@
         </para>
       </section>
       <section>
-        <num>3.4.2</num>
+        <num>1.3.4.020</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "Typographical Correction Act of 2016" ("Act").</text>
       </section>
       <section>
-        <num>3.4.3</num>
+        <num>1.3.4.030</num>
         <heading>Purpose</heading>
         <text>The purpose of this Act is to correct two, minor, non-substantive, typographical errors in the Governing Agreement ("Agreement") of the Pueblo.</text>
       </section>
       <section>
-        <num>3.4.4</num>
+        <num>1.3.4.040</num>
         <heading>Findings</heading>
         <text>The Council hereby finds and declares that:</text>
         <para>
@@ -441,7 +441,7 @@
         </para>
       </section>
       <section>
-        <num>3.4.5</num>
+        <num>1.3.4.050</num>
         <heading>Corrections</heading>
         <para>
           <num>(a)</num>

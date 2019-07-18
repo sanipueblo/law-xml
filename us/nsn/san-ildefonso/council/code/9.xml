@@ -5,20 +5,20 @@
   <heading>CHILDRENS CODE</heading>
   <container>
     <prefix>Chapter</prefix>
-    <num>1</num>
+    <num>9.1</num>
     <heading>Children's Code</heading>
     <annotation type="Editor's Notes"> This law was originally enacted in the 1984 Code.</annotation>
     <container>
       <prefix>Part</prefix>
-      <num>1.1</num>
+      <num>9.1.1</num>
       <heading>Jurisdiction</heading>
       <section>
-        <num>1.1.1</num>
+        <num>9.1.1.010</num>
         <heading>Establishment of Children's Court</heading>
         <text>The San Ildefonso Children's Court shall consist of the Chief Judge and such Associate Judge as the Chief Judge may appoint to act as Children's Court Judge.  The Children's Court shall operate within the provisions of the Indian Child Welfare Act of 1978, Nov. 8, 1978 (PL 95-608) (92 Stat. 3069) and rules and regulations issued pursuant thereto, and the law and rules and regulations shall take precedence over any provisions of this Title.</text>
       </section>
       <section>
-        <num>1.1.2</num>
+        <num>9.1.1.020</num>
         <heading>Jurisdiction of Children's Court</heading>
         <para>
           <num>(a)</num>
@@ -62,7 +62,7 @@
         </para>
       </section>
       <section>
-        <num>1.1.3</num>
+        <num>9.1.1.030</num>
         <heading>Youth or Probation Officer</heading>
         <para>
           <num>(a)</num>
@@ -78,17 +78,17 @@
         </para>
       </section>
       <section>
-        <num>1.1.4</num>
+        <num>9.1.1.040</num>
         <heading>Cooperation, with other Agencies</heading>
         <text>The Children's Court may utilized such social services as may be furnished by any federal, state, Pueblo, public or private non-profit agency.  The Children's Court may contract for services with any federal, state, Tribal, public or private non-profit agency for the care, placement or education of children subject to its jurisdiction, provided that any expenditure of Pueblo funds shall be approved by the Governor and Tribal Council.</text>
       </section>
       <section>
-        <num>1.1.5</num>
+        <num>9.1.1.050</num>
         <heading>Non-Indian and Welfare Agencies</heading>
         <text>Any Pueblo based private non-Indian child welfare agency which provides services of any nature to Indian children under the jurisdiction of the Children's Court shall meet licensing requirements as shall be provided in the Pueblo of San Ildefonso Code.  Penalty for violation of this Section shall be immediate loss of right to provide services.</text>
       </section>
       <section>
-        <num>1.1.6</num>
+        <num>9.1.1.060</num>
         <heading>Definitions</heading>
         <para>
           <num>(a)</num>
@@ -202,10 +202,10 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.2</num>
+      <num>9.1.2</num>
       <heading>Proceedings of the Children's Court</heading>
       <section>
-        <num>1.2.1</num>
+        <num>9.1.2.010</num>
         <heading>Institution of Proceedings</heading>
         <para>
           <num>(a)</num>
@@ -225,7 +225,7 @@
         </para>
       </section>
       <section>
-        <num>1.2.2</num>
+        <num>9.1.2.020</num>
         <heading>Summons</heading>
         <para>
           <num>(a)</num>
@@ -249,7 +249,7 @@
         </para>
       </section>
       <section>
-        <num>1.2.3</num>
+        <num>9.1.2.030</num>
         <heading>Service of Summons</heading>
         <para>
           <num>(a)</num>
@@ -265,12 +265,12 @@
         </para>
       </section>
       <section>
-        <num>1.2.4</num>
+        <num>9.1.2.040</num>
         <heading>Investigation; Physical and Mental Examination</heading>
         <text>Upon request of the Court, the Bureau of Indian Affairs, Northern Pueblos Agency or any other Agency or person so designated may investigate the personal and family history and environment of any child coming within the jurisdiction of the Court and file a report of its finding with the Court.  The Court may order any child coming within its jurisdiction to be examined by a duly qualified physical, psychiatrist or psychologist appointed by the Court, in order that the physical and mental condition of the child be given due consideration in the disposition of the case.  If for any reason, the child, parent, custodian or guardian of the child is against test provided for under this Section, citing certain religious beliefs for example, a bearing shall be conducted to arrive at the validity of the objection and the Court shall readjust its order accordingly.</text>
       </section>
       <section>
-        <num>1.2.5</num>
+        <num>9.1.2.050</num>
         <heading>Hearings</heading>
         <para>
           <num>(a)</num>
@@ -298,7 +298,7 @@
         </para>
       </section>
       <section>
-        <num>1.2.6</num>
+        <num>9.1.2.060</num>
         <heading>Records</heading>
         <para>
           <num>(a)</num>
@@ -320,10 +320,10 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.3</num>
+      <num>9.1.3</num>
       <heading>Detention</heading>
       <section>
-        <num>1.3.1</num>
+        <num>9.1.3.010</num>
         <heading>Taking a Child into Custody</heading>
         <para>
           <num>(a)</num>
@@ -351,7 +351,7 @@
         </para>
       </section>
       <section>
-        <num>1.3.2</num>
+        <num>9.1.3.020</num>
         <heading>Release or Detention</heading>
         <para>
           <num>(a)</num>
@@ -371,7 +371,7 @@
         </para>
       </section>
       <section>
-        <num>1.3.3</num>
+        <num>9.1.3.030</num>
         <heading>Place of Detention</heading>
         <para>
           <num>(a)</num>
@@ -393,10 +393,10 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.4</num>
+      <num>9.1.4</num>
       <heading>Disposition</heading>
       <section>
-        <num>1.4.1</num>
+        <num>9.1.4.010</num>
         <heading>Findings and Dispositions</heading>
         <para>
           <num>(a)</num>
@@ -496,7 +496,7 @@
         </para>
       </section>
       <section>
-        <num>1.4.2</num>
+        <num>9.1.4.020</num>
         <heading>Child Traffic Offenders; Procedures: Dispositions</heading>
         <para>
           <num>(a)</num>
@@ -552,7 +552,7 @@
         </para>
       </section>
       <section>
-        <num>1.4.3</num>
+        <num>9.1.4.030</num>
         <heading>Effect of Children's Court Proceedings</heading>
         <para>
           <num>(a)</num>
@@ -572,7 +572,7 @@
         </para>
       </section>
       <section>
-        <num>1.4.4</num>
+        <num>9.1.4.040</num>
         <heading>Grounds for Termination of Parental Rights</heading>
         <para>
           <num>(a)</num>
@@ -608,7 +608,7 @@
         </para>
       </section>
       <section>
-        <num>1.4.5</num>
+        <num>9.1.4.050</num>
         <heading>Procedures in Terminating Parental Rights</heading>
         <para>
           <num>(a)</num>
@@ -666,10 +666,10 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.5</num>
+      <num>9.1.5</num>
       <heading>Rehearing and Appeals</heading>
       <section>
-        <num>1.5.1</num>
+        <num>9.1.5.010</num>
         <heading>New Evidence</heading>
         <para>
           <num>(a)</num>

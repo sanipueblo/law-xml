@@ -5,15 +5,15 @@
   <heading>ELECTIONS</heading>
   <container>
     <prefix>Chapter</prefix>
-    <num>1</num>
+    <num>5.1</num>
     <heading>Election Law</heading>
     <container>
       <prefix>Part</prefix>
-      <num>1.1</num>
+      <num>5.1.1</num>
       <heading>Background</heading>
       <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-006, dated January 9, 2012, and was amended pursuant to Council Resolution No. SI-R16-002, dated February 17, 2016.</annotation>
       <section>
-        <num>1.1.1</num>
+        <num>5.1.1.010</num>
         <heading>Findings</heading>
         <para>
           <num>(a)</num>
@@ -33,16 +33,16 @@
         </para>
       </section>
       <section>
-        <num>1.1.2</num>
+        <num>5.1.1.020</num>
         <heading>The Council hereby enacts the attached amendments to the "Election Law" as follows:</heading>
       </section>
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.2</num>
+      <num>5.1.2</num>
       <heading>ELECTION COMMISSION</heading>
       <section>
-        <num>1.2.1</num>
+        <num>5.1.2.010</num>
         <heading>Election Commission.</heading>
         <text>The Election Commission shall be established in accordance with ELECTIONS AND VOTING, SECTION 2.  ELECTION COMMISSION (a) of the Agreement which states:</text>
         <include proof="true">
@@ -69,7 +69,7 @@
         </para>
       </section>
       <section>
-        <num>1.2.2</num>
+        <num>5.1.2.020</num>
         <heading>Authority and Responsibilities.</heading>
         <text>The Election Commission shall conduct all elections in accordance with Section 3 (b) of the Agreement which states:</text>
         <include proof="true">
@@ -82,55 +82,55 @@
           <heading>Elections.</heading>
           <text>The Election Commission shall be responsible for conducting all elections and related activities, including but not limited to:</text>
           <para>
-            <num>1.</num>
+            <num>(1)</num>
             <text>preparing and issuing election notices, ballots and election materials,</text>
           </para>
           <para>
-            <num>2.</num>
+            <num>(2)</num>
             <text>confirming candidate qualifications, including conducting candidate background investigations and posting results,</text>
           </para>
           <para>
-            <num>3.</num>
+            <num>(3)</num>
             <text>posting candidate and voter lists,</text>
           </para>
           <para>
-            <num>4.</num>
+            <num>(4)</num>
             <text>overseeing election day activities at the polling place(s),</text>
           </para>
           <para>
-            <num>5.</num>
+            <num>(5)</num>
             <text>confirming voter qualifications and determining voter challenges,</text>
           </para>
           <para>
-            <num>6.</num>
+            <num>(6)</num>
             <text>assisting voters with disabilities and/or language difficulties at the polling place(s),</text>
           </para>
           <para>
-            <num>7.</num>
+            <num>(7)</num>
             <text>collecting and counting ballots,</text>
           </para>
           <para>
-            <num>8.</num>
+            <num>(8)</num>
             <text>certifying and posting election results,</text>
           </para>
           <para>
-            <num>9.</num>
+            <num>(9)</num>
             <text>addressing any election challenges,</text>
           </para>
           <para>
-            <num>10.</num>
+            <num>(10)</num>
             <text>enforcing election laws and regulations,</text>
           </para>
           <para>
-            <num>11.</num>
+            <num>(11)</num>
             <text>developing such policies and procedures as necessary,</text>
           </para>
           <para>
-            <num>12.</num>
+            <num>(12)</num>
             <text>appointing and swearing in Election Commission poll watchers and bailiffs if circumstances require, and</text>
           </para>
           <para>
-            <num>13.</num>
+            <num>(13)</num>
             <text>taking such other actions as necessary to insure all elections and related activities are conducted properly, efficiently, fairly and impartially.</text>
           </para>
         </para>
@@ -138,12 +138,12 @@
           <num>(b)</num>
           <heading>Administrative Duties and Responsibilities.</heading>
           <para>
-            <num>1.</num>
+            <num>(1)</num>
             <heading>Budget.</heading>
             <text>The Election Commission shall work with the Governor and Council Budget Committee to propose an operating budget for the Election Commission to be included in the annual budget or a budget modification.</text>
           </para>
           <para>
-            <num>2.</num>
+            <num>(2)</num>
             <text>The Election Commission shall prepare all invoices and requisitions for all costs and expenses, and shall ensure supporting documentation is included. The Election Commission shall designate a Commissioner as signatory authority for invoicing on behalf of the Commission.  By affixing his or her signature to an invoice, the designated Commissioner is confirming that the payment, activity, or materials requested are within the approved Election Commission budget.</text>
           </para>
         </para>
@@ -151,10 +151,10 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.3</num>
+      <num>5.1.3</num>
       <heading>ELECTIONS</heading>
       <section>
-        <num>1.3.1</num>
+        <num>5.1.3.010</num>
         <heading>Elections.</heading>
         <para>
           <num>(a)</num>
@@ -180,27 +180,27 @@
           <heading>Primary Election.</heading>
           <text>There shall be a Primary Election on the last Saturday of October of each year beginning in 2016.</text>
           <para>
-            <num>1.</num>
+            <num>(1)</num>
             <text>A Primary Election shall be held for the Office of Governor.  In a Primary Election for the Office of Governor, the candidates receiving the two (2) highest number of votes shall proceed to the General Election.</text>
           </para>
           <para>
-            <num>2.</num>
+            <num>(2)</num>
             <text>A Primary Election shall be held for the available Council Representative seats.  In a Primary Election for Council Representative seats, the candidates receiving the ten (10) highest number of votes shall proceed to the General Election.</text>
           </para>
           <para>
-            <num>3.</num>
+            <num>(3)</num>
             <text>The results of the Primary Election shall be posted no later than three (3) days after the close of counting ballots.</text>
           </para>
           <para>
-            <num>4.</num>
+            <num>(4)</num>
             <text>A Primary Election shall be held in all election cycles where a Primary Election is required, even if the number of candidates nominated in the Primary Election is less than the number of candidates who will appear on the ballot in the General Election.</text>
           </para>
           <para>
-            <num>5.</num>
+            <num>(5)</num>
             <text>No Primary Election shall be held for Special Elections.</text>
           </para>
           <para>
-            <num>6.</num>
+            <num>(6)</num>
             <text>In a Special Election where there is only one vacancy and there is only one (1) candidate, an election shall be held regardless.</text>
           </para>
         </para>
@@ -213,20 +213,20 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.4</num>
+      <num>5.1.4</num>
       <heading>NOMINATIONS</heading>
       <section>
-        <num>1.4.1</num>
+        <num>5.1.4.010</num>
         <heading>Nominations.</heading>
         <para>
           <num>(a)</num>
           <heading>Self-Nomination.</heading>
           <para>
-            <num>1.</num>
+            <num>(1)</num>
             <text>Any qualified member of the Pueblo may submit his or her name in writing to the Election Commission as a candidate for elective office, along with a non-refundable fee of $25.</text>
           </para>
           <para>
-            <num>2.</num>
+            <num>(2)</num>
             <text>The Election Commission shall prepare and make publically available a Candidate Nomination form which shall include a release permitting the Election Commission to conduct a criminal background check on each candidate as required by the Agreement.   The Election Commission shall use its best efforts to conduct candidate criminal background checks in a timely manner.  The Election Commission shall conduct all criminal background checks in accordance with Section 2 (d) of the Agreement which states:</text>
             <include proof="true">
               <text>
@@ -239,15 +239,15 @@
           <num>(b)</num>
           <heading>Nomination Period.</heading>
           <para>
-            <num>1.</num>
+            <num>(1)</num>
             <text>Nominations of persons seeking elective office shall be accepted by the Election Commission beginning September 1<sup>st</sup> each year.  Nominations for elective office shall be closed on September 15<sup>th</sup> of each year.</text>
           </para>
           <para>
-            <num>2.</num>
+            <num>(2)</num>
             <text>The Election Commission shall establish and post the dates and deadlines for acceptance of nominations of persons seeking elective office in Special Elections to fill vacancies.</text>
           </para>
           <para>
-            <num>3.</num>
+            <num>(3)</num>
             <text>The Election Commission shall publicly post the dates and deadlines for acceptance of nominations of persons seeking elective office for the First Election.</text>
           </para>
         </para>
@@ -255,15 +255,15 @@
           <num>(c)</num>
           <heading>Candidate List.</heading>
           <para>
-            <num>1.</num>
+            <num>(1)</num>
             <text>The Election Commission shall prepare and post a preliminary list of candidates within three (3) days of the closing of the nomination period.</text>
           </para>
           <para>
-            <num>2.</num>
+            <num>(2)</num>
             <text>From the date of the posting of the preliminary list of candidates through September 30<sup>th</sup>, the Election Commission shall accept any written challenges to the qualifications of any candidate or candidates on the preliminary list of candidates.  The Election Commission shall make written determinations on any such candidate challenges no later than October 10<sup>th</sup> of each year.  The Election Commission shall post the final list of candidates no later than October 15<sup>th</sup> of each year.</text>
           </para>
           <para>
-            <num>3.</num>
+            <num>(3)</num>
             <text>In the First Election, upon the close of the nomination period, the Election Commission shall prepare and post a final list of candidates and a final list of voters for the First Election.</text>
           </para>
         </para>
@@ -271,10 +271,10 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.5</num>
+      <num>5.1.5</num>
       <heading>CANDIDATE QUALIFICATIONS</heading>
       <section>
-        <num>1.5.1</num>
+        <num>5.1.5.010</num>
         <heading>Qualifications.</heading>
         <para>
           <num>(a)</num>
@@ -304,10 +304,10 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.6</num>
+      <num>5.1.6</num>
       <heading>VOTING</heading>
       <section>
-        <num>1.6.1</num>
+        <num>5.1.6.010</num>
         <heading>Voting Age.</heading>
         <para>
           <num>(a)</num>
@@ -327,7 +327,7 @@
         </para>
       </section>
       <section>
-        <num>1.6.2</num>
+        <num>5.1.6.020</num>
         <heading>Voters List.</heading>
         <para>
           <num>(a)</num>
@@ -341,10 +341,10 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.7</num>
+      <num>5.1.7</num>
       <heading>BALLOTS</heading>
       <section>
-        <num>1.7.1</num>
+        <num>5.1.7.010</num>
         <heading>Ballots.</heading>
         <para>
           <num>(a)</num>
@@ -366,10 +366,10 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.8</num>
+      <num>5.1.8</num>
       <heading>NOTICE OF ELECTIONS</heading>
       <section>
-        <num>1.8.1</num>
+        <num>5.1.8.010</num>
         <heading>Notice of Election.</heading>
         <para>
           <num>(a)</num>
@@ -387,30 +387,30 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.9</num>
+      <num>5.1.9</num>
       <heading>ELECTION PROCEDURES</heading>
       <section>
-        <num>1.9.1</num>
+        <num>5.1.9.010</num>
         <heading>Polling Place.</heading>
         <text>There shall be one (1) polling place located at the Pueblo.</text>
       </section>
       <section>
-        <num>1.9.2</num>
+        <num>5.1.9.020</num>
         <heading>Hours of Voting.</heading>
         <text>The polls shall be open at the polling place from 7:00 a.m. to 7:00 p.m. Voters in line at the polling place but unable to cast their ballots before 7:00 p.m. shall be allowed to finish voting.</text>
       </section>
       <section>
-        <num>1.9.3</num>
+        <num>5.1.9.030</num>
         <heading>Fifty (50) Foot Limit.</heading>
         <text>No persons except members of the Election Commission shall be allowed to remain within fifty (50) feet of a polling place, except while actually voting.</text>
       </section>
       <section>
-        <num>1.9.4</num>
+        <num>5.1.9.040</num>
         <heading>Maintaining Peace at Polling Place.</heading>
         <text>The Election Commission or Bailiff shall keep the peace and protect the voting place by preventing disturbances at the polling place and interference with persons desiring to vote.  This includes the authority to remove unruly or uncooperative persons from the polling place or from within the fifty (50) foot limit.</text>
       </section>
       <section>
-        <num>1.9.5</num>
+        <num>5.1.9.050</num>
         <heading>Method of Voting.</heading>
         <para>
           <num>(a)</num>
@@ -426,7 +426,7 @@
         </para>
       </section>
       <section>
-        <num>1.9.6</num>
+        <num>5.1.9.060</num>
         <heading>Counting the Ballots.</heading>
         <para>
           <num>(a)</num>
@@ -442,42 +442,42 @@
         </para>
       </section>
       <section>
-        <num>1.9.7</num>
+        <num>5.1.9.070</num>
         <heading>Tie Votes.</heading>
         <text>A tie vote for candidates in any Election shall be decided by a game of chance administered by the Election Commission.</text>
       </section>
       <section>
-        <num>1.9.8</num>
+        <num>5.1.9.080</num>
         <heading>Spoiled Ballots.</heading>
         <text>If a voter spoils a ballot and obtains another ballot, the spoiled ballot shall be marked "SPOILED".  Each member of the Election Commission shall sign his or her name below this marking and the spoiled ballot shall be secured by the Election Commission.  All spoiled ballots shall be placed in the ballot box at the end of the tallying.</text>
       </section>
       <section>
-        <num>1.9.9</num>
+        <num>5.1.9.090</num>
         <heading>Unused Ballots.</heading>
         <text>Ballots unused at the end of the voting shall be marked "UNUSED" and shall be placed in the ballot box at the end of the tallying.</text>
       </section>
       <section>
-        <num>1.9.10</num>
+        <num>5.1.9.100</num>
         <heading>Rejected Ballots.</heading>
         <text>If, during the tallying of the votes, the Election Commission is unable to determine from the ballot the choice of the voter, the ballot shall be rejected.  All rejected ballots shall be placed in the ballot box at the end of the tallying.</text>
       </section>
       <section>
-        <num>1.9.11</num>
+        <num>5.1.9.110</num>
         <heading>Recounts.</heading>
         <text>Any Candidate for elective office shall have the right to request a recount of the election results within three (3) days of the election.  Upon receipt of a request for a recount, the Election Commission shall promptly conduct a recount and shall post the results of such recount.</text>
       </section>
       <section>
-        <num>1.9.2</num>
+        <num>5.1.9.120</num>
         <heading>Other Matters Decided by the Election Commission.</heading>
         <text>The Election Commission shall control all aspects of elections conducted by the Pueblo regardless of any Federal or State laws.  Any other election matters not specifically addressed in this law shall be decided by the Election Commission.  The decision of the Election Commission shall be final.</text>
       </section>
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.10</num>
+      <num>5.1.10</num>
       <heading>CHALLENGES TO THE ELECTION RESULTS</heading>
       <section>
-        <num>1.10.1</num>
+        <num>5.1.10.010</num>
         <heading>Election Results Challenge Process.</heading>
         <para>
           <num>(a)</num>
@@ -495,10 +495,10 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.11</num>
+      <num>5.1.11</num>
       <heading>RECALL ELECTIONS</heading>
       <section>
-        <num>1.11.1</num>
+        <num>5.1.11.010</num>
         <heading>Recall Elections.</heading>
         <para>
           <num>(a)</num>
@@ -534,10 +534,10 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.12</num>
+      <num>5.1.12</num>
       <heading>REFERENDUM ELECTIONS</heading>
       <section>
-        <num>1.12.1</num>
+        <num>5.1.12.010</num>
         <heading>Referendum Election Process.</heading>
         <para>
           <num>(a)</num>
@@ -572,25 +572,25 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.13</num>
+      <num>5.1.13</num>
       <heading>OATH OF OFFICE</heading>
       <section>
-        <num>1.13.1</num>
+        <num>5.1.13.010</num>
         <heading>Oath of Office.</heading>
         <text>After the Election Commission has certified the results of the election and the winners are announced, and any challenges are finally decided, a Justice or Judge shall administer the oath of office without delay.</text>
       </section>
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>1.14</num>
+      <num>5.1.14</num>
       <heading>AMENDMENT AND SEVERABILITY</heading>
       <section>
-        <num>1.14.1</num>
+        <num>5.1.14.010</num>
         <heading>Amendment.</heading>
         <text>The Council may amend this law upon a majority vote of the Council in accordance with the requirements of the Agreement for making laws.  The Election Commission may submit to the Council suggested amendments to the law as deemed necessary.</text>
       </section>
       <section>
-        <num>1.15.1</num>
+        <num>5.1.14.020</num>
         <heading>Severability.</heading>
         <text>The provisions of this law are severable and if any part or provision shall be held void by any court of competent jurisdiction, the decision of the court so holding shall not affect or impair any of the remaining parts or provisions of this law.</text>
       </section>
