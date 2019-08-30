@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Res. No. SI-R18-007">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R18-007">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R18-007</heading>
-  <law-heading>SUBMITTAL FOR 23 U.S.C 202 TRIBAL TRANSPORTATION PLANNING (6K1) AND THE TRIBAL TRANSPORTATION PROGRAM (TTP) (66K) FUNDING</law-heading>
+  <heading type="law">SUBMITTAL FOR 23 U.S.C 202 TRIBAL TRANSPORTATION PLANNING (6K1) AND THE TRIBAL TRANSPORTATION PROGRAM (TTP) (66K) FUNDING</heading>
   <meta>
-    <citation type="res">Res. No. SI-R18-007</citation>
+    <effective> </effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R18-007</citation>
+    </citations>
     <history>
-      <adopted>May 22nd, 2018</adopted>
+      <adopted>2018-05-22</adopted>
     </history>
   </meta>
-  <resolution-preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
-     22nd         day of   May     , 2018, the following Resolution was adopted:</resolution-preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
+     22nd         day of   May     , 2018, the following Resolution was adopted:</preamble>
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -250,60 +253,46 @@
   </procedural-data>
   <attachment id="law">
     <text>PUEBLO DE SAN ILDEFONSO</text>
-    <text>SUBMITTAL FOR 23 U.S.C. 202 TRIBAL TRANSPORTATION PLANNING (66K) AND THE TRIBAL TRANSPORTATION PROGRAM (TTP)(6K1)</text>
-    <text>
-      <center>
-        <strong>
-          <u>Attachments</u>
-        </strong>
-      </center>
+    <heading>SUBMITTAL FOR 23 U.S.C. 202 TRIBAL TRANSPORTATION PLANNING (66K) AND THE TRIBAL TRANSPORTATION PROGRAM (TTP)(6K1)</heading>
+    <text class="center">
+      <strong>
+        <u>Attachments</u>
+      </strong>
     </text>
     <para>
       <num>1.</num>
-      <text>
-        <center>
-          <strong>PROJECTED – 2018-2022 CONTROL SCHEDULE</strong>
-        </center>
+      <text class="center">
+        <strong>PROJECTED – 2018-2022 CONTROL SCHEDULE</strong>
       </text>
     </para>
     <para>
       <num>2.</num>
-      <text>
-        <center>
-          <strong>SOW &amp; Budget – FY2018 Transportation Planning Contract</strong>
-        </center>
+      <text class="center">
+        <strong>SOW &amp; Budget – FY2018 Transportation Planning Contract</strong>
       </text>
     </para>
     <para>
       <num>3.</num>
-      <text>
-        <center>
-          <strong>SOW &amp; Budget – FY2018 Road Maintenance Program</strong>
-        </center>
+      <text class="center">
+        <strong>SOW &amp; Budget – FY2018 Road Maintenance Program</strong>
       </text>
     </para>
     <para>
       <num>4.</num>
-      <text>
-        <center>
-          <strong>SOW &amp; Budget – FY2018 NP 421 Hay Gan Po</strong>
-        </center>
+      <text class="center">
+        <strong>SOW &amp; Budget – FY2018 NP 421 Hay Gan Po</strong>
       </text>
     </para>
     <para>
       <num>5.</num>
-      <text>
-        <center>
-          <strong>SOW &amp; Budget- FY2018 NP 403 Tunyo Po</strong>
-        </center>
+      <text class="center">
+        <strong>SOW &amp; Budget- FY2018 NP 403 Tunyo Po</strong>
       </text>
     </para>
     <para>
       <num>6.</num>
-      <text>
-        <center>
-          <strong>SOW &amp; Budget FY2018 NP 404 Tunyo Loop</strong>
-        </center>
+      <text class="center">
+        <strong>SOW &amp; Budget FY2018 NP 404 Tunyo Loop</strong>
       </text>
     </para>
   </attachment>

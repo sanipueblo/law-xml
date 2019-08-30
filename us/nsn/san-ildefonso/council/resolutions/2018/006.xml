@@ -1,14 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Res. No. SI-R18-006">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R18-006">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R18-006</heading>
-  <law-heading>APPROVING AND AUTHORIZING THE BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC FOR THE WHITE ROCK CONVENIENCE STORE</law-heading>
+  <heading type="law">APPROVING AND AUTHORIZING THE BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC FOR THE WHITE ROCK CONVENIENCE STORE</heading>
   <meta>
-    <citation type="res">Res. No. SI-R18-006</citation>
+    <effective> </effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R18-006</citation>
+    </citations>
     <history>
-      <adopted>May 9th, 2018</adopted>
+      <adopted>2018-05-09</adopted>
     </history>
   </meta>
-  <resolution-preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the                                                                               9th day of       May     , 2018, the following Resolution was adopted:</resolution-preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the                                                                               9th day of       May     , 2018, the following Resolution was adopted:</preamble>
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -225,7 +228,7 @@
   </procedural-data>
   <attachment id="law">
     <text>PUEBLO DE SAN ILDEFONSO</text>
-    <text>APPROVING AND AUTHORIZING THE BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC FOR THE WHITE ROCK CONVENIENCE STORE</text>
+    <heading>APPROVING AND AUTHORIZING THE BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC FOR THE WHITE ROCK CONVENIENCE STORE</heading>
     <section>
       <num>1.1</num>
       <heading>Short Title</heading>

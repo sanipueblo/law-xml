@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Res. No. SI-R18-025">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R18-025">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R18-025</heading>
-  <law-heading>ELDER ABUSE PREVENTION ACT</law-heading>
+  <heading type="law">ELDER ABUSE PREVENTION ACT</heading>
   <meta>
-    <citation type="res">Res. No. SI-R18-025</citation>
+    <effective> </effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R18-025</citation>
+    </citations>
     <history>
-      <adopted>November 19th, 2018</adopted>
+      <adopted>2018-11-19</adopted>
     </history>
   </meta>
-  <resolution-preamble>At a duly called meeting of the Tribal Council of San Ildefonso Pueblo on the 
-  19th       day of      November        , 2018, the following Resolution was adopted:</resolution-preamble>
+  <preamble>At a duly called meeting of the Tribal Council of San Ildefonso Pueblo on the 
+  19th       day of      November        , 2018, the following Resolution was adopted:</preamble>
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -211,11 +214,9 @@
   </procedural-data>
   <attachment id="law">
     <text>PUEBLO DE SAN ILDEFONSO</text>
-    <text>ELDER ABUSE PREVENTION ACT</text>
-    <text>
-      <center>
-        <strong>ELDER ABUSE PREVENTION ACT</strong>
-      </center>
+    <heading>ELDER ABUSE PREVENTION ACT</heading>
+    <text class="center">
+      <strong>ELDER ABUSE PREVENTION ACT</strong>
     </text>
     <para>
       <num>1.</num>
@@ -332,10 +333,10 @@
         <num>A.</num>
         <text>Anyone arrested under this Act shall be held without bond until arraignment except for non-Indians. If the Defendant is a non-Indian, then the Court shall issue a temporary     order of exclusion from the Pueblo pending a final disposition of the matter; provided, that after the Defendant is afforded notice, a hearing, and an opportunity to present witnesses and other evidence in his or her defense, if the Court finds that the Defendant has violated this Act, then the Court shall issue a mandatory order of exclusion from the Pueblo for a term of no less than five years or for a longer term as determined by the Court.</text>
       </para>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>When the Defendant is arraigned, if the Defendant enters a plea other than guilty, an advocate for the Elder may assist the Elder with the preparation of a request for an Order of Protection to temporarily exclude the Defendant from the home and/or other locations and restraining the Defendant from any contact with the Elder.  If the Defendant pleads guilty, the Court shall order a pre-sentence investigation to be completed, and the Elder may, either personally, through an attorney, or through the Adult Care Services Worker, communicate his/her concerns to the Court.</text>
+      <para>
+        <num>B.</num>
+        <text>When the Defendant is arraigned, if the Defendant enters a plea other than guilty, an advocate for the Elder may assist the Elder with the preparation of a request for an Order of Protection to temporarily exclude the Defendant from the home and/or other locations and restraining the Defendant from any contact with the Elder.  If the Defendant pleads guilty, the Court shall order a pre-sentence investigation to be completed, and the Elder may, either personally, through an attorney, or through the Adult Care Services Worker, communicate his/her concerns to the Court.</text>
+      </para>
     </para>
     <para>
       <num>5.</num>
@@ -415,18 +416,18 @@
         <num>A.</num>
         <text>Restrain the Defendant from committing acts of Elder Abuse.</text>
       </para>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Exclude the Defendant from the dwelling which the parties share or from the residence of the Elder.</text>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>Award temporary use and possession of an Elder's property to a Caretaker and to restrain any other party from transferring, encumbering, concealing, or disposing of such property except in the usual course of business or for the necessities of life, and to order an accounting for all such transfers, encumbrances, dispositions, and expenditures.</text>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Order, at its discretion, other relief as it deems necessary for the protection of an Elder including ordering or directing an Officer or other official to take certain actions.</text>
+      <para>
+        <num>B.</num>
+        <text>Exclude the Defendant from the dwelling which the parties share or from the residence of the Elder.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Award temporary use and possession of an Elder's property to a Caretaker and to restrain any other party from transferring, encumbering, concealing, or disposing of such property except in the usual course of business or for the necessities of life, and to order an accounting for all such transfers, encumbrances, dispositions, and expenditures.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Order, at its discretion, other relief as it deems necessary for the protection of an Elder including ordering or directing an Officer or other official to take certain actions.</text>
+      </para>
     </para>
   </attachment>
 </document>

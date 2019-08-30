@@ -1080,7 +1080,8 @@
         <include proof="true">
           <para>
             <num>2.1</num>
-            <text><em>Management by Managers.</em> This LLC will be managed by a Board of Managers selected by the Member's Representatives, in accordance with the Articles of Organization. The Board of Managers shall select the LLC's program development manager and other employees not based at Los Alamos National Laboratory. The LLC Board of Managers selected by the Member's Representatives are:</text>
+            <heading>Management by Managers.</heading>
+            <text>This LLC will be managed by a Board of Managers selected by the Member's Representatives, in accordance with the Articles of Organization. The Board of Managers shall select the LLC's program development manager and other employees not based at Los Alamos National Laboratory. The LLC Board of Managers selected by the Member's Representatives are:</text>
             <text>Names:</text>
             <text>
               <ul proof="needed">

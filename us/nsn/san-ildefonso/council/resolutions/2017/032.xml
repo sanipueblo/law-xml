@@ -1,14 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Res. No. SI-R17-032">
+<document codify:doc="Pueblo de San Ildefonso Code" codify:path="24.2" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-032">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-032</heading>
-  <law-heading>ACT AUTHORIZING SIGNATURE OF RIGHT-OF-WAY AGREEMENT WITH DOE/NNSA FOR THE NORTON ELECTRIC TRANSMISSION LINE</law-heading>
+  <heading type="law">ACT AUTHORIZING SIGNATURE OF RIGHT-OF-WAY AGREEMENT WITH DOE/NNSA FOR THE NORTON ELECTRIC TRANSMISSION LINE</heading>
   <meta>
-    <citation type="res">Res. No. SI-R17-032</citation>
+    <effective>2017-10-06</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R17-032</citation>
+    </citations>
     <history>
-      <adopted>October 6th, 2017</adopted>
+      <adopted>2017-10-06</adopted>
     </history>
   </meta>
-  <resolution-preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the                                                              6th   day of       October     , 2017, the following Resolution was adopted:</resolution-preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the                                                              6th   day of       October     , 2017, the following Resolution was adopted:</preamble>
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -154,21 +157,32 @@
     <text>On this __________ day of ________________________, 2017.</text>
     <text>James R. Mountain, Governor</text>
   </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.2.7</num>
+      <heading>Act Authorizing Signature of Right-of-Way Agreement with DOE/NNSA for the Norton Electric Transmission Line</heading>
+    </container>
+  </codify:insert>
   <attachment id="law">
+    <codified:at path="24.2.7"/>
     <text>PUEBLO DE SAN ILDEFONSO</text>
-    <text>ACT AUTHORIZING SIGNATURE OF RIGHT-OF-WAY AGREEMENT WITH DOE/NNSA FOR THE NORTON ELECTRIC TRANSMISSION LINE</text>
+    <heading>ACT AUTHORIZING SIGNATURE OF RIGHT-OF-WAY AGREEMENT WITH DOE/NNSA FOR THE NORTON ELECTRIC TRANSMISSION LINE</heading>
     <section>
+      <codify:insert num-value="24.2.7.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "ACT AUTHORIZING SIGNATURE OF RIGHT-OF-WAY AGREEMENT WITH DOE/NNSA FOR THE NORTON ELECTRIC TRANSMISSION LINE ("Act")."</text>
     </section>
     <section>
+      <codify:insert num-value="24.2.7.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the signature of the Right-of-Way Agreement with the Department of Energy/National Nuclear Security Administration ("DOE/NNSA") for a new right-of-way for that portion of the Norton Electric Transmission Line within the Pueblo lands.  The current Grant of Easement for Right-of-Way to DOE/NNSA will expire on July 31, 2018.</text>
     </section>
     <section>
       <num>1.3</num>
+      <codify:insert num-value="24.2.7.030"/>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
       <para>
@@ -201,6 +215,7 @@
       </para>
     </section>
     <section>
+      <codify:insert num-value="24.2.7.040"/>
       <num>1.4</num>
       <heading>Authorizations</heading>
       <para>

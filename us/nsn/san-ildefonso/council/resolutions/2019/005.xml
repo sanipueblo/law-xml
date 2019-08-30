@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Res. No. SI-R19-005">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R19-005">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R19-005</heading>
-  <law-heading>CONFIRMING DELEGATION OF AUTHORITY TO THE NORTHERN PUEBLOS HOUSING AUTHORITY TO APPLY FOR BUREAU OF INDIAN AFFAIRS, DEPARTMENT OF INTERIOR OFFICE OF INDIAN ENERGY AND ECONOMIC DEVELOPMENT, ENERGY AND MINERAL DEVELOPMENT GRANT TO CONDUCT A SOLAR ENERGY FEASIBILITY ASSESSMENT</law-heading>
+  <heading type="law">CONFIRMING DELEGATION OF AUTHORITY TO THE NORTHERN PUEBLOS HOUSING AUTHORITY TO APPLY FOR BUREAU OF INDIAN AFFAIRS, DEPARTMENT OF INTERIOR OFFICE OF INDIAN ENERGY AND ECONOMIC DEVELOPMENT, ENERGY AND MINERAL DEVELOPMENT GRANT TO CONDUCT A SOLAR ENERGY FEASIBILITY ASSESSMENT</heading>
   <meta>
-    <citation type="res">Res. No. SI-R19-005</citation>
+    <effective> </effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R19-005</citation>
+    </citations>
     <history>
-      <adopted>February 12th, 2019</adopted>
+      <adopted>2019-02-12</adopted>
     </history>
   </meta>
-  <resolution-preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
-     12th           day of    February     , 2019, the following Resolution was adopted:</resolution-preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
+     12th           day of    February     , 2019, the following Resolution was adopted:</preamble>
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -263,7 +266,7 @@
   </procedural-data>
   <attachment id="law">
     <text>PUEBLO DE SAN ILDEFONSO</text>
-    <text>CONFIRMING DELEGATION OF AUTHORITY TO THE NORTHERN PUEBLOS HOUSING AUTHORITY TO APPLY FOR BUREAU OF INDIAN AFFAIRS, DEPARTMENT OF INTERIOR OFFICE OF INDIAN ENERGY AND ECONOMIC DEVELOPMENT, ENERGY AND MINERAL DEVELOPMENT GRANT TO CONDUCT A SOLAR ENERGY FEASIBILITY ASSESSMENT</text>
+    <heading>CONFIRMING DELEGATION OF AUTHORITY TO THE NORTHERN PUEBLOS HOUSING AUTHORITY TO APPLY FOR BUREAU OF INDIAN AFFAIRS, DEPARTMENT OF INTERIOR OFFICE OF INDIAN ENERGY AND ECONOMIC DEVELOPMENT, ENERGY AND MINERAL DEVELOPMENT GRANT TO CONDUCT A SOLAR ENERGY FEASIBILITY ASSESSMENT</heading>
     <section>
       <num>1.1</num>
       <heading>Short Title</heading>

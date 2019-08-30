@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Res. No. SI-R17-016">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-016">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-016</heading>
-  <law-heading>AUTHORIZATION FOR FISCAL YEAR 2016-2017                          BUDGET MODIFICATION NO. 2</law-heading>
+  <heading type="law">AUTHORIZATION FOR FISCAL YEAR 2016-2017                          BUDGET MODIFICATION NO. 2</heading>
   <meta>
-    <citation type="res">Res. No. SI-R17-016</citation>
+    <effective> </effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R17-016</citation>
+    </citations>
     <history>
-      <adopted>June 21st, 2017</adopted>
+      <adopted>2017-06-21</adopted>
     </history>
   </meta>
-  <resolution-preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
-    21st     day of     June    , 2017, the following Resolution was adopted:</resolution-preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
+    21st     day of     June    , 2017, the following Resolution was adopted:</preamble>
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -295,7 +298,7 @@
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
   <attachment id="law">
-    <text>AUTHORIZATION FOR FISCAL YEAR 2016-2017 BUDGET MODIFICATION NO. 2</text>
+    <heading>AUTHORIZATION FOR FISCAL YEAR 2016-2017 BUDGET MODIFICATION NO. 2</heading>
     <para>
       <num>1.</num>
       <text>The current FY 2016-2017 Annual Budget, prior to this enactment, is                         as follows:</text>
@@ -420,10 +423,8 @@
         <num>(q)</num>
         <heading>IDC Information Technology (20-xxxx-200-806-17):</heading>
         <text>Decrease budget by $4,000.</text>
-        <text>
-          <center>
-            <em>*Modification Approval Sheets (packets) for each program are attached.</em>
-          </center>
+        <text class="center">
+          <em>*Modification Approval Sheets (packets) for each program are attached.</em>
         </text>
       </para>
     </para>

@@ -1,14 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Res. No. SI-R17-029">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-029">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-029</heading>
-  <law-heading>AUTHORIZING SUBMITTAL OF THE FY 2017-2019 JOHNSON O'MALLEY CONTRACT APPLICATION</law-heading>
+  <heading type="law">AUTHORIZING SUBMITTAL OF THE FY 2017-2019 JOHNSON O'MALLEY CONTRACT APPLICATION</heading>
   <meta>
-    <citation type="res">Res. No. SI-R17-029</citation>
+    <effective> </effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R17-029</citation>
+    </citations>
     <history>
-      <adopted>September 20th, 2017</adopted>
+      <adopted>2017-09-20</adopted>
     </history>
   </meta>
-  <resolution-preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the                                                          20th   day of       September	, 2017, the following Resolution was adopted:</resolution-preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the                                                          20th   day of       September	, 2017, the following Resolution was adopted:</preamble>
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>

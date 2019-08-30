@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Res. No. SI-R17-021">
+<document codify:doc="Pueblo de San Ildefonso Code" codify:path="2.3" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-021">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-021</heading>
-  <law-heading>ACT CONFIRMING THE PUEBLO DE SAN ILDEFONSO IS NOT A PARTY NECESSARY TO THE LAWSUIT BETWEEN JEMEZ PUEBLO AND THE U.S. REGARDING JEMEZ PUEBLO'S ABORIGINAL TITLE IN THE VALLES CALDERA</law-heading>
+  <heading type="law">ACT CONFIRMING THE PUEBLO DE SAN ILDEFONSO IS NOT A PARTY NECESSARY TO THE LAWSUIT BETWEEN JEMEZ PUEBLO AND THE U.S. REGARDING JEMEZ PUEBLO'S ABORIGINAL TITLE IN THE VALLES CALDERA</heading>
   <meta>
-    <citation type="res">Res. No. SI-R17-021</citation>
+    <effective>2017-07-07</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R17-021</citation>
+    </citations>
     <history>
-      <adopted>July 7th, 2017</adopted>
+      <adopted>2017-07-07</adopted>
     </history>
   </meta>
-  <resolution-preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
-      7th        day of      July       , 2017, the following Resolution was adopted:</resolution-preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
+      7th        day of      July       , 2017, the following Resolution was adopted:</preamble>
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -212,20 +215,31 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2017, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.3.8</num>
+      <heading>Act Confirming the Pueblo de San Ildefonso Is Not a Party Necessary to the Lawsuit Between Jemez Pueblo and the U.S. Regarding Jemez Pueblo's Aboriginal Title in the Valles Caldera</heading>
+    </container>
+  </codify:insert>
   <attachment id="law">
+    <codified:at path="2.3.8"/>
     <text>PUEBLO DE SAN ILDEFONSO</text>
-    <text>ACT CONFIRMING THE PUEBLO DE SAN LDEFONSO IS NOT A PARTY NECESSARY TO THE LAWSUIT BETWEEN JEMEZ PUEBLO AND THE U.S. REGARDING JEMEZ PUEBLO'S ABORIGINAL TITLE IN THE VALLES CALDERA</text>
+    <heading>ACT CONFIRMING THE PUEBLO DE SAN LDEFONSO IS NOT A PARTY NECESSARY TO THE LAWSUIT BETWEEN JEMEZ PUEBLO AND THE U.S. REGARDING JEMEZ PUEBLO'S ABORIGINAL TITLE IN THE VALLES CALDERA</heading>
     <section>
+      <codify:insert num-value="2.3.8.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "ACT CONFIRMING THE PUEBLO DE SAN ILDEFONSO IS NOT A PARTY NECESSARY TO THE LAWSUIT BETWEEN JEMEZ PUEBLO AND THE U.S. REGARDING JEMEZ PUEBLO'S ABORIGINAL TITLE IN THE VALLES CALDERA ("Act")."</text>
     </section>
     <section>
+      <codify:insert num-value="2.3.8.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to confirm that the Pueblo de San Ildefonso does not need to be a party in the lawsuit between the Pueblo of Jemez and the United States regarding the Jemez Pueblo's aboriginal title in the Valles Caldera and that the lawsuit can proceed without San Ildefonso Pueblo's participation.</text>
     </section>
     <section>
+      <codify:insert num-value="2.3.8.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -295,11 +309,11 @@
       </para>
       <para>
         <num>(q)</num>
-        <text>A judgment entered in the absence of the Pueblo de San Ildefonso would be adequate as the Pueblo has an adequate remedy based on the agreements heretofore reached</text>
-        <text>with the Pueblo of Jemez, and the Pueblo of Jemez has by resolution formally recognized its duty to honor those agreements with the Pueblo through traditional methods with the Pueblo of Jemez.</text>
+        <text>A judgment entered in the absence of the Pueblo de San Ildefonso would be adequate as the Pueblo has an adequate remedy based on the agreements heretofore reached with the Pueblo of Jemez, and the Pueblo of Jemez has by resolution formally recognized its duty to honor those agreements with the Pueblo through traditional methods with the Pueblo of Jemez.</text>
       </para>
     </section>
     <section>
+      <codify:insert num-value="2.3.8.040"/>
       <num>1.4</num>
       <heading>Authorization</heading>
       <para>

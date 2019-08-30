@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Res. No. SI-R17-039">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-039">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-039</heading>
-  <law-heading>AUTHORIZING THE PUEBLO DE SAN ILDEFONSO TO DIRECT THE DEPARTMENT OF INTERIOR, OFFICE OF THE SPECIAL TRUSTEE, TO INVEST FUNDS ALLOCATED BY THE AAMODT SETTLEMENT ACT</law-heading>
+  <heading type="law">AUTHORIZING THE PUEBLO DE SAN ILDEFONSO TO DIRECT THE DEPARTMENT OF INTERIOR, OFFICE OF THE SPECIAL TRUSTEE, TO INVEST FUNDS ALLOCATED BY THE AAMODT SETTLEMENT ACT</heading>
   <meta>
-    <citation type="res">Res. No. SI-R17-039</citation>
+    <effective> </effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R17-039</citation>
+    </citations>
     <history>
-      <adopted>December 28th, 2017</adopted>
+      <adopted>2017-12-28</adopted>
     </history>
   </meta>
-  <resolution-preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
-      28th      day of       December      , 2017, the following Resolution was adopted:</resolution-preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
+      28th      day of       December      , 2017, the following Resolution was adopted:</preamble>
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>

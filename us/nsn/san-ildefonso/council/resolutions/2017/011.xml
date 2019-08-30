@@ -1,23 +1,50 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Res. No. SI-R17-011">
+<document codify:doc="Pueblo de San Ildefonso Code" codify:path="6.3" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-011">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-011</heading>
-  <law-heading>NEW FUNDING COUNCIL ADJUSTMENT 3 (NF-3) TO THE FISCAL YEAR 2016-2017 ANNUAL BUDGET</law-heading>
+  <heading type="law">NEW FUNDING COUNCIL ADJUSTMENT 3 (NF-3) TO THE FISCAL YEAR 2016-2017 ANNUAL BUDGET</heading>
   <meta>
-    <citation type="res">Res. No. SI-R17-011</citation>
+    <effective>2017-05-25</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R17-011</citation>
+    </citations>
     <history>
-      <adopted>May 23rd, 2017</adopted>
+      <adopted>2017-05-23</adopted>
     </history>
   </meta>
-  <resolution-preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
-    23rd      day of     May      , 2017, the following Resolution was adopted:</resolution-preamble>
-  <recitals>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
+    23rd      day of     May      , 2017, the following Resolution was adopted:</preamble>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.3.10</num>
+      <heading>New Funding Council Adjustment 3 (NF-3) To The FY 2016-2017 Annual Budget</heading>
+      <section>
+        <heading>Findings</heading>
+        <num>6.3.10.010</num>
+        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-011"/>
+      </section>
+    </container>
+  </codify:insert>
+  <recitals codify:path="6.3.10.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+      <codify:insert path="6.3.10.010">
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011, pursuant to Federal law; and</text>
+      <codify:insert>
+        <para>
+          <num>(b)</num>
+          <text>The voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011, pursuant to Federal law; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -58,20 +85,18 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo's FY 2016-2017 New Funding 3 (NF-3) is identified per the following:</text>
-      <para>
-        <num>(a)</num>
-        <heading>SRF:</heading>
-        <text>
-          <u>Healthy Kids-Healthy Communities</u>
-        </text>
-        <text>(Fund Code: 20- XXXX-755-742-18	)		<u> $50,000.00</u></text>
-        <text>
-          <strong>Total FY 2016-17 New Funding-3 (NF-3):     		</strong>
-          <strong>
-            <u> $50,000.00</u>
-          </strong>
-        </text>
-      </para>
+      <text>
+        <table>
+          <tr proof="needed">
+            <th>(a) SRF: Healthy Kids-Healthy Communities (Fund Code: 20- XXXX-755-742-18	)</th>
+            <th>$50,000.00</th>
+          </tr>
+          <tr>
+            <th>Total FY 2016-17 New Funding-3 (NF-3):</th>
+            <th>$50,000.00</th>
+          </tr>
+        </table>
+      </text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -112,10 +137,22 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>that the Council hereby approves and authorizes the "New Funding Council Adjustment 3 (NF-3) to the FY 2016-2017 Annual 	Budget" attached hereto and such adjustments shall be effective immediately upon enactment.</text>
+      <codify:insert path="6.3.10">
+        <section>
+          <num>6.3.10.020</num>
+          <text>The Council hereby approves and authorizes the "New Funding Council Adjustment 3 (NF-3) to the FY 2016-2017 Annual 	Budget" attached hereto and such adjustments shall be effective immediately upon enactment.</text>
+        </section>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and 			adopts this resolution in accordance with the requirements of the Agreement, 			according to published Council procedures, and authorizes and directs the 				Governor, or his designee, to take such actions as deemed necessary to carry out 			the intent of this resolution.</text>
+      <codify:insert path="6.3.10">
+        <section>
+          <num>6.3.10.030</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and 			adopts this resolution in accordance with the requirements of the Agreement, 			according to published Council procedures, and authorizes and directs the 				Governor, or his designee, to take such actions as deemed necessary to carry out 			the intent of this resolution.</text>
+        </section>
+      </codify:insert>
     </recital>
   </recitals>
   <procedural-data>
@@ -303,27 +340,27 @@
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
   <attachment id="law">
-    <text>NEW FUNDING COUNCIL ADJUSTMENT 3 (NF-3) TO THE FY 2016-2017 ANNUAL BUDGET</text>
+    <codify:insert path="6.3.10" num-value="6.3.10.040" tag="section"/>
+    <num/>
+    <heading>NEW FUNDING COUNCIL ADJUSTMENT 3 (NF-3) TO THE FY 2016-2017 ANNUAL BUDGET</heading>
     <para>
-      <num>1.</num>
+      <num codify:value="(a)">1.</num>
       <text>The Council hereby approves the New Funding Council Adjustment 3 (NF-3) and adjusts           the Annual Budget for Fiscal Year 2016-2017 by addition of the following:</text>
-      <para>
-        <num>(a)</num>
-        <heading>SRF:</heading>
-        <text>
-          <u>Healthy Kids-Healthy Communities</u>
-        </text>
-        <text>(Fund Code: 20- XXXX-755-742-18	)		<u> $50,000.00</u></text>
-        <text>
-          <strong>Total FY 2016-17 New Funding-3 (NF-3):     		</strong>
-          <strong>
-            <u> $50,000.00</u>
-          </strong>
-        </text>
-      </para>
+      <text>
+        <table>
+          <tr proof="needed">
+            <th>(a) SRF: Healthy Kids-Healthy Communities (Fund Code: 20- XXXX-755-742-18	)</th>
+            <th>$50,000.00</th>
+          </tr>
+          <tr>
+            <th>Total FY 2016-17 New Funding-3 (NF-3):</th>
+            <th>$50,000.00</th>
+          </tr>
+        </table>
+      </text>
     </para>
     <para>
-      <num>2.</num>
+      <num codify:value="(b)">2.</num>
       <text>The Annual Budget for Fiscal Year 2016-2017 is adjusted with new amounts as follows:</text>
       <text>
         <table>
@@ -355,12 +392,10 @@
       </text>
     </para>
     <para>
-      <num>3.</num>
+      <num codify:value="(c)">3.</num>
       <text>The Council hereby approves the identified adjustments (FY 2016-17 NF-3) and enacts the FY 2016-2017 Annual Budget in the new total amount of $12,943,893.29.</text>
-      <text>
-        <center>
-          <em>Grant/Contract Checklist (budget packet) is attached.</em>
-        </center>
+      <text class="center">
+        <em>Grant/Contract Checklist (budget packet) is attached.</em>
       </text>
     </para>
   </attachment>

@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Res. No. SI-R19-009">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R19-009">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R19-009</heading>
-  <law-heading>SAN ILDEFONSO SERVICES, LLC MEMBER'S REPRESENTATIVES COMPENSATION ACT OF 2019</law-heading>
+  <heading type="law">SAN ILDEFONSO SERVICES, LLC MEMBER'S REPRESENTATIVES COMPENSATION ACT OF 2019</heading>
   <meta>
-    <citation type="res">Res. No. SI-R19-009</citation>
+    <effective> </effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R19-009</citation>
+    </citations>
     <history>
-      <adopted>April 11th, 2019</adopted>
+      <adopted>2019-04-11</adopted>
     </history>
   </meta>
-  <resolution-preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
-     11th           day of     April     , 2019, the following Resolution was adopted:</resolution-preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
+     11th           day of     April     , 2019, the following Resolution was adopted:</preamble>
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -227,7 +230,7 @@
   </procedural-data>
   <attachment id="law">
     <text>PUEBLO DE SAN ILDEFONSO</text>
-    <text>SAN ILDEFONSO SERVICES, LLC MEMBER'S REPRESENTATIVES COMPENSATION ACT OF 2019</text>
+    <heading>SAN ILDEFONSO SERVICES, LLC MEMBER'S REPRESENTATIVES COMPENSATION ACT OF 2019</heading>
     <section>
       <num>1.1</num>
       <heading>Short Title</heading>

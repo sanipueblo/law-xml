@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document codify:doc="Pueblo de San Ildefonso Code" codify:path="15.1" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Res. No. SI-R17-009">
+<document codify:doc="Pueblo de San Ildefonso Code" codify:path="15.1" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-009">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-009</heading>
-  <law-heading>CONFIRMING DELEGATION OF AUTHORITY TO THE NORTHERN PUEBLOS HOUSING AUTHORITY TO APPLY FOR 2017 ICDBG FUNDING FOR REHABILITATION OF EXISTING HOMES FOR LOW-INCOME PUEBLO MEMBERS</law-heading>
+  <heading type="law">CONFIRMING DELEGATION OF AUTHORITY TO THE NORTHERN PUEBLOS HOUSING AUTHORITY TO APPLY FOR 2017 ICDBG FUNDING FOR REHABILITATION OF EXISTING HOMES FOR LOW-INCOME PUEBLO MEMBERS</heading>
   <meta>
     <effective>2017-05-11</effective>
     <citations>
-      <citation type="res">Res. No. SI-R17-009</citation>
+      <citation type="res">Council Resolution No. SI-R17-009</citation>
     </citations>
     <history>
-      <adopted>May 6th, 2017</adopted>
+      <adopted>2017-05-06</adopted>
     </history>
   </meta>
-  <resolution-preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
-      6th         day of       May       , 2017, the following Resolution was adopted:</resolution-preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
+      6th         day of       May       , 2017, the following Resolution was adopted:</preamble>
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -292,16 +292,16 @@
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
   <codify:insert>
-  <container>
-  <prefix>Part</prefix>
-  <num>15.1.2</num>
-  <heading>Confirming Delegation of Authority to the Northern Pueblos Housing Authority to Apply for 2017 ICDBG Funding for Rehabilitation of Existing Homes for Low-Income Pueblo Members</heading>
-  </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>15.1.2</num>
+      <heading>Confirming Delegation of Authority to the Northern Pueblos Housing Authority to Apply for 2017 ICDBG Funding for Rehabilitation of Existing Homes for Low-Income Pueblo Members</heading>
+    </container>
   </codify:insert>
   <attachment id="law">
     <codified:at path="15.1.2"/>
     <text>PUEBLO DE SAN ILDEFONSO</text>
-    <text>CONFIRMING DELEGATION OF AUTHORITY TO THE NORTHERN PUEBLOS HOUSING AUTHORITY TO APPLY FOR 2017 ICDBG FUNDING FOR REHABILITATION OF EXISTING HOMES FOR LOW- INCOME PUEBLO MEMBERS</text>
+    <heading>CONFIRMING DELEGATION OF AUTHORITY TO THE NORTHERN PUEBLOS HOUSING AUTHORITY TO APPLY FOR 2017 ICDBG FUNDING FOR REHABILITATION OF EXISTING HOMES FOR LOW- INCOME PUEBLO MEMBERS</heading>
     <section>
       <codify:insert num-value="15.1.2.010"/>
       <num>1.1</num>
@@ -333,8 +333,8 @@
       </para>
     </section>
     <section>
-      <num>1.4</num>
       <codify:insert num-value="15.1.2.040"/>
+      <num>1.4</num>
       <heading>Certifications</heading>
       <text>The Council hereby certifies that:</text>
       <para>

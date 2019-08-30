@@ -1,14 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Res. No. SI-R17-036">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-036">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-036</heading>
-  <law-heading>SUPPORTING A STRONG 2018 FARM BILL FOR INDIAN COUNTRY</law-heading>
+  <heading type="law">SUPPORTING A STRONG 2018 FARM BILL FOR INDIAN COUNTRY</heading>
   <meta>
-    <citation type="res">Res. No. SI-R17-036</citation>
+    <effective> </effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R17-036</citation>
+    </citations>
     <history>
-      <adopted>October 31st, 2017</adopted>
+      <adopted>2017-10-31</adopted>
     </history>
   </meta>
-  <resolution-preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the                                                              31st   day of       October     , 2017, the following Resolution was adopted:</resolution-preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the                                                              31st   day of       October     , 2017, the following Resolution was adopted:</preamble>
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>

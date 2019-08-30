@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Res. No. SI-R18-001">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R18-001">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R18-001</heading>
-  <law-heading>AUTHORIZATION FOR FISCAL YEAR 2017-2018                          BUDGET MODIFICATION NO. 1</law-heading>
+  <heading type="law">AUTHORIZATION FOR FISCAL YEAR 2017-2018                          BUDGET MODIFICATION NO. 1</heading>
   <meta>
-    <citation type="res">Res. No. SI-R18-001</citation>
+    <effective> </effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R18-001</citation>
+    </citations>
     <history>
-      <adopted>January 11th, 2018</adopted>
+      <adopted>2018-01-11</adopted>
     </history>
   </meta>
-  <resolution-preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
-   11th      day of     January    , 2018, the following Resolution was adopted:</resolution-preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
+   11th      day of     January    , 2018, the following Resolution was adopted:</preamble>
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -321,11 +324,9 @@
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
   <attachment id="law">
-    <text>AUTHORIZATION FOR</text>
-    <text>
-      <center>
-        <strong>FISCAL YEAR 2017-2018 BUDGET MODIFICATION NO. 1</strong>
-      </center>
+    <heading>AUTHORIZATION FOR</heading>
+    <text class="center">
+      <strong>FISCAL YEAR 2017-2018 BUDGET MODIFICATION NO. 1</strong>
     </text>
     <para>
       <num>1.</num>

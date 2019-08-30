@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Res. No. SI-R18-012">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R18-012">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R18-012</heading>
-  <law-heading>ANNUAL BUDGET AUTHORIZATION FOR FISCAL YEAR 2018-2019</law-heading>
+  <heading type="law">ANNUAL BUDGET AUTHORIZATION FOR FISCAL YEAR 2018-2019</heading>
   <meta>
-    <citation type="res">Res. No. SI-R18-012</citation>
+    <effective> </effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R18-012</citation>
+    </citations>
     <history>
-      <adopted>June 15th, 2018</adopted>
+      <adopted>2018-06-15</adopted>
     </history>
   </meta>
-  <resolution-preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
-    15th     day of         June        , 2018, the following Resolution was adopted:</resolution-preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
+    15th     day of         June        , 2018, the following Resolution was adopted:</preamble>
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -297,11 +300,9 @@
   </procedural-data>
   <attachment id="law">
     <text>PUEBLO DE SAN ILDEFONSO</text>
-    <text>ANNUAL BUDGET AUTHORIZATION FOR FISCAL YEAR 2018-2019</text>
-    <text>
-      <center>
-        <strong>(July 1, 2018 to June 30, 2019)</strong>
-      </center>
+    <heading>ANNUAL BUDGET AUTHORIZATION FOR FISCAL YEAR 2018-2019</heading>
+    <text class="center">
+      <strong>(July 1, 2018 to June 30, 2019)</strong>
     </text>
     <text>
       <table>
@@ -326,8 +327,6 @@
         </tr>
       </table>
     </text>
-    <text>
-      <center>Annual Budget including all program budgets is attached as a separate document.</center>
-    </text>
+    <text class="center">Annual Budget including all program budgets is attached as a separate document.</text>
   </attachment>
 </document>

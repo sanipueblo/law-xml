@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Res. No. SI-R17-024">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-024">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-024</heading>
-  <law-heading>SUBMITTAL FOR 23 USC 202 TRIBAL TRANSPORTATION PLANNING (66K) AND THE TRIBAL TRANSPORTATION PROGRAM (TTP)(6K1) FUNDING</law-heading>
+  <heading type="law">SUBMITTAL FOR 23 USC 202 TRIBAL TRANSPORTATION PLANNING (66K) AND THE TRIBAL TRANSPORTATION PROGRAM (TTP)(6K1) FUNDING</heading>
   <meta>
-    <citation type="res">Res. No. SI-R17-024</citation>
+    <effective> </effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R17-024</citation>
+    </citations>
     <history>
-      <adopted>September 1st, 2017</adopted>
+      <adopted>2017-09-01</adopted>
     </history>
   </meta>
-  <resolution-preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
-     1st        day of      September       , 2017, the following Resolution was adopted:</resolution-preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
+     1st        day of      September       , 2017, the following Resolution was adopted:</preamble>
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -248,44 +251,34 @@
   </procedural-data>
   <attachment id="law">
     <text>PUEBLO DE SAN ILDEFONSO</text>
-    <text>SUBMITTAL FOR 23 USC 202 TRIBAL TRANSPORTATION PLANNING (66K) AND THE TRIBAL TRANSPORTATION PROGRAM (TTP)(6K1)</text>
-    <text>
-      <center>
-        <strong>
-          <u>Attachments</u>
-        </strong>
-      </center>
+    <heading>SUBMITTAL FOR 23 USC 202 TRIBAL TRANSPORTATION PLANNING (66K) AND THE TRIBAL TRANSPORTATION PROGRAM (TTP)(6K1)</heading>
+    <text class="center">
+      <strong>
+        <u>Attachments</u>
+      </strong>
     </text>
     <para>
       <num>1.</num>
-      <text>
-        <center>
-          <strong>PROJECTED – 6K1 CONTROL SCHEDULE</strong>
-        </center>
+      <text class="center">
+        <strong>PROJECTED – 6K1 CONTROL SCHEDULE</strong>
       </text>
     </para>
     <para>
       <num>2.</num>
-      <text>
-        <center>
-          <strong>SOW &amp; Budget – FY2017 Transportation Planning Contract</strong>
-        </center>
+      <text class="center">
+        <strong>SOW &amp; Budget – FY2017 Transportation Planning Contract</strong>
       </text>
     </para>
     <para>
       <num>3.</num>
-      <text>
-        <center>
-          <strong>SOW &amp; Budget – FY2017 Road Maintenance Program</strong>
-        </center>
+      <text class="center">
+        <strong>SOW &amp; Budget – FY2017 Road Maintenance Program</strong>
       </text>
     </para>
     <para>
       <num>4.</num>
-      <text>
-        <center>
-          <strong>SOW &amp; Budget – NP 421 Hay Gan Po</strong>
-        </center>
+      <text class="center">
+        <strong>SOW &amp; Budget – NP 421 Hay Gan Po</strong>
       </text>
     </para>
   </attachment>

@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Res. No. SI-R17-023">
+<document codify:doc="Pueblo de San Ildefonso Code" codify:path="3.2" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-023">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-023</heading>
-  <law-heading>THE COUNCIL CONTRACTING AUTHORIZATION ACT OF 2017</law-heading>
+  <heading type="law">THE COUNCIL CONTRACTING AUTHORIZATION ACT OF 2017</heading>
   <meta>
-    <citation type="res">Res. No. SI-R17-023</citation>
+    <effective>2017-09-07</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R17-023</citation>
+    </citations>
     <history>
-      <adopted>September 1st, 2017</adopted>
+      <adopted>2017-09-01</adopted>
     </history>
   </meta>
-  <resolution-preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
-     1st        day of      September      , 2017, the following Resolution was adopted:</resolution-preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
+     1st        day of      September      , 2017, the following Resolution was adopted:</preamble>
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -216,20 +219,31 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2017, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>3.2.3</num>
+      <heading>The Council Contracting Authorization Act of 2017</heading>
+    </container>
+  </codify:insert>
   <attachment id="law">
+    <codified:at path="3.2.3"/>
     <text>PUEBLO DE SAN ILDEFONSO</text>
-    <text>THE COUNCIL CONTRACTING AUTHORIZATION ACT OF 2017</text>
+    <heading>THE COUNCIL CONTRACTING AUTHORIZATION ACT OF 2017</heading>
     <section>
+      <codify:insert num-value="3.2.3.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as "THE COUNCIL CONTRACTING AUTHORIZATION ACT OF 2017 ("Act")."</text>
     </section>
     <section>
       <num>1.2</num>
+      <codify:insert num-value="3.2.3.020"/>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the Lieutenant Governor, on behalf of the Council, to enter into contracts, as specifically authorized by the Council, with professional advisors, consultants, and others necessary to fulfill the Council's duties to write laws and prepare budgets for the benefit of the People of the Pueblo, subject to the appropriation of funds for such purposes.</text>
     </section>
     <section>
+      <codify:insert num-value="3.2.3.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -247,6 +261,7 @@
       </para>
     </section>
     <section>
+      <codify:insert num-value="3.2.3.040"/>
       <num>1.4</num>
       <heading>Contracting Authorization</heading>
       <para>

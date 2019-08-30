@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Res. No. SI-R17-022">
+<document codify:doc="Pueblo de San Ildefonso Code" codify:path="13.1" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-022">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-022</heading>
-  <law-heading>SUPPLEMENTAL INDIAN EDUCATION PROGRAM                            MODERNIZATIONACT OF 2017 (S. 943)</law-heading>
+  <heading type="law">SUPPLEMENTAL INDIAN EDUCATION PROGRAM                            MODERNIZATIONACT OF 2017 (S. 943)</heading>
   <meta>
-    <citation type="res">Res. No. SI-R17-022</citation>
+    <effective>2017-08-11</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R17-022</citation>
+    </citations>
     <history>
-      <adopted>August 11th, 2017</adopted>
+      <adopted>2017-08-11</adopted>
     </history>
   </meta>
-  <resolution-preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
-     11th        day of      August       , 2017, the following Resolution was adopted:</resolution-preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
+     11th        day of      August       , 2017, the following Resolution was adopted:</preamble>
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -212,20 +215,31 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2017, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>13.1.3</num>
+      <heading>Supplemental Indian Education Program Modernization Act of 2017 (S. 943)</heading>
+    </container>
+  </codify:insert>
   <attachment id="law">
+    <codified:at path="13.1.3"/>
     <text>PUEBLO DE SAN ILDEFONSO</text>
-    <text>SUPPLEMENTAL INDIAN EDUCATION PROGRAM MODERNIZATION ACT OF 2017 (S. 943)</text>
+    <heading>SUPPLEMENTAL INDIAN EDUCATION PROGRAM MODERNIZATION ACT OF 2017 (S. 943)</heading>
     <section>
+      <codify:insert num-value="13.1.3.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "SUPPLEMENTAL INDIAN EDUCATION PROGRAM MODERNIZATION ACT OF 2017 (S. 943) ("Act")."</text>
     </section>
     <section>
+      <codify:insert num-value="13.1.3.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to support efforts to update and modernize the Johnson O'Malley (JOM) program and establish true funding level determinations.</text>
     </section>
     <section>
+      <codify:insert num-value="13.1.3.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -247,6 +261,7 @@
       </para>
     </section>
     <section>
+      <codify:insert num-value="13.1.3.040"/>
       <num>1.3</num>
       <heading>Support for JOM Program</heading>
       <para>
