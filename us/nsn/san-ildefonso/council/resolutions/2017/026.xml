@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-026">
+<document codify:doc="Pueblo de San Ildefonso Code" codify:path="6.3" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-026">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-026</heading>
   <heading type="law">NEW FUNDING COUNCIL ADJUSTMENT 1 (NF-1) TO THE FISCAL YEAR 2017-2018 ANNUAL BUDGET</heading>
   <meta>
-    <effective> </effective>
+    <effective>2017-09-07</effective>
     <citations>
       <citation type="res">Council Resolution No. SI-R17-026</citation>
     </citations>
@@ -13,18 +13,48 @@
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
     1st      day of     September      , 2017, the following Resolution was adopted:</preamble>
-  <recitals>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.3.13</num>
+      <heading>New Funding Council Adjustment 1 (NF-1) to the Fiscal Year 2017-2018 Annual Budget</heading>
+      <section>
+        <heading>Findings</heading>
+        <num>6.3.13.010</num>
+        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-026"/>
+      </section>
+    </container>
+  </codify:insert>
+  <recitals codify:path="6.3.13.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+      <codify:insert path="6.3.13.010">
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011, pursuant to Federal law; and</text>
+      <codify:insert>
+        <para>
+          <num>(b)</num>
+          <text>The voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011, pursuant to Federal law; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
+      <codify:insert>
+        <para>
+          <num>(c)</num>
+          <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -32,8 +62,8 @@
       <text>
         <table>
           <tr proof="needed">
-            <th>General Fund (GF)</th>
-            <th>$2,509,447.00</th>
+            <td>General Fund (GF)</td>
+            <td>$2,509,447.00</td>
           </tr>
           <tr>
             <td>Special Revenue Fund (SRF)</td>
@@ -45,41 +75,92 @@
           </tr>
         </table>
       </text>
+      <codify:insert>
+        <para>
+          <num>(d)</num>
+          <text>Currently the Pueblo's total Fiscal Year (FY) 2017-2018 Annual Budget is $8,789,224.00 which consists of the following categories and amounts:</text>
+          <text>
+            <table>
+              <tr proof="needed">
+                <td>General Fund (GF)</td>
+                <td>$2,509,447.00</td>
+              </tr>
+              <tr>
+                <td>Special Revenue Fund (SRF)</td>
+                <td>$5,879,777.00</td>
+              </tr>
+              <tr>
+                <td>Capital Projects Fund (CPF)</td>
+                <td>$400,000.00</td>
+              </tr>
+            </table>
+          </text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year, provided that budget modifications by the Council to obtain new grants, appropriate matching funds for new grants, or to expend new grant funds may be done at any time; and</text>
+      <codify:insert>
+        <para>
+          <num>(e)</num>
+          <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year, provided that budget modifications by the Council to obtain new grants, appropriate matching funds for new grants, or to expend new grant funds may be done at any time; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo enacted a law entitled, "Budget Modification Process Act" which establishes the "New Funding Council Adjustment" designation for all new grants, new matching funds, or new funds acquired by the Pueblo.  The budget adjustment for the new funding for each fiscal year will be identified as "NF-1," NF-2," and so on; and</text>
+      <codify:insert>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo enacted a law entitled, "Budget Modification Process Act" which establishes the "New Funding Council Adjustment" designation for all new grants, new matching funds, or new funds acquired by the Pueblo.  The budget adjustment for the new funding for each fiscal year will be identified as "NF-1," NF-2," and so on; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo's FY 2017-2018 New Funding 1 (NF-1) is identified per the following:</text>
-      <para>
-        <num>(a)</num>
-        <heading>SRF:</heading>
-        <text>
-          <u>Institute of Museum and Library Services (IMLS)</u>
-        </text>
-        <text>
-          <table>
-            <tr proof="needed">
-              <th>(Fund Code: 20- XXXX-475-471-18	)</th>
-              <th>$7,000.00</th>
-            </tr>
-            <tr>
-              <th>Total FY 2017-18 New Funding-1 (NF-1):</th>
-              <th>$7,000.00</th>
-            </tr>
-          </table>
-        </text>
-      </para>
+      <text>
+        <table>
+          <tr proof="needed">
+            <td>(a)	SRF:  Institute of Museum and Library Services (IMLS) (Fund Code: 20- XXXX-475-471-18)</td>
+            <td>$7,000.00</td>
+          </tr>
+          <tr>
+            <td>Total FY 2017-18 New Funding-1 (NF-1):</td>
+            <td>$7,000.00</td>
+          </tr>
+        </table>
+      </text>
+      <codify:insert>
+        <para>
+          <num>(g)</num>
+          <text>The Pueblo's FY 2017-2018 New Funding 1 (NF-1) is identified per the following:</text>
+          <text>
+            <table>
+              <tr proof="needed">
+                <td>(a)	SRF:  Institute of Museum and Library Services (IMLS) (Fund Code: 20- XXXX-475-471-18)</td>
+                <td>$7,000.00</td>
+              </tr>
+              <tr>
+                <td>Total FY 2017-18 New Funding-1 (NF-1):</td>
+                <td>$7,000.00</td>
+              </tr>
+            </table>
+          </text>
+        </para>
+      </codify:insert> 
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo's FY 2017-2018 new adjusted Annual Budget will increase from $8,789,224.00  to $8,796,224.00; and</text>
+      <codify:insert>
+        <para>
+          <num>(h)</num>
+          <text>The Pueblo's FY 2017-2018 new adjusted Annual Budget will increase from $8,789,224.00  to $8,796,224.00; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -87,8 +168,8 @@
       <text>
         <table>
           <tr proof="needed">
-            <th>General Fund (GF)</th>
-            <th>$2,509,447.00</th>
+            <td>General Fund (GF)</td>
+            <td>$2,509,447.00</td>
           </tr>
           <tr>
             <td>Special Revenue Fund (SRF)</td>
@@ -101,19 +182,59 @@
             </td>
           </tr>
           <tr>
-            <th>BUDGET TOTAL AFTER NF-1:</th>
-            <th>$8,796,224.00</th>
+            <td>BUDGET TOTAL AFTER NF-1:</td>
+            <td>$8,796,224.00</td>
           </tr>
         </table>
       </text>
+      <codify:insert>
+        <para>
+          <num>(i)</num>
+          <text>The Pueblo's modified FY 2017-2018 Annual Budget is as follows:</text>
+          <text>
+            <table>
+              <tr proof="needed">
+                <td>General Fund (GF)</td>
+                <td>$2,509,447.00</td>
+              </tr>
+              <tr>
+                <td>Special Revenue Fund (SRF)</td>
+                <td>$5,886,777.00</td>
+              </tr>
+              <tr>
+                <td>Capital Projects Fund (CPF)</td>
+                <td>
+                  <u>$   400,000.00</u>
+                </td>
+              </tr>
+              <tr>
+                <td>BUDGET TOTAL AFTER NF-1:</td>
+                <td>$8,796,224.00</td>
+              </tr>
+            </table>
+          </text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>that the Council hereby approves and authorizes the 		"New Funding Council Adjustment 1 (NF-1) to the FY 2017-2018 Annual Budget" attached hereto and such adjustments shall be effective immediately upon enactment.</text>
+      <codify:insert path="6.3.13">
+        <section>
+          <num>6.3.13.020</num>
+          <text>The Council hereby approves and authorizes the 		"New Funding Council Adjustment 1 (NF-1) to the FY 2017-2018 Annual Budget" attached hereto and such adjustments shall be effective immediately upon enactment.</text>
+        </section>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+      <codify:insert path="6.3.13">
+        <section>
+          <num>6.3.13.030</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        </section>
+      </codify:insert>
     </recital>
   </recitals>
   <procedural-data>
@@ -301,37 +422,34 @@
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
   <attachment id="law">
+    <codify:insert path="6.3.13" num-value="6.3.13.040" tag="section"/>
+    <num/>
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>NEW FUNDING COUNCIL ADJUSTMENT 1 (NF-1) TO THE FY 2017-2018 ANNUAL BUDGET</heading>
     <para>
-      <num>1.</num>
+      <num codify:value="(a)">1.</num>
       <text>The Council hereby approves the New Funding Council Adjustment 1 (NF-1) and adjusts           the Annual Budget for Fiscal Year 2017-2018 by addition of the following:</text>
-      <para>
-        <num>(a)</num>
-        <heading>SRF:</heading>
-        <text><u>Institute of Museum and Library Services (IMLS)</u>:</text>
-        <text>
-          <table>
-            <tr proof="needed">
-              <th>(Fund Code: 20- XXXX-475-471-18	)</th>
-              <th>$7,000.00</th>
-            </tr>
-            <tr>
-              <th>Total FY 2017-18 New Funding-1 (NF-1):</th>
-              <th>$7,000.00</th>
-            </tr>
-          </table>
-        </text>
-      </para>
+      <text>
+        <table>
+          <tr proof="needed">
+            <td>(a)	SRF:  Institute of Museum and Library Services (IMLS): (Fund Code: 20- XXXX-475-471-18	)</td>
+            <td>$7,000.00</td>
+          </tr>
+          <tr>
+            <td>Total FY 2017-18 New Funding-1 (NF-1):</td>
+            <td>$7,000.00</td>
+          </tr>
+        </table>
+      </text>
     </para>
     <para>
-      <num>2.</num>
+      <num codify:value="(b)">2.</num>
       <text>The Annual Budget for Fiscal Year 201-2018 is adjusted with new amounts as follows:</text>
       <text>
         <table>
           <tr proof="needed">
-            <th>General Fund (GF)</th>
-            <th>$2,509,447.00</th>
+            <td>General Fund (GF)</td>
+            <td>$2,509,447.00</td>
           </tr>
           <tr>
             <td>Special Revenue Fund (SRF)</td>
@@ -344,14 +462,14 @@
             </td>
           </tr>
           <tr>
-            <th>BUDGET TOTAL AFTER NF-1:</th>
-            <th>$8,796,224.00</th>
+            <td>BUDGET TOTAL AFTER NF-1:</td>
+            <td>$8,796,224.00</td>
           </tr>
         </table>
       </text>
     </para>
     <para>
-      <num>3.</num>
+      <num codify:value="(c)">3.</num>
       <text>The Council hereby approves the identified adjustments (FY 2017-18 NF-1) and enacts the FY 2017-2018 Annual Budget in the new total amount of $$8,796,224.00.</text>
       <text class="center">
         <em>Budget, Budget Justification and Supporting Documentation is attached.</em>

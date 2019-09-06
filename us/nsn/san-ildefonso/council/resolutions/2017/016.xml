@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-016">
+<document codify:doc="Pueblo de San Ildefonso Code" codify:path="6.3" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-016">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-016</heading>
   <heading type="law">AUTHORIZATION FOR FISCAL YEAR 2016-2017                          BUDGET MODIFICATION NO. 2</heading>
   <meta>
-    <effective> </effective>
+    <effective>2017-06-23</effective>
     <citations>
       <citation type="res">Council Resolution No. SI-R17-016</citation>
     </citations>
@@ -13,22 +13,58 @@
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
     21st     day of     June    , 2017, the following Resolution was adopted:</preamble>
-  <recitals>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.3.12</num>
+      <heading>Authorization for Fiscal Year 2016-2017 Budget Modification No. 2</heading>
+      <section>
+        <heading>Findings</heading>
+        <num>6.3.12.010</num>
+        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-016"/>
+      </section>
+    </container>
+  </codify:insert>
+  <recitals codify:path="6.3.12.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+      <codify:insert path="6.3.12.010">
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
+      <codify:insert>
+        <para>
+          <num>(b)</num>
+          <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and</text>
+      <codify:insert>
+        <para>
+          <num>(c)</num>
+          <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year; and</text>
+      <codify:insert>
+        <para>
+          <num>(d)</num>
+          <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -60,18 +96,69 @@
           </tr>
         </table>
       </text>
+      <codify:insert>
+        <para>
+          <num>(e)</num>
+          <text>The Council approved the FY2016-2017 Annual Budget on June 16, 2016, and has implemented two New Funding Adjustments and one Budget Modification resulting in the current budget total as follows:</text>
+          <text>
+            <table>
+              <tr>
+                <th>ANNUAL BUDGET:   FISCAL YEAR 2016-2017</th>
+              </tr>
+              <tr>
+                <td>GENERAL FUND</td>
+                <td>$      2,416,279.00</td>
+              </tr>
+              <tr>
+                <td>SPECIAL REVENUE FUND</td>
+                <td>$      8,255,698.53</td>
+              </tr>
+              <tr>
+                <td>CAPITAL PROJECTS FUND</td>
+                <td>$      1,010,770.50</td>
+              </tr>
+              <tr>
+                <td>BUSINESS FUND</td>
+                <td>$      1,261,145.26</td>
+              </tr>
+              <tr>
+                <td>TOTAL BUDGET:</td>
+                <td>$    12,943,893.29</td>
+              </tr>
+            </table>
+          </text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>it has been determined that certain modifications to the FY 2016-17 Annual Budget are necessary; and</text>
+      <codify:insert>
+        <para>
+          <num>(f)</num>
+          <text>It has been determined that certain modifications to the FY 2016-17 Annual Budget are necessary; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council has reviewed the proposed Budget Modification No. 2 and has determined that it is in the best interest of the Pueblo to approve Budget Modification No. 2; and</text>
+      <codify:insert>
+        <para>
+          <num>(g)</num>
+          <text>The Council has reviewed the proposed Budget Modification No. 2 and has determined that it is in the best interest of the Pueblo to approve Budget Modification No. 2; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo's FY 2016-2017 Annual Budget amount will not increase as a result of Budget Modification No. 2; and</text>
+      <codify:insert>
+        <para>
+          <num>(h)</num>
+          <text>The Pueblo's FY 2016-2017 Annual Budget amount will not increase as a result of Budget Modification No. 2; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -98,19 +185,64 @@
             <td>$      1,261,145.26</td>
           </tr>
           <tr>
-            <th>TOTAL BUDGET:</th>
-            <th>$    12,943,893.29</th>
+            <td>TOTAL BUDGET:</td>
+            <td>$    12,943,893.29</td>
           </tr>
         </table>
       </text>
+      <codify:insert>
+        <para>
+          <num>(i)</num>
+          <text>The Pueblo's FY 2016-2017 Annual Budget remains as follows:</text>
+          <text>
+            <table>
+              <tr>
+                <th>ANNUAL BUDGET:   FISCAL YEAR 2016-2017</th>
+              </tr>
+              <tr>
+                <td>GENERAL FUND</td>
+                <td>$      2,416,279.00</td>
+              </tr>
+              <tr>
+                <td>SPECIAL REVENUE FUND</td>
+                <td>$      8,255,698.53</td>
+              </tr>
+              <tr>
+                <td>CAPITAL PROJECTS FUND</td>
+                <td>$      1,010,770.50</td>
+              </tr>
+              <tr>
+                <td>BUSINESS FUND</td>
+                <td>$      1,261,145.26</td>
+              </tr>
+              <tr>
+                <td>TOTAL BUDGET:</td>
+                <td>$    12,943,893.29</td>
+              </tr>
+            </table>
+          </text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>that the Council hereby approves and authorizes the attached Budget Modification No. 2 to the FY 2016-2017 Annual Budget and that such modifications shall be effective immediately upon enactment.</text>
+      <codify:insert path="6.3.12">
+        <section>
+          <num>6.3.12.020</num>
+          <text>The Council hereby approves and authorizes the attached Budget Modification No. 2 to the FY 2016-2017 Annual Budget and that such modifications shall be effective immediately upon enactment.</text>
+        </section>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intend of this resolution.</text>
+      <codify:insert path="6.3.12">
+        <section>
+          <num>6.3.12.030</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intend of this resolution.</text>
+        </section>
+      </codify:insert>
     </recital>
   </recitals>
   <procedural-data>
@@ -298,9 +430,11 @@
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
   <attachment id="law">
+    <codify:insert path="6.3.12" num-value="6.3.12.040" tag="section"/>
+    <num/>
     <heading>AUTHORIZATION FOR FISCAL YEAR 2016-2017 BUDGET MODIFICATION NO. 2</heading>
     <para>
-      <num>1.</num>
+      <num codify:value="(a)">1.</num>
       <text>The current FY 2016-2017 Annual Budget, prior to this enactment, is                         as follows:</text>
       <text>
         <table>
@@ -331,96 +465,96 @@
       </text>
     </para>
     <para>
-      <num>2.</num>
+      <num codify:value="(b)">2.</num>
       <text>The Council hereby approves Budget Modification No. 2 to the FY 2016-2017 Annual Budget, which consists of the following:</text>
       <para>
-        <num>(a)</num>
+        <num codify:value="(1)">(a)</num>
         <heading>State of NM – FY17 State Aid (20-xxxx-755-713-17):</heading>
         <text>Move funds greater than 10%; no increase or decrease to the budget total.</text>
         <text>(This is a budget adjustment requiring a budget modification.)</text>
       </para>
       <para>
-        <num>(b)</num>
+        <num codify:value="(2)">(b)</num>
         <heading>State of NM - PED (20-xxxx-755-730-17):</heading>
         <text>Move funds greater than 10%; no increase or decrease to the budget total.</text>
         <text>(This is a budget adjustment requiring a budget modification.)</text>
       </para>
       <para>
-        <num>(c)</num>
+        <num codify:value="(3)">(c)</num>
         <heading>FY17 IMLS (20-xxxx-475-471-15):</heading>
         <text>Move funds greater than 10%; no increase or decrease to the budget total.</text>
         <text>(This is a budget adjustment requiring a budget modification.)</text>
       </para>
       <para>
-        <num>(d)</num>
+        <num codify:value="(4)">(d)</num>
         <heading>State of NM - FY17 Tribal Library Program  (20-xxxx-755-714-17):</heading>
         <text>Move funds greater than 10%; no increase or decrease to the budget total.</text>
         <text>(This is a budget adjustment requiring a budget modification.)</text>
       </para>
       <para>
-        <num>(e)</num>
+        <num codify:value="(5)">(e)</num>
         <heading>GF – Tewa (10-xxxx-100-183-17):</heading>
         <text>Move funds greater than 10%; no increase or decrease to the budget total.</text>
         <text>(This is a budget adjustment requiring a budget modification.)</text>
       </para>
       <para>
-        <num>(f)</num>
+        <num codify:value="(6)">(f)</num>
         <heading>GF – Tribal Council (10-xxxx-100-184-17):</heading>
         <text>Move funds greater than 10%; no increase or decrease to the budget total.</text>
         <text>(This is a budget adjustment requiring a budget modification.)</text>
       </para>
       <para>
-        <num>(g)</num>
+        <num codify:value="(7)">(g)</num>
         <heading>GF – Teen Council  (10-xxxx-xxx-xxx-17):</heading>
         <text>To establish a new General Fund budget in the amount of $3,000 transferred from Youth Program.</text>
       </para>
       <para>
-        <num>(h)</num>
+        <num codify:value="(8)">(h)</num>
         <heading>GF – Youth Program  (10-xxxx-100-194-17):</heading>
         <text>Decrease budget by $3,000; transfer funds to Teen Council.</text>
       </para>
       <para>
-        <num>(i)</num>
+        <num codify:value="(9)">(i)</num>
         <heading>GF - Seniors (10-xxxx-100-802-17):</heading>
         <text>Increase budget by $1,201.96.</text>
       </para>
       <para>
-        <num>(j)</num>
+        <num codify:value="(10)">(j)</num>
         <heading>GF – Governor's Office (10-xxxx-100-185-17):</heading>
         <text>Increase budget by $15,000.</text>
       </para>
       <para>
-        <num>(k)</num>
+        <num codify:value="(11)">(k)</num>
         <heading>GF – Accounting (10-xxxx-100-802-17):</heading>
         <text>Increase budget by $41,925.00.</text>
       </para>
       <para>
-        <num>(l)</num>
+        <num codify:value="(12)">(l)</num>
         <heading>GF – CPF-Well Water Project (10-xxxx-100-117-17):</heading>
         <text>Decrease budget by $5,000.</text>
       </para>
       <para>
-        <num>(m)</num>
+        <num codify:value="(13)">(m)</num>
         <heading>GF – CPF-Fiber  Optic /Broadband Project (10-xxxx-100-118-17):</heading>
         <text>Decrease budget by $10,000.</text>
       </para>
       <para>
-        <num>(n)</num>
+        <num codify:value="(14)">(n)</num>
         <heading>GF – Infrastructure (10-xxxx-100-156-17):</heading>
         <text>Decrease budget by $14,000.</text>
       </para>
       <para>
-        <num>(o)</num>
+        <num codify:value="(15)">(o)</num>
         <heading>GF – DOE/Norton line (10-xxxx-100-134-17):</heading>
         <text>Decrease budget by $29,126.96.</text>
       </para>
       <para>
-        <num>(p)</num>
+        <num codify:value="(16)">(p)</num>
         <heading>IDC Accounting (20-xxxx-200-802-17):</heading>
         <text>Increase budget by $4,000.</text>
       </para>
       <para>
-        <num>(q)</num>
+        <num codify:value="(17)">(q)</num>
         <heading>IDC Information Technology (20-xxxx-200-806-17):</heading>
         <text>Decrease budget by $4,000.</text>
         <text class="center">
@@ -429,11 +563,11 @@
       </para>
     </para>
     <para>
-      <num>3.</num>
+      <num codify:value="(c)">3.</num>
       <text>Budget Modification No. 2 results in no increase or decrease to the General Fund budgets overall and no increase or decrease to the Special Revenue Fund, Capital Projects Fund and Business Fund.</text>
     </para>
     <para>
-      <num>4.</num>
+      <num codify:value="(d)">4.</num>
       <text>The Fiscal Year 2016-2017 Annual Budget total after Budget Modification No. 2 remains unchanged as follows:</text>
       <text>
         <table>
@@ -457,8 +591,8 @@
             <td>$      1,261,145.26</td>
           </tr>
           <tr>
-            <th>BUDGET TOTAL:</th>
-            <th>$    12,943,893.29</th>
+            <td>BUDGET TOTAL:</td>
+            <td>$    12,943,893.29</td>
           </tr>
         </table>
       </text>

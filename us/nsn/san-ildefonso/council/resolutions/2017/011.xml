@@ -49,6 +49,12 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
+      <codify:insert>
+        <para>
+          <num>(c)</num>
+          <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -56,8 +62,8 @@
       <text>
         <table>
           <tr proof="needed">
-            <th>General Fund (GF)</th>
-            <th>$2,416,279.00</th>
+            <td>General Fund (GF)</td>
+            <td>$2,416,279.00</td>
           </tr>
           <tr>
             <td>Special Revenue Fund (SRF)</td>
@@ -73,14 +79,52 @@
           </tr>
         </table>
       </text>
+      <codify:insert>
+        <para>
+          <num>(d)</num>
+          <text>Currently the Pueblo's total Fiscal Year (FY) 2016-2017 Annual Budget is $12,893,893.29 which consists of the following categories and amounts:</text>
+          <text>
+            <table>
+              <tr proof="needed">
+                <td>General Fund (GF)</td>
+                <td>$2,416,279.00</td>
+              </tr>
+              <tr>
+                <td>Special Revenue Fund (SRF)</td>
+                <td>$8,205,698.53</td>
+              </tr>
+              <tr>
+                <td>Capital Projects Fund (CPF)</td>
+                <td>$1,010,770.50</td>
+              </tr>
+              <tr>
+                <td>Business Fund (BF)</td>
+                <td>$1,261,145.26</td>
+              </tr>
+            </table>
+          </text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year, provided that budget modifications by the Council to obtain new grants, appropriate matching funds for new grants, or to expend new grant funds may be done at any time; and</text>
+      <codify:insert>
+        <para>
+          <num>(e)</num>
+          <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year, provided that budget modifications by the Council to obtain new grants, appropriate matching funds for new grants, or to expend new grant funds may be done at any time; an</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo enacted a law entitled, "Budget Modification Process Act" which establishes the "New Funding Council Adjustment" designation for all new grants, new matching funds, or new funds acquired by the Pueblo.  The budget adjustment for the new funding for each fiscal year will be identified as "NF-1," NF-2," and so on; and</text>
+      <codify:insert>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo enacted a law entitled, "Budget Modification Process Act" which establishes the "New Funding Council Adjustment" designation for all new grants, new matching funds, or new funds acquired by the Pueblo.  The budget adjustment for the new funding for each fiscal year will be identified as "NF-1," NF-2," and so on; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -88,19 +132,43 @@
       <text>
         <table>
           <tr proof="needed">
-            <th>(a) SRF: Healthy Kids-Healthy Communities (Fund Code: 20- XXXX-755-742-18	)</th>
-            <th>$50,000.00</th>
+            <td>(a) SRF: Healthy Kids-Healthy Communities (Fund Code: 20- XXXX-755-742-18	)</td>
+            <td>$50,000.00</td>
           </tr>
           <tr>
-            <th>Total FY 2016-17 New Funding-3 (NF-3):</th>
-            <th>$50,000.00</th>
+            <td>Total FY 2016-17 New Funding-3 (NF-3):</td>
+            <td>$50,000.00</td>
           </tr>
         </table>
       </text>
+      <codify:insert>
+        <para>
+          <num>(g)</num>
+          <text>The Pueblo's FY 2016-2017 New Funding 3 (NF-3) is identified per the following:</text>
+          <text>
+            <table>
+              <tr proof="needed">
+                <td>(a) SRF: Healthy Kids-Healthy Communities (Fund Code: 20- XXXX-755-742-18	)</td>
+                <td>$50,000.00</td>
+              </tr>
+              <tr>
+                <td>Total FY 2016-17 New Funding-3 (NF-3):</td>
+                <td>$50,000.00</td>
+              </tr>
+            </table>
+          </text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo's FY 2016-2017 new adjusted Annual Budget will increase from $12,893,893.29 to $12,943,893.29; and</text>
+      <codify:insert>
+        <para>
+          <num>(h)</num>
+          <text>The Pueblo's FY 2016-2017 new adjusted Annual Budget will increase from $12,893,893.29 to $12,943,893.29; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -108,8 +176,8 @@
       <text>
         <table>
           <tr proof="needed">
-            <th>General Fund (GF)</th>
-            <th>$2,416,279.00</th>
+            <td>General Fund (GF)</td>
+            <td>$2,416,279.00</td>
           </tr>
           <tr>
             <td>Special Revenue Fund (SRF)</td>
@@ -133,6 +201,40 @@
           </tr>
         </table>
       </text>
+      <codify:insert>
+        <para>
+          <num>(i)</num>
+          <text>The Pueblo's modified FY 2016-2017 Annual Budget is as follows:</text>
+          <text>
+            <table>
+              <tr proof="needed">
+                <td>General Fund (GF)</td>
+                <td>$2,416,279.00</td>
+              </tr>
+              <tr>
+                <td>Special Revenue Fund (SRF)</td>
+                <td>$8,205,698.53</td>
+              </tr>
+              <tr>
+                <td>Capital Projects Fund (CPF)</td>
+                <td>$1,010,770.50</td>
+              </tr>
+              <tr>
+                <td>Business Fund (BF)</td>
+                <td>
+                  <u>$1,261,145.26</u>
+                </td>
+              </tr>
+              <tr>
+                <td>TOTAL BUDGET:</td>
+                <td>
+                  <u>$12,943,893.29</u>
+                </td>
+              </tr>
+            </table>
+          </text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
@@ -349,12 +451,12 @@
       <text>
         <table>
           <tr proof="needed">
-            <th>(a) SRF: Healthy Kids-Healthy Communities (Fund Code: 20- XXXX-755-742-18	)</th>
-            <th>$50,000.00</th>
+            <td>(a) SRF: Healthy Kids-Healthy Communities (Fund Code: 20- XXXX-755-742-18	)</td>
+            <td>$50,000.00</td>
           </tr>
           <tr>
-            <th>Total FY 2016-17 New Funding-3 (NF-3):</th>
-            <th>$50,000.00</th>
+            <td>Total FY 2016-17 New Funding-3 (NF-3):</td>
+            <td>$50,000.00</td>
           </tr>
         </table>
       </text>
@@ -365,8 +467,8 @@
       <text>
         <table>
           <tr proof="needed">
-            <th>General Fund (GF)</th>
-            <th>$2,416,279.00</th>
+            <td>General Fund (GF)</td>
+            <td>$2,416,279.00</td>
           </tr>
           <tr>
             <td>Special Revenue Fund (SRF)</td>
