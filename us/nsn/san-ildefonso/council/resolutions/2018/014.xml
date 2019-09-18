@@ -267,13 +267,12 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="24.8.1.040"/>
       <num>1.4</num>
       <heading>Abandoned Vehicle Act</heading>
       <text>Title 25 - TRAFFIC, of the Pueblo Code, shall be amended by adding the following new provisions:</text>
     </section>
     <section>
-      <codify:insert num-value="24.8.1.050"/>
+      <codify:insert num-value="24.8.1.040"/>
       <num>1.5</num>
       <heading>Definitions</heading>
       <para>
@@ -306,7 +305,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="24.8.1.060"/>
+      <codify:insert num-value="24.8.1.050"/>
       <num>1.6</num>
       <heading>Abandoned Vehicle Act Procedures</heading>
       <para>
