@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-031">
+<document codify:doc="Pueblo de San Ildefonso Code" codify:path="6.6" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-031">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-031</heading>
   <heading type="law">COMMITMENT TO DEVELOP AND IMPLEMENT AN ASSET MANAGEMENT PLAN</heading>
   <meta>
@@ -12,68 +12,118 @@
     </history>
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the                                                              2nd   day of       October     , 2017, the following Resolution was adopted:</preamble>
-  <recitals>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.6.7</num>
+      <heading>Commitment to Develop and Implement an Asset Management Plan</heading>
+      <section>
+        <heading>Findings</heading>
+        <num>6.6.7.010</num>
+        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-031"/>
+      </section>
+    </container>
+  </codify:insert>
+  <recitals codify:path="6.6.7.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe,  recognized as such by the United States of America, with the authority to govern its people, lands and other resources; and</text>
+      <codify:insert path="6.6.7.010">
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America, with the authority to govern its people, lands and other resources.</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo provides water and wastewater services to residences in the three housing areas of the Pueblo (Pueblo Center, Northeast and Northwest) and operates and maintains said systems; and</text>
+      <codify:insert>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo provides water and wastewater services to residences in the three housing areas of the Pueblo (Pueblo Center, Northeast and Northwest) and operates and maintains said systems.</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo intends to undertake acquisition, construction and improvement of the wastewater system for the benefit of the community and its citizens; and</text>
+      <codify:insert>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo intends to undertake acquisition, construction and improvement of the wastewater system for the benefit of the community and its citizens.</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo recognizes an Asset Management Plan is a dynamic tool and asset management planning is an ongoing effort by service providers to improve system maintenance, identify and prioritize repairs and/or replacement, and meet system users' demands; and</text>
+      <codify:insert>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo recognizes an Asset Management Plan is a dynamic tool and asset management planning is an ongoing effort by service providers to improve system maintenance, identify and prioritize repairs and/or replacement, and meet system users' demands.</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo has authorized the development and implementation of a San Ildefonso Asset Management Team to advise and assist the Pueblo tribal government in the development and recommendations of project proposals for future planning, design, and construction of Infrastructure Project(s); and</text>
+      <codify:insert>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo has authorized the development and implementation of a San Ildefonso Asset Management Team to advise and assist the Pueblo tribal government in the development and recommendations of project proposals for future planning, design, and construction of Infrastructure Project(s).</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo has initiated asset management planning with Asset Inventories of the community water and wastewater systems, roads, irrigation, gas, electrical, telephone and fiber optic lines.</text>
+      <codify:insert>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo has initiated asset management planning with Asset Inventories of the community water and wastewater systems, roads, irrigation, gas, electrical, telephone and fiber optic lines.</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
-      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
-      <text>THAT:</text>
+      <conjunction>NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
+      <text></text>
+      <codify:insert path="6.6.7" num-value="6.6.7.020" tag="section"/>
+      <num/>
       <para>
-        <num>1.</num>
+        <num codify:value="(a)">1.</num>
         <text>The Pueblo de San Ildefonso is fully committed to complete and implement within three years an Asset Management Plan in accordance with the principles of A.M. Kan Work.Association which identify:</text>
         <para>
-          <num>a.</num>
+          <num codify:value="(1)">a.</num>
           <text>The current state of the assets.</text>
         </para>
         <para>
-          <num>b.</num>
+          <num codify:value="(2)">b.</num>
           <text>The desired level of service.</text>
         </para>
         <para>
-          <num>c.</num>
+          <num codify:value="(3)">c.</num>
           <text>Assets that are critical to sustained performance.</text>
         </para>
         <para>
-          <num>d.</num>
+          <num codify:value="(4)">d.</num>
           <text>The best life cycle cost.</text>
         </para>
         <para>
-          <num>e.</num>
+          <num codify:value="(5)">e.</num>
           <text>The long-term funding strategy.</text>
         </para>
       </para>
       <para>
-        <num>2.</num>
+        <num codify:value="(b)">2.</num>
         <text>The Pueblo has identified Terry Aguilar as the Project Manager.  Terry Aguilar and the Pueblo continue to develop an internal team that will be assembled to develop and implement the Asset Management Plan (AMP).  The Sanitation and Facilities Department, Natural Resources Department and Department of Environmental and Cultural Preservation will be involved in the development of the AMP.</text>
       </para>
       <para>
-        <num>3.</num>
+        <num codify:value="(c)">3.</num>
         <text>An Asset Management IQ test, per the EFC manual, will be completed within a year, as part of the AMP implementation.</text>
       </para>
       <para>
-        <num>4.</num>
+        <num codify:value="(d)">4.</num>
         <text>A preliminary schedule for implementation of the Pueblo de San Ildefonso's AMP is identified below.</text>
         <text>
           <table>
@@ -111,7 +161,7 @@
         </text>
       </para>
       <para>
-        <num>5.</num>
+        <num codify:value="(e)">5.</num>
         <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
       </para>
     </recital>

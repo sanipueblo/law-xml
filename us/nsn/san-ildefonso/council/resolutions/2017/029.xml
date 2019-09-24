@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-029">
+<document codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-029">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-029</heading>
   <heading type="law">AUTHORIZING SUBMITTAL OF THE FY 2017-2019 JOHNSON O'MALLEY CONTRACT APPLICATION</heading>
   <meta>
@@ -12,40 +12,85 @@
     </history>
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the                                                          20th   day of       September	, 2017, the following Resolution was adopted:</preamble>
-  <recitals>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.5.14</num>
+      <heading>Authorizing Submittal of the FY 2017-2019 Johnson O'Malley Contract Application</heading>
+      <section>
+        <heading>Findings</heading>
+        <num>6.5.14.010</num>
+        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-029"/>
+      </section>
+    </container>
+  </codify:insert>
+  <recitals codify:path="6.5.14.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe,  recognized as such by the United States of America, with the authority to govern its people, lands and other resources; and</text>
+      <codify:insert path="6.5.14.010">
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America, with the authority to govern its people, lands and other resources.</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo, by and through United States Public Law 93-638, has contracted andadministered key functions for assistance to the tribe through the Bureau of Indian Affairs and through the Bureau of Indian Education that include the Johnson O'Malley (JOM) program; and</text>
+      <codify:insert>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo, by and through United States Public Law 93-638, has contracted andadministered key functions for assistance to the tribe through the Bureau of Indian Affairs and through the Bureau of Indian Education that include the Johnson O'Malley (JOM) program.</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Johnson O'Malley Act program funding provides programs to meet the special   educational needs of the Pueblo's eligible children, and funding to administer the program and costs related to the Indian Education Committee; and</text>
+      <codify:insert>
+        <para>
+          <num>(c)</num>
+          <text>The Johnson O'Malley Act program funding provides programs to meet the special educational needs of the Pueblo's eligible children, and funding to administer the program and costs related to the Indian Education Committee.</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo currently operates and administers the JOM program under the Pueblo's   Education Department in compliance with all components of the application for contract; and</text>
+      <codify:insert>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo currently operates and administers the JOM program under the Pueblo's Education Department in compliance with all components of the application for contract.</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo wishes to continue contracting JOM funding for the 3-year period, FY 2017-2019 to assist in meeting the needs of our children.</text>
+      <codify:insert>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo wishes to continue contracting JOM funding for the 3-year period, FY 2017-2019 to assist in meeting the needs of our children.</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
-      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
-      <text>THAT:</text>
+      <conjunction>NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
+      <text></text>
+      <codify:insert path="6.5.14" num-value="6.5.14.020" tag="section"/>
+      <num/>
       <para>
-        <num>1.</num>
+        <num codify:value="(a)">1.</num>
         <text>The Pueblo de San Ildefonso Council hereby approves submittal of the Application for Contract for the Johnson O'Malley program for a three-year term, 2017-2019; and</text>
+        <codify:find-replace position="last" count="1" path="6.5.14.020|(a)" find="; and" replace="." history="false" display-template=""/>
       </para>
       <para>
-        <num>2.</num>
+        <num codify:value="(b)">2.</num>
         <text>The Pueblo wishes to enter into a P.L. 93-638 Contract for these funds.</text>
       </para>
       <para>
-        <num>3.</num>
+        <num codify:value="(c)">3.</num>
         <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
       </para>
     </recital>
