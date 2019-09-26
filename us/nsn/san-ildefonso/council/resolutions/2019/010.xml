@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Pueblo de San Ildefonso Council Res. No. SI-R19-010">
+<document codify:doc="Pueblo de San Ildefonso Code" codify:path="11.2"  xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Pueblo de San Ildefonso Council Res. No. SI-R19-010">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R19-010</heading>
   <heading type="law">ACT ACCEPTING THE 90% DESIGN FOR PHASE 1 OF THE POJOAQUE BASIN REGIONAL WATER SYSTEM</heading>
   <meta>
@@ -287,20 +287,31 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2019, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.23</num>
+      <heading>Act Accepting the 90% Design for Phase 1 of the Pojoaque Basin Regional Water System</heading>
+    </container>
+  </codify:insert>
   <attachment id="law">
+  <codified:at path="11.2.23"/>
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>ACT ACCEPTING THE 90% DESIGN FOR PHASE 1 OF THE POJOAQUE BASIN REGIONAL WATER SYSTEM</heading>
     <section>
+      <codify:insert num-value="11.2.23.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "ACT ACCEPTING THE 90% DESIGN FOR PHASE 1 OF THE POJOAQUE BASIN REGIONAL WATER SYSTEM ("Act")."</text>
     </section>
     <section>
+      <codify:insert num-value="11.2.23.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to accept the 90% Design for Phase 1 of the Pojoaque Basin Regional Water System.</text>
     </section>
     <section>
+      <codify:insert num-value="11.2.23.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -378,6 +389,7 @@
       </para>
     </section>
     <section>
+      <codify:insert num-value="11.2.23.040"/>
       <num>1.4</num>
       <heading>Authorizations</heading>
       <para>
