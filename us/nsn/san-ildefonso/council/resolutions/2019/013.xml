@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Pueblo de San Ildefonso Council Res. No. SI-R19-013">
+<document codify:doc="Pueblo de San Ildefonso Code" codify:path="2.3" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Pueblo de San Ildefonso Council Res. No. SI-R19-013">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R19-013</heading>
   <heading type="law">APPROVING THE NORTH CENTRAL REGIONAL TRANSIT DISTRICT AMENDED INTERGOVERNMENTAL CONTRACT</heading>
   <meta>
@@ -13,38 +13,98 @@
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
       21st          day of       June          , 2019, the following Resolution was adopted:</preamble>
-  <recitals>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.3.12</num>
+      <heading>Approving the North Central Regional Transit District Amended Intergovernmental Contract</heading>
+      <section>
+        <heading>Findings</heading>
+        <num>2.3.12.010</num>
+        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-013"/>
+      </section>
+    </container>
+  </codify:insert>
+  <recitals codify:path="2.3.12.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+      <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+      <codify:insert path="2.3.12.010">
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the voters of the Pueblo approved a new Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011 pursuant to Federal law; and</text>
+      <codify:insert>
+        <para>
+          <num>(b)</num>
+          <text>The voters of the Pueblo approved a new Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011 pursuant to Federal law.</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo Council ("Council") is the duly constituted Legislative body acting for the Pueblo; and</text>
+      <codify:insert>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo Council ("Council") is the duly constituted Legislative body acting for the Pueblo.</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo pursuant to Section 5 of the Agreement; and</text>
+      <codify:insert>
+        <para>
+          <num>(d)</num>
+          <text>The Council is authorized to make laws for the Pueblo pursuant to Section 5 of the Agreement.</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>New Mexico governmental units are authorized to establish regional transit districts; and</text>
+      <codify:insert>
+        <para>
+          <num>(e)</num>
+          <text>New Mexico governmental units are authorized to establish regional transit districts.</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the initial signatories ("Initial Members") began working together to form such a district in 2003; and</text>
+      <codify:insert>
+        <para>
+          <num>(f)</num>
+          <text>The initial signatories ("Initial Members") began working together to form such a district in 2003.</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the District is requesting that all members execute a new Amended Intergovernmental Contract to add the Village of Questa as a new member and confirm the voting rights of each member; and</text>
+      <codify:insert>
+        <para>
+          <num>(g)</num>
+          <text>The District is requesting that all members execute a new Amended Intergovernmental Contract to add the Village of Questa as a new member and confirm the voting rights of each member.</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council has been fully briefed and has reviewed the attached Amended Intergovernmental Contract and has determined that it is in the best interest of the Pueblo to approve the Amended Contract, provided, however the Council confirms that it is not waiving, limiting or modifying its sovereign immunity from suit by approving the Agreement.</text>
+      <codify:insert>
+        <para>
+          <num>(h)</num>
+          <text>The Council has been fully briefed and has reviewed the attached Amended Intergovernmental Contract and has determined that it is in the best interest of the Pueblo to approve the Amended Contract, provided, however the Council confirms that it is not waiving, limiting or modifying its sovereign immunity from suit by approving the Agreement.</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
@@ -57,10 +117,30 @@
         <num>2.</num>
         <text>By such approval, the Council is not waiving, limiting or modifying its sovereign immunity from suit.</text>
       </para>
+      <codify:insert path="2.3.12">
+        <section>
+          <num>2.3.12.020</num>
+          <text></text>
+          <para>
+            <num>(a)</num>
+            <text>The Council approves the attached Amended Intergovernmental Contract.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>By such approval, the Council is not waiving, limiting or modifying its sovereign immunity from suit.</text>
+          </para>
+        </section>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>NOW BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
+      <codify:insert path="2.3.12">
+        <section>
+          <num>2.3.12.030</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
+        </section>
+      </codify:insert>
     </recital>
   </recitals>
   <procedural-data>

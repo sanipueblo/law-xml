@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Pueblo de San Ildefonso Council Res. No. SI-R19-017">
+<document codify:doc="Pueblo de San Ildefonso Code" codify:path="6.3"  xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Pueblo de San Ildefonso Council Res. No. SI-R19-017">
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R19-017</heading>
   <heading type="law">AUTHORIZATION FOR FISCAL YEAR 2018-2019                          BUDGET MODIFICATION NO. 1</heading>
   <meta>
@@ -13,22 +13,58 @@
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
     21st     day of     June    , 2019, the following Resolution was adopted:</preamble>
-  <recitals>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.3.18</num>
+      <heading>Authorization for Fiscal Year 2018-2019 Budget Modification No. 1</heading>
+      <section>
+        <heading>Findings</heading>
+        <num>6.3.18.010</num>
+        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-017"/>
+      </section>
+    </container>
+  </codify:insert>
+  <recitals codify:path="6.3.18.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+      <codify:insert>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
+      <codify:insert>
+        <para>
+          <num>(b)</num>
+          <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and</text>
+      <codify:insert>
+        <para>
+          <num>(c)</num>
+          <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year; and</text>
+      <codify:insert>
+        <para>
+          <num>(d)</num>
+          <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -56,18 +92,65 @@
           </tr>
         </table>
       </text>
+      <codify:insert>
+        <para>
+          <num>(e)</num>
+          <text>The Council approved the FY2018-2019 Annual Budget on June 15, 2018, as follows:</text>
+          <text>
+            <table>
+              <tr>
+                <th colspan="3">ANNUAL BUDGET:   FISCAL YEAR 2018-2019</th>
+              </tr>
+              <tr>
+                <td>GENERAL FUND</td>
+                <td>$      2,937,680.00</td>
+              </tr>
+              <tr>
+                <td>SPECIAL REVENUE FUND</td>
+                <td colspan="2">$      9,042,493.01</td>
+              </tr>
+              <tr>
+                <td>CAPITAL PROJECTS FUND</td>
+                <td colspan="2">$      1,280,000.00</td>
+              </tr>
+              <tr>
+                <td>TOTAL BUDGET:</td>
+                <td colspan="2">$    13,260,173.01</td>
+              </tr>
+            </table>
+          </text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>it has been determined that certain modifications to the FY 2018-19 Annual Budget are necessary; and</text>
+      <codify:insert>
+        <para>
+          <num>(f)</num>
+          <text>It has been determined that certain modifications to the FY 2018-19 Annual Budget are necessary; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council has reviewed the proposed Budget Modification No. 1 and has determined that it is in the best interest of the Pueblo to approve Budget Modification No. 1; and</text>
+      <codify:insert>
+        <para>
+          <num>(g)</num>
+          <text>The Council has reviewed the proposed Budget Modification No. 1 and has determined that it is in the best interest of the Pueblo to approve Budget Modification No. 1; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo's FY 2018-2019 Annual Budget amount will increase by $16,895.06 as a result of Budget Modification No. 1; and</text>
+      <codify:insert>
+        <para>
+          <num>(h)</num>
+          <text>The Pueblo's FY 2018-2019 Annual Budget amount will increase by $16,895.06 as a result of Budget Modification No. 1; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -95,14 +178,55 @@
           </tr>
         </table>
       </text>
+      <codify:insert>
+        <para>
+          <num>(i)</num>
+          <text>The Pueblo's FY 2018-2019 Annual Budget after Budget Modification No. 1 is as follows:</text>
+          <text>
+            <table>
+              <tr>
+                <th colspan="3">ANNUAL BUDGET:   FISCAL YEAR 2018-2019</th>
+              </tr>
+              <tr>
+                <td>GENERAL FUND</td>
+                <td>$      2,950,506.06</td>
+              </tr>
+              <tr>
+                <td>SPECIAL REVENUE FUND</td>
+                <td colspan="2">$      9,046,562.01</td>
+              </tr>
+              <tr>
+                <td>CAPITAL PROJECTS FUND</td>
+                <td colspan="2">$      1,280,000.00</td>
+              </tr>
+              <tr>
+                <td>TOTAL BUDGET:</td>
+                <td colspan="2">$    13,277,068.07</td>
+              </tr>
+            </table>
+          </text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>that the Council hereby approves and authorizes the attached Budget Modification No. 1 to the FY 2018-2019 Annual Budget and that such modifications shall be effective immediately upon enactment; and</text>
+      <codify:insert path="6.3.18">
+        <section>
+          <num>6.3.18.020</num>
+          <text>The Council hereby approves and authorizes the attached Budget Modification No. 1 to the FY 2018-2019 Annual Budget and that such modifications shall be effective immediately upon enactment.</text>
+        </section>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+      <codify:insert path="6.3.18">
+        <section>
+          <num>6.3.18.030</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        </section>
+      </codify:insert>
     </recital>
   </recitals>
   <procedural-data>
@@ -290,9 +414,11 @@
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
   <attachment id="law">
+    <codify:insert path="6.3.18" num-value="6.3.18.040" tag="section"/>
+    <num/>
     <heading>AUTHORIZATION FOR FISCAL YEAR 2018-2019 BUDGET MODIFICATION NO. 1</heading>
     <para>
-      <num>1.</num>
+      <num codify:value="(a)">1.</num>
       <text>The current FY 2018-2019 Annual Budget, prior to this enactment, is                         as follows:</text>
       <text>
         <table>
@@ -319,25 +445,25 @@
       </text>
     </para>
     <para>
-      <num>2.</num>
+      <num codify:value="(b)">2.</num>
       <text>The Council hereby approves Budget Modification No. 1 to the FY 2018-2019 Annual Budget, which consists of the following:</text>
       <para>
-        <num>(a)</num>
+        <num codify:value="(1)">(a)</num>
         <heading>GF – Education (10-xxxx-100-188-19):</heading>
         <text>Reallocate funds greater than 10% and add donations from Pueblo Opera Program.</text>
       </para>
       <para>
-        <num>(b)</num>
+        <num codify:value="(2)">(b)</num>
         <heading>SRF – Tewa Donation (20-xxxx-750-850-18):</heading>
         <text>Budget Increase in the amount of $4,096.00:  Add donations for the Education Department made in memory of Margaret Siebel for children and youth Tewa language and culture programming.</text>
       </para>
       <para>
-        <num>(c)</num>
+        <num codify:value="(3)">(c)</num>
         <heading>SRF – Chamiza (20-xxxx-750-768-18):</heading>
         <text>Reallocate funds received for Tewa Language Program from the Chamiza Foundation.</text>
       </para>
       <para>
-        <num>(d)</num>
+        <num codify:value="(4)">(d)</num>
         <heading>GF –  Senior Program (10-xxxx-100-197-19):</heading>
         <text>Reallocate funds greater than 10%.</text>
         <text class="center">
@@ -346,19 +472,19 @@
       </para>
     </para>
     <para>
-      <num>3.</num>
+      <num codify:value="(c)">3.</num>
       <text>Budget Modification No. 1 results in an increase to the General Fund in the amount of $12,826.06.</text>
     </para>
     <para>
-      <num>4.</num>
+      <num codify:value="(d)">4.</num>
       <text>Budget Modification No. 1 results in an increase to the Special Revenue Fund in the amount of $4,069.00.</text>
     </para>
     <para>
-      <num>5.</num>
+      <num codify:value="(e)">5.</num>
       <text>There are no changes to the Capital Projects Fund.</text>
     </para>
     <para>
-      <num>6.</num>
+      <num codify:value="(f)">6.</num>
       <text>The Fiscal Year 2018-2019 Annual Budget total after Budget Modification No. 1 is as follows:</text>
       <text>
         <table>
