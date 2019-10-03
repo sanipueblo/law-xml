@@ -226,22 +226,22 @@
   <codify:insert>
     <container>
       <prefix>Part</prefix>
-      <num>2.2.4</num>
+      <num>2.2.5</num>
       <heading>Authorization of Attorney Contract Act of 2018</heading>
     </container>
   </codify:insert>
   <attachment id="law">
-    <codified:at path="2.2.4"/>
+    <codified:at path="2.2.5"/>
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>AUTHORIZATION OF COUNCIL ATTORNEY CONTRACT ACT OF 2019</heading>
     <section>
-      <codify:insert num-value="2.2.4.010"/>
+      <codify:insert num-value="2.2.5.010"/>
       <num>1</num>
       <heading>Authorization of Council Attorney Contract Act of 2019</heading>
       <text>This enactment shall be known as "AUTHORIZATION OF COUNCIL ATTORNEY CONTRACT ACT OF 2019" ("Act").</text>
     </section>
     <section>
-      <codify:insert num-value="2.2.4.020"/>
+      <codify:insert num-value="2.2.5.020"/>
       <num>2</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -255,7 +255,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="2.2.4.030"/>
+      <codify:insert num-value="2.2.5.030"/>
       <num>3</num>
       <heading>Authorization of Contract</heading>
       <text>The Council hereby approves the continuation of the Attorneys' legal representation of the Council including the authorization and approval of a sole-source contract with the Attorneys (Exhibit A).</text>

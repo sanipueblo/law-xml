@@ -232,28 +232,28 @@
   <codify:insert>
     <container>
       <prefix>Part</prefix>
-      <num>6.6.9</num>
+      <num>6.6.10</num>
       <heading>Authorizing a Contract Extension with Portfolio Monitoring, LLC, for Investment Fund Protection</heading>
     </container>
   </codify:insert>
   <attachment id="law">
-    <codified:at path="6.6.9"/>
+    <codified:at path="6.6.10"/>
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>AUTHORIZING A CONTRACT EXTENSION WITH PORTFOLIO MONITORING, LLC, FOR INVESTMENT FUND PROTECTION</heading>
     <section>
-      <codify:insert num-value="6.6.9.010"/>
+      <codify:insert num-value="6.6.10.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as, "AUTHORIZING A CONTRACT EXTENSION WITH PORTFOLIO MONITORING, LLC, FOR INVESTMENT FUND PROTECTION."</text>
     </section>
     <section>
-      <codify:insert num-value="6.6.9.020"/>
+      <codify:insert num-value="6.6.10.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of the Act is to provide the Pueblo with additional protection for the Pueblo's investment accounting by authorizing the Governor to extend the current contract with a highly qualified professional company, Portfolio Monitoring, LLC, to provide ongoing monitoring services of the Pueblo's investment accounts, and to report the findings directly to the Governor and Council.</text>
     </section>
     <section>
-      <codify:insert num-value="6.6.9.030"/>
+      <codify:insert num-value="6.6.10.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -279,7 +279,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="6.6.9.040"/>
+      <codify:insert num-value="6.6.10.040"/>
       <num>1.4</num>
       <heading>Authorization for Portfolio Monitoring, LLC</heading>
       <para>
