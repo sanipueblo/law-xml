@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="council">
+  <heading>Council</heading>
+  <xi:include href="./code/index.xml"/>
+  <collection name="us/nsn/san-ildefonso/council/resolutions">
+    <heading>Resolutions</heading>
+    <xi:include href="./resolutions/2019/index.xml"/>
+    <xi:include href="./resolutions/2018/index.xml"/>
+    <xi:include href="./resolutions/2017/index.xml"/>
+  </collection>
+</collection>

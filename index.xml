@@ -12,11 +12,6 @@
       <html/>
     </canonical-urls>
   </meta>
-  <xi:include href="./us/nsn/san-ildefonso/council/code/index.xml"/>
-  <collection name="us/nsn/san-ildefonso/council/resolutions">
-    <heading>Resolutions</heading>
-    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2019/index.xml"/>
-    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2018/index.xml"/>
-    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2017/index.xml"/>
-  </collection>
+  <xi:include href="./us/nsn/san-ildefonso/council/index.xml"/>
+  <xi:include href="./us/nsn/san-ildefonso/corporations/index.xml"/>
 </library>
