@@ -12,6 +12,17 @@
       <html/>
     </canonical-urls>
   </meta>
-  <xi:include href="./us/nsn/san-ildefonso/council/index.xml"/>
-  <xi:include href="./us/nsn/san-ildefonso/corporations/index.xml"/>
+  <xi:include href="./us/nsn/san-ildefonso/code/index.xml"/>
+  <collection name="us/nsn/san-ildefonso/council/resolutions">
+    <heading>Council Resolutions</heading>
+    <xi:include href="./us/nsn/san-ildefonso/resolutions/2019/index.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/resolutions/2018/index.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/resolutions/2017/index.xml"/>
+  </collection>
+  <collection name="san-ildefonso-services">
+    <heading>San Ildefonso Services, LLC</heading>
+    <text>San Ildefonso Services, LLC is chartered under tribal law as a single member limited liability company wholly owned by the Pueblo.</text>
+    <xi:include href="./us/nsn/san-ildefonso/san-ildefonso-services/articles-of-organizations/index.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/san-ildefonso-services/operating-agreements/index.xml"/>
+  </collection>
 </library>
