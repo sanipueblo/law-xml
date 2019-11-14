@@ -9,7 +9,7 @@
     <canonical-urls>
       <xml-bulk>https://github.com/sanipueblo/law-xml</xml-bulk>
       <html-bulk>https://github.com/sanipueblo/law-html</html-bulk>
-      <html/>
+      <html>https://law.sanipueblo.org</html>
     </canonical-urls>
   </meta>
   <xi:include href="./us/nsn/san-ildefonso/code/index.xml"/>
