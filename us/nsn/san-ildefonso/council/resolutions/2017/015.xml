@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document codify:doc="Pueblo de San Ildefonso Code" codify:path="6.3" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-015">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.3" id="Pueblo de San Ildefonso Council Res. No. SI-R17-015">
+  <num>SI-R17-015</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-015</heading>
-  <heading type="law">ANNUAL BUDGET AUTHORIZATION FOR FISCAL YEAR 2017-2018</heading>
+  <heading type="law">Annual Budget Authorization for Fiscal Year 2017-2018</heading>
   <meta>
     <effective>2017-06-09</effective>
     <citations>
@@ -44,7 +45,7 @@
           <num>(b)</num>
           <text>The voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011, pursuant to Federal law; and</text>
         </para>
-      </codify:insert>    
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -54,7 +55,7 @@
           <num>(c)</num>
           <text>The Council is authorized to make laws for the Pueblo pursuant to Section 5 of the Agreement; and</text>
         </para>
-      </codify:insert>    
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -64,7 +65,7 @@
           <num>(d)</num>
           <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and</text>
         </para>
-      </codify:insert>       
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>

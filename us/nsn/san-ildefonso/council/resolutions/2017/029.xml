@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-029">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5" id="Pueblo de San Ildefonso Council Res. No. SI-R17-029">
+  <num>SI-R17-029</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-029</heading>
-  <heading type="law">AUTHORIZING SUBMITTAL OF THE FY 2017-2019 JOHNSON O'MALLEY CONTRACT APPLICATION</heading>
+  <heading type="law">Authorizing Submittal of the FY 2017-2019 Johnson O'Malley Contract Application</heading>
   <meta>
     <effective>2017-09-21</effective>
     <citations>
@@ -77,7 +78,7 @@
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
-      <text></text>
+      <text/>
       <codify:insert path="6.5.14" num-value="6.5.14.020" tag="section"/>
       <num/>
       <para>

@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-044">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5" id="Pueblo de San Ildefonso Council Res. No. SI-R17-044">
+  <num>SI-R17-044</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-044</heading>
-  <heading type="law">AUTHORIZING THE FY 2017-2019 INFANT AND TODDLER CONTRACT AMENDMENT AND EXTENSION</heading>
+  <heading type="law">Authorizing the FY 2017-2019 Infant and Toddler Contract Amendment and Extension</heading>
   <meta>
     <effective>2017-12-22</effective>
     <citations>
@@ -25,7 +26,7 @@
       </section>
     </container>
   </codify:insert>
-  <recitals  codify:path="6.5.16.010">
+  <recitals codify:path="6.5.16.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>

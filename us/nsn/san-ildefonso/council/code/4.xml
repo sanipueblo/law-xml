@@ -7,7 +7,7 @@
     <prefix>Chapter</prefix>
     <num>4.1</num>
     <heading>Courts and Powers</heading>
-    <annotation type="Editor's Notes">This law was originally enacted in the 1984 Code.</annotation>
+    <annotation type="History">1984 Code</annotation>
     <container>
       <prefix>Part</prefix>
       <num>4.1.1</num>
@@ -358,7 +358,7 @@
     <prefix>Chapter</prefix>
     <num>4.2</num>
     <heading>Court Procedures</heading>
-    <annotation type="Editor's Notes">This law was originally enacted in the 1984 Code.</annotation>
+    <annotation type="History">1984 Code</annotation>
     <container>
       <prefix>Part</prefix>
       <num>4.2.1</num>
@@ -988,7 +988,8 @@
       <prefix>Part</prefix>
       <num>4.4.1</num>
       <heading>Judicial Act of 2012</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-016, dated May 10, 2012.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-016, dated May 10, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
       <section>
         <num>4.4.1.010</num>
         <heading>Findings</heading>

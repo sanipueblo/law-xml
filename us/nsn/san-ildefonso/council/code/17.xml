@@ -11,7 +11,8 @@
       <prefix>Part</prefix>
       <num>17.1.1</num>
       <heading>Background</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R15-006, dated March 13, 2015.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R15-006, dated March 13, 2015.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-006"/>
       <section>
         <num>17.1.1.010</num>
         <heading>Findings</heading>
@@ -32,7 +33,6 @@
         <num>17.1.1.020</num>
         <heading/>
         <text>Pueblo de San Ildefonso Tribal Council hereby enacts the attached law entitled "The Pueblo de San Ildefonso Business Corporation Code".</text>
-        <annotation type="Editor's Notes">Editor's note: The Business Corporation Code uses a different citation and numbering system.</annotation>
       </section>
     </container>
     <container>
@@ -848,7 +848,8 @@
       <prefix>Part</prefix>
       <num>17.2.2</num>
       <heading>Reassumption of Authority and Control Over the San Ildefonso Custodial, LLC</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-034, dated August 28, 2013.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-034, dated August 28, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-034"/>
       <section>
         <num>17.2.2.010</num>
         <heading>Findings</heading>
@@ -961,7 +962,8 @@
       <prefix>Part</prefix>
       <num>17.2.4</num>
       <heading>Resolution Ratifying Amendments to Federal Charter of Pueblo Insurance Agency, Inc.</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R15-019, dated July 30, 2015.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R15-019, dated July 30, 2015.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-019"/>
       <section>
         <num>17.2.4.010</num>
         <heading>Findings</heading>
@@ -1001,7 +1003,8 @@
       <prefix>Part</prefix>
       <num>17.2.5</num>
       <heading>Ratifying The Formal Name Change Of San Ildefonso Custodial, LLC, And Approving The Fourth Amended Operating Agreement Of San Ildefonso Services, LLC, (Formerly Known As San Ildefonso Custodial, LLC)</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-034, dated August 28, 2013.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-034, dated August 28, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-034"/>
       <section>
         <num>17.2.5.010</num>
         <heading>Findings</heading>
@@ -1044,7 +1047,8 @@
       <prefix>Part</prefix>
       <num>17.2.6</num>
       <heading>Amending Section 2.1 Of The Fourth Amended Operating Agreement Of San Ildefonso Services, Llc (F/K/A San Ildefonso Custodial, Llc) To Identify Current Board Of Managers</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R17-007, dated March 21, 2017.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R17-007, dated March 21, 2017.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-007"/>
       <section>
         <num>17.2.6.010</num>
         <heading>Findings</heading>

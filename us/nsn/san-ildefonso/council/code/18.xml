@@ -11,7 +11,8 @@
       <prefix>Part</prefix>
       <num>18.1.1</num>
       <heading>Background</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-037, dated September 28, 2013.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-037, dated September 28, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
       <section>
         <num>18.1.1.010</num>
         <heading>Findings</heading>

@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-030">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5" id="Pueblo de San Ildefonso Council Res. No. SI-R17-030">
+  <num>SI-R17-030</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-030</heading>
-  <heading type="law">AUTHORIZING AND APPROVING SUBMISSION OF A COMPLETED APPLICATION FOR FINANCIAL ASSISTANCE AND PROJECT APPROVAL TO THE NEW MEXICO FINANCE AUTHORITY</heading>
+  <heading type="law">Authorizing and Approving Submission of a Completed Application for Financial Assistance and Project Approval to the New Mexico Finance Authority</heading>
   <meta>
     <effective>2017-10-02</effective>
     <citations>
@@ -87,7 +88,7 @@
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
-      <text></text>
+      <text/>
       <codify:insert path="6.5.15" num-value="6.5.15.020" tag="section"/>
       <num/>
       <para>

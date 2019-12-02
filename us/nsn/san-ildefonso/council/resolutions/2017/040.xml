@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document codify:doc="Pueblo de San Ildefonso Code" codify:path="2.3" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-040">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="2.3" id="Pueblo de San Ildefonso Council Res. No. SI-R17-040">
+  <num>SI-R17-040</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-040</heading>
-  <heading type="law">ACT RESCINDING THE DELEGATION OF THE PUEBLO DE SAN ILDEFONSO'S GOVERNANCE AUTHORITY OVER THE SANTA FE INDIAN SCHOOL TRUST LANDS</heading>
+  <heading type="law">Act Rescinding the Delegation of the Pueblo de San Ildefonso's Governance Authority over the Santa Fe Indian School Trust Lands</heading>
   <meta>
     <effective>2017-11-23</effective>
     <citations>

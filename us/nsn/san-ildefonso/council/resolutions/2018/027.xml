@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document codify:doc="Pueblo de San Ildefonso Code" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R18-027">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" id="Pueblo de San Ildefonso Council Res. No. SI-R18-027">
+  <num>SI-R18-027</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R18-027</heading>
-  <heading type="law">TRIAL DATE DEADLINE MODIFICATION ACT</heading>
+  <heading type="law">Trial Date Deadline Modification Act</heading>
   <meta>
     <effective>2018-11-20</effective>
     <citations>

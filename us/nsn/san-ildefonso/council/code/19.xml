@@ -11,7 +11,8 @@
       <prefix>Part</prefix>
       <num>19.1.1</num>
       <heading>Department of Tribal Services Enabling Act</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-026, dated June 18, 2012.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-026, dated June 18, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-026"/>
       <section>
         <num>19.1.1.010</num>
         <heading>Findings</heading>
@@ -162,7 +163,8 @@
       <prefix>Part</prefix>
       <num>19.1.2</num>
       <heading>Public Use Requirements for Tunyo Po Sidewalk and School Crossing Improvement Project Act of 2016</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-008, dated May 25, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-008, dated May 25, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-008"/>
       <section>
         <num>19.1.2.010</num>
         <heading>Findings</heading>
@@ -245,7 +247,8 @@
       <prefix>Part</prefix>
       <num>19.2.1</num>
       <heading>Animal Control Act</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-025, dated November 6, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-025, dated November 6, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
       <section>
         <num>19.2.1.010</num>
         <heading>FINDINGS, PURPOSE AND APPLICABILITY.</heading>
@@ -1139,7 +1142,8 @@
       <prefix>Part</prefix>
       <num>19.3.1</num>
       <heading>Reaffirmation of the Tribal Personnel Manual</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-015, dated March 1, 2012.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-015, dated March 1, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-015"/>
       <section>
         <num>19.3.1.010</num>
         <heading>Findings</heading>
@@ -2512,7 +2516,8 @@
       <prefix>Part</prefix>
       <num>19.4.1</num>
       <heading>Distributions</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R17-001, dated January 18, 2017.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R17-001, dated January 18, 2017.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-001"/>
       <section>
         <num>19.4.1.010</num>
         <heading>Findings</heading>

@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document codify:doc="Pueblo de San Ildefonso Code" codify:path="2.3" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R19-006">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="2.3" id="Pueblo de San Ildefonso Council Res. No. SI-R19-006">
+  <num>SI-R19-006</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R19-006</heading>
-  <heading type="law">APPROVING THE NORTH CENTRAL REGIONAL TRANSIT DISTRICT AMENDED INTERGOVERNMENTAL CONTRACT</heading>
+  <heading type="law">Approving the North Central Regional Transit District Amended Intergovernmental Contract</heading>
   <meta>
     <effective>2019-03-02</effective>
     <citations>
@@ -253,7 +254,7 @@
       <num>2.3.11</num>
       <heading>Approving the North Central Regional Transit District Amended Intergovernmental Contract</heading>
     </container>
-  </codify:insert>  
+  </codify:insert>
   <attachment id="law">
     <codified:at path="2.3.11"/>
     <text>PUEBLO DE SAN ILDEFONSO</text>

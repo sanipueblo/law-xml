@@ -11,7 +11,8 @@
       <prefix>Part</prefix>
       <num>6.1.1</num>
       <heading>Department of Tribal Administration Enabling Act</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-027, dated June 18, 2012.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-027, dated June 18, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-027"/>
       <section>
         <num>6.1.1.010</num>
         <heading>Findings</heading>
@@ -142,7 +143,8 @@
       <prefix>Part</prefix>
       <num>6.2.1</num>
       <heading>Department of Accounting and Finance Enabling Act</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-020, dated June 18, 2012.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-020, dated June 18, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-020"/>
       <section>
         <num>6.2.1.010</num>
         <heading>Findings</heading>
@@ -269,7 +271,8 @@
       <prefix>Part</prefix>
       <num>6.3.1</num>
       <heading>Annual Budget Authorization for Fiscal Year 2015-2016</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R15-014, dated June 22, 2015.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R15-014, dated June 22, 2015.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-014"/>
       <section>
         <num>6.3.1.010</num>
         <heading>Findings</heading>
@@ -374,7 +377,7 @@
       <prefix>Part</prefix>
       <num>6.3.2</num>
       <heading>FY 2015-2016 New Funding Council Adjustment "NF-1"</heading>
-      <annotation type="Editor's Notes">NEED RESOLUTION # FOR NF-1</annotation>
+      <annotation type="Editor's Notes" dest="container">NEED RESOLUTION # FOR NF-1</annotation>
       <section>
         <num>6.3.2.010</num>
         <heading>Findings</heading>
@@ -575,7 +578,8 @@
       <prefix>Part</prefix>
       <num>6.3.3</num>
       <heading>FY 2015-2016 New Funding "NF-2"</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-001, dated February 5, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-001, dated February 5, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-001"/>
       <section>
         <num>6.3.3.010</num>
         <heading>Findings</heading>
@@ -794,7 +798,8 @@
       <prefix>Part</prefix>
       <num>6.3.4</num>
       <heading>FY 2015-2016 New Funding "NF-3"</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-006, dated May 16, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-006, dated May 16, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-006"/>
       <section>
         <num>6.3.4.010</num>
         <heading>Findings</heading>
@@ -963,7 +968,8 @@
       <prefix>Part</prefix>
       <num>6.3.5</num>
       <heading>FY 2015-2016 New Funding "NF-4"</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-009, dated May 26, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-009, dated May 26, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-009"/>
       <section>
         <num>6.3.5.010</num>
         <heading>Findings</heading>
@@ -1150,7 +1156,8 @@
       <prefix>Part</prefix>
       <num>6.3.6</num>
       <heading>FY 2016-2017 New Funding "NF-1"</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-023, dated October 18, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-023, dated October 18, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-023"/>
       <section>
         <num>6.3.6.010</num>
         <heading>Findings</heading>
@@ -1367,7 +1374,8 @@
       <prefix>Part</prefix>
       <num>6.3.7</num>
       <heading>FY 2016-2017 New Funding "NF-1"</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-023, dated October 18, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-023, dated October 18, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-023"/>
       <section>
         <num>6.3.7.010</num>
         <heading>Findings</heading>
@@ -1580,7 +1588,8 @@
       <prefix>Part</prefix>
       <num>6.3.8</num>
       <heading>Annual Budget Authorization for Fiscal Year 2016-2017</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-011, dated June 21, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-011, dated June 21, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-011"/>
       <section>
         <num>6.3.8.010</num>
         <heading>Findings</heading>
@@ -1725,7 +1734,8 @@
       <prefix>Part</prefix>
       <num>6.3.9</num>
       <heading>Authorization For Fiscal Year 2016-2017 Budget Modification No. 1</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R17-002, dated January 18, 2017.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R17-002, dated January 18, 2017.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-002"/>
       <section>
         <num>6.3.9.010</num>
         <heading>Findings</heading>
@@ -1909,7 +1919,8 @@
       <prefix>Part</prefix>
       <num>6.4.1</num>
       <heading>Fiscal Procedures Act of 2012</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-019, dated June 18, 2012.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-019, dated June 18, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-019"/>
       <section>
         <num>6.4.1.010</num>
         <heading>Findings</heading>
@@ -2005,7 +2016,7 @@
             <text>the Agreement;</text>
           </para>
         </para>
-        <annotation type="Editor's Notes">This subsection was added to the Fiscal Procedures Act by amendment pursuant to the Fiscal Procedures Act Amendments of 2016, Council Resolution No. SI-R16-016, dated August 6, 2016.</annotation>
+        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-016"/>
         <para>
           <num>(c)</num>
           <text>Council law or resolution;</text>
@@ -2021,7 +2032,8 @@
         <text>
           <s>(c)	The Council shall authorize department or program activities for which funds can be spent.  An authorization can be general and not specify each item within the budget, provided that such budget items support the authorized Department or program goals and activities.  Council approval of a grant or contract authorizes the types of expenditures for which funds can be spent.  An item can be included in the annual budget if there is such an authorization.</s>
         </text>
-        <annotation type="Editor's Notes">Subsection (c) was deleted and a new subsection was added to the Fiscal Procedures Act pursuant to the Fiscal Procedures Act Amendments of 2016, Council Resolution No. SI-R16-016, dated August 6, 2016.</annotation>
+        <annotation type="Editor's Notes" dest="container">Subsection (c) was deleted and a new subsection was added to the Fiscal Procedures Act pursuant to the Fiscal Procedures Act Amendments of 2016, Council Resolution No. SI-R16-016, dated August 6, 2016.</annotation>
+        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-016"/>
         <para>
           <num>(f)</num>
           <text>The Annual Budget shall include an appropriation of funds for each branch of government as follows:</text>
@@ -2108,15 +2120,17 @@
         <para>
           <num>(e)</num>
           <text>In accordance with the status of the Courts in the Agreement as a coordinate branch of government, the Council hereby recognizes the inherent power of the Courts and Judicial branch officials to exercise the powers vested in them by the Agreement, including managerial, administrative, and personnel authority necessary to effectively fulfill their Judicial duties and responsibilities.  In administering appropriated funds for the Judicial branch, the Chief Justice shall have the authority to reassign and/or transfer funds appropriated for the Judicial branch for expenditure on any other function or purpose necessary for the Courts to properly operate in accordance with the Agreement and the laws of the Pueblo.</text>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-016"/>
         </para>
         <para>
           <num>(f)</num>
           <text>In accordance with the status of the Council in the Agreement as a coordinate branch of government, the Council hereby recognizes the inherent power of the Council and Legislative branch officials to exercise the powers vested in them by the Agreement, including managerial, administrative, and personnel authority necessary to effectively fulfill their Legislative duties and responsibilities.  In administering appropriated funds for the Legislative branch, the Lieutenant Governor shall have the authority to reassign and/or transfer funds appropriated for the Legislative branch for expenditure on any other function or purpose necessary for the Council to properly operate in accordance with a Legislative Order approved by the Council.</text>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-016"/>
         </para>
         <para>
           <num>(g)</num>
           <text>The role of the Governor and Finance Department in administering and processing expenditure requests from the Judicial and Legislative branches of government shall be to determine if the Courts or Council, as the case may be, have funds available from an appropriation in an approved budget, and if such funds are available, then the Governor shall ensure that such requests are completed in a timely manner, which shall be deemed to fulfill his fiduciary obligation as prescribed in the Agreement.</text>
-          <annotation type="Editor's Notes">Subsection (e), (f), and (g) were added to the Fiscal Procedures Act by amendment pursuant to the Fiscal Procedures Act Amendments of 2016, Council Resolution No. SI-R16-016, dated August 6, 2016.</annotation>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-016"/>
         </para>
       </section>
       <section>
@@ -2325,7 +2339,8 @@
       <prefix>Part</prefix>
       <num>6.4.3</num>
       <heading>Authorization for Fiscal Year 2015-2016 Budget Modification No. 1</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-003, dated April 1, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-003, dated April 1, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-003"/>
       <section>
         <num>6.4.3.010</num>
         <heading>Findings</heading>
@@ -2369,7 +2384,8 @@
       <prefix>Part</prefix>
       <num>6.4.4</num>
       <heading>Authorization for Fiscal Year 2015-2016 Budget Modification No. 2</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-010, dated June 3, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-010, dated June 3, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-010"/>
       <section>
         <num>6.4.4.010</num>
         <heading>Findings</heading>
@@ -2485,7 +2501,8 @@
       <prefix>Part</prefix>
       <num>6.5.1</num>
       <heading>Act Authorizing the Governor to Enter into PL. 93-638 Contracts with the Bureau of Reclamation and Bureau of Indian Affairs to Fund the Aamodt Water Settlement Implementation Activities</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-041, dated September 15, 2012.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-041, dated September 15, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-041"/>
       <section>
         <num>6.5.1.010</num>
         <heading>Findings</heading>
@@ -2540,7 +2557,8 @@
       <prefix>Part</prefix>
       <num>6.5.2</num>
       <heading>Authorizing Support For the Pueblo de San Ildefonso Tewa Language Revitalization and Preservation Project</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-022, dated June 5, 2013.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-022, dated June 5, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-022"/>
       <section>
         <num>6.5.2.010</num>
         <heading>Findings</heading>
@@ -2575,7 +2593,8 @@
       <prefix>Part</prefix>
       <num>6.5.3</num>
       <heading>Authorizing Tribal Management Grant Application</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-024, dated June 17, 2013.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-024, dated June 17, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-024"/>
       <section>
         <num>6.5.3.010</num>
         <heading>Findings</heading>
@@ -2598,7 +2617,8 @@
       <prefix>Part</prefix>
       <num>6.5.4</num>
       <heading>Authorizing Submittal of the FY 2013-2016 Johnson O'Malley Contract Application</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-029, dated July 29, 2013.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-029, dated July 29, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-029"/>
       <section>
         <num>6.5.4.010</num>
         <heading>Findings</heading>
@@ -2660,7 +2680,8 @@
       <prefix>Part</prefix>
       <num>6.5.6</num>
       <heading>Support and Approval for Submission of Title VI Federal Application for Continued Funding for the ENIPC, Inc. Senior Citizens Program</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-047, dated December 2, 2013.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-047, dated December 2, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-047"/>
       <section>
         <num>6.5.6.010</num>
         <heading>Findings</heading>
@@ -2700,7 +2721,8 @@
       <prefix>Part</prefix>
       <num>6.5.7</num>
       <heading>Act Authorizing the Governor to Enter Into a P.L. 93-638 Contract with the Bureau of Reclamation to Fund the Aamodt Water Settlement Implementation Activities</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R15-007, dated March 13, 2015.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R15-007, dated March 13, 2015.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-007"/>
       <section>
         <num>6.5.7.010</num>
         <heading>Findings</heading>
@@ -2751,7 +2773,8 @@
       <prefix>Part</prefix>
       <num>6.5.8</num>
       <heading>Act Authorizing a Contract with the Bureau of Reclamation For Funding Under the New Mexico Rio Grande Pueblos Irrigation Infrastructure Project</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R15-016, dated June 22, 2015.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R15-016, dated June 22, 2015.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-016"/>
       <section>
         <num>6.5.8.010</num>
         <heading>Findings</heading>
@@ -2782,7 +2805,8 @@
       <prefix>Part</prefix>
       <num>6.5.9</num>
       <heading>Authorizing Submittal of FY 2016-2019 Johnson O'Malley Contract Application</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R15-017, dated June 22, 2015.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R15-017, dated June 22, 2015.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-017"/>
       <section>
         <num>6.5.9.010</num>
         <heading>Findings</heading>
@@ -2818,7 +2842,8 @@
       <prefix>Part</prefix>
       <num>6.5.10</num>
       <heading>Grant Application and Authorization Act of 2015</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R15-021, dated August 11, 2015.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R15-021, dated August 11, 2015.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-021"/>
       <section>
         <num>6.5.10.010</num>
         <heading>Findings</heading>
@@ -2912,7 +2937,8 @@
       <prefix>Part</prefix>
       <num>6.5.11</num>
       <heading>Grant Application and Authorization Act of 2016</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-019, dated September 8, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-019, dated September 8, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-019"/>
       <section>
         <num>6.5.11.010</num>
         <heading>Findings</heading>
@@ -3005,7 +3031,8 @@
       <prefix>Part</prefix>
       <num>6.5.12</num>
       <heading>Submittal For 23 Usc 202(C) Tribal Transportation Planning (66k) And The Tribal Transportation Program (TTP) (6k1) Funding</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-014, dated July 7, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-014, dated July 7, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-014"/>
       <section>
         <num>6.5.12.010</num>
         <heading>Findings</heading>
@@ -3071,7 +3098,8 @@
       <prefix>Part</prefix>
       <num>6.6.1</num>
       <heading>Approving a Long-Term Investment Plan for the Pueblo de 					San Ildefonso Claim Settlement Act of 2005 Trust Account</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-020, dated May 13, 2013.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-020, dated May 13, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-020"/>
       <section>
         <num>6.6.1.010</num>
         <heading>Findings</heading>
@@ -3118,7 +3146,8 @@
       <prefix>Part</prefix>
       <num>6.6.2</num>
       <heading>Authorizing Change of Brokerage Clearing Firm</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R15-024, dated August 31, 2015.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R15-024, dated August 31, 2015.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-024"/>
       <section>
         <num>6.6.2.010</num>
         <heading>Findings</heading>
@@ -3150,7 +3179,8 @@
       <prefix>Part</prefix>
       <num>6.6.3</num>
       <heading>Adopting The Statement Of Investment Policy Objectives And Guidelines – Asset Appreciation (Long-Term) Investment Portfolio</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-026, dated December 8, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-026, dated December 8, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-026"/>
       <section>
         <num>6.6.3.010</num>
         <heading>Findings</heading>
@@ -3541,7 +3571,8 @@
       <prefix>Part</prefix>
       <num>6.6.4</num>
       <heading>Adopting The Statement Of Investment Policy Objectives And Guidelines – High Income (Short-Term) Investment Portfolio</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-027, dated December 8, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-027, dated December 8, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-027"/>
       <section>
         <num>6.6.4.010</num>
         <heading>Findings</heading>
@@ -3950,7 +3981,8 @@
       <prefix>Part</prefix>
       <num>6.6.5</num>
       <heading>Investment Advisor Authorization Act</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-032, dated December 22, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-032, dated December 22, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-032"/>
       <section>
         <num>6.6.5.010</num>
         <heading>Findings</heading>
@@ -4015,7 +4047,8 @@
       <prefix>Part</prefix>
       <num>6.6.6</num>
       <heading>Investment Fund Protection</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-033, dated December 22, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-033, dated December 22, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-033"/>
       <section>
         <num>6.6.6.010</num>
         <heading>Findings</heading>
@@ -4101,7 +4134,8 @@
       <prefix>Part</prefix>
       <num>6.7.1</num>
       <heading>Personnel Policy Manual Clarification Act</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R17-003, dated March 3, 2017.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R17-003, dated March 3, 2017.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-003"/>
       <section>
         <num>6.7.1.010</num>
         <heading>Findings</heading>

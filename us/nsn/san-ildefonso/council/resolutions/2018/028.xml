@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R18-028">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5" id="Pueblo de San Ildefonso Council Res. No. SI-R18-028">
+  <num>SI-R18-028</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R18-028</heading>
-  <heading type="law">GRANT APPLICATION AND AUTHORIZATION ACT OF 2018</heading>
+  <heading type="law">Grant Application and Authorization Act of 2018</heading>
   <meta>
     <effective>2018-11-28</effective>
     <citations>

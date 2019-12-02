@@ -11,7 +11,8 @@
       <prefix>Part</prefix>
       <num>13.1.1</num>
       <heading>Department of Education Enabling Act</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-022, dated June 18, 2012.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-022, dated June 18, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-022"/>
       <section>
         <num>13.1.1.010</num>
         <heading>Findings</heading>
@@ -138,7 +139,8 @@
       <prefix>Part</prefix>
       <num>13.1.2</num>
       <heading>San Ildefonso Pueblo Scholarship Endowment Fund</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-001, dated January 3, 2012.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-001, dated January 3, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-001"/>
       <section>
         <num>13.1.2.010</num>
         <heading>Findings</heading>
@@ -171,7 +173,8 @@
       <prefix>Part</prefix>
       <num>13.2.1</num>
       <heading>Support Resolution For Pueblo de San Ildefonso Tewa Language Project</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-010, dated January 26, 2012; (Note reference to 36-month project period).</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-010, dated January 26, 2012; (Note reference to 36-month project period).</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-010"/>
       <section>
         <num>13.2.1.010</num>
         <heading>Findings</heading>

@@ -11,7 +11,8 @@
       <prefix>Part</prefix>
       <num>23.1.1</num>
       <heading>Department of Environmental and Cultural Preservation Enabling Act</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-023, dated June 18, 2012.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-023, dated June 18, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-023"/>
       <section>
         <num>23.1.1.010</num>
         <heading>Findings</heading>
@@ -140,7 +141,8 @@
       <prefix>Part</prefix>
       <num>23.1.2</num>
       <heading>Tribal Historic Preservation Office Authorization Act of 2016</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-004, dated April 11, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-004, dated April 11, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-004"/>
       <section>
         <num>23.1.2.010</num>
         <heading>Findings</heading>

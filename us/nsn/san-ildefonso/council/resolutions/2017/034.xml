@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document codify:doc="Pueblo de San Ildefonso Code" codify:path="6.2" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-034">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.2" id="Pueblo de San Ildefonso Council Res. No. SI-R17-034">
+  <num>SI-R17-034</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-034</heading>
-  <heading type="law">THE ACCOUNTING POLICIES &amp; PROCEDURES MANUAL ACT OF 2017</heading>
+  <heading type="law">The Accounting Policies &amp; Procedures Manual Act of 2017</heading>
   <meta>
     <effective>2017-11-04</effective>
     <citations>

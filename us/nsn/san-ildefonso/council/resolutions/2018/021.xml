@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R18-021">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5" id="Pueblo de San Ildefonso Council Res. No. SI-R18-021">
+  <num>SI-R18-021</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R18-021</heading>
-  <heading type="law">APPROVING THE I.H.S. COMMUNITY HEALTH REPRESENTATIVE PROGRAM BEGINNING FY 2019</heading>
+  <heading type="law">Approving the I.H.S. Community Health Representative Program Beginning FY 2019</heading>
   <meta>
     <effective>2018-09-20</effective>
     <citations>
@@ -109,7 +110,7 @@
       <codify:insert path="6.5.19">
         <section>
           <num>6.5.19.020</num>
-          <text></text>
+          <text/>
           <para>
             <num>(a)</num>
             <text>The Pueblo de San Ildefonso Council requests the Public Health Service, Indian Health Service, to enter a new contract agreement with the Pueblo de San Ildefonso for a Community Health Representative Program for a three year period beginning <strong>January 1, 2019</strong> and ending <strong>December 31, 2021</strong>, and</text>

@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Pueblo de San Ildefonso Council Res. No. SI-R19-012">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5" id="Pueblo de San Ildefonso Council Res. No. SI-R19-012">
+  <num>SI-R19-012</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R19-012</heading>
-  <heading type="law">SUBMITTAL FOR 23 U.S.C. 202 TRIBAL TRANSPORTATION PLANNING (66K) AND THE TRIBAL TRANSPORTATION PROGRAM (TTP)(6K1) FUNDING</heading>
+  <heading type="law">Submittal for 23 U.S.C. 202 Tribal Transportation Planning (66K) and the Tribal Transportation Program (TTP)(6K1) Funding</heading>
   <meta>
     <effective>2019-06-21</effective>
     <citations>
@@ -78,7 +79,7 @@
           <para>
             <num>(2)</num>
             <text>Proposed Statement of Work for Planning, Design, Construction and/or Road Maintenance Supplemental</text>
-          </para>          
+          </para>
           <para>
             <num>(3)</num>
             <text>Budget</text>

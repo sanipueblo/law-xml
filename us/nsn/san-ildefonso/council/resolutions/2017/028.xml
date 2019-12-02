@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document codify:doc="Pueblo de San Ildefonso Code" codify:path="17.2" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-028">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="17.2" id="Pueblo de San Ildefonso Council Res. No. SI-R17-028">
+  <num>SI-R17-028</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-028</heading>
-  <heading type="law">AMENDING ARTICLE XI(I) OF THE THIRD AMENDED ARTICLES OF ORGANIZATION AND SECTION 2.7.3 OF THE FOURTH AMENDED OPERATING AGREEMENT OF SAN ILDEFONSO SERVICES, LLC</heading>
+  <heading type="law">Amending Article XI(I) of the Third Amended Articles of Organization and Section 2.7.3 of the Fourth Amended Operating Agreement of San Ildefonso Services, LLC</heading>
   <meta>
     <effective>2017-09-08</effective>
     <citations>
@@ -107,7 +108,7 @@
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
-      <text></text>
+      <text/>
       <codify:insert path="17.2.8" num-value="17.2.8.020" tag="section"/>
       <num/>
       <para>

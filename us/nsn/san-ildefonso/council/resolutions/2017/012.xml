@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document codify:doc="Pueblo de San Ildefonso Code" codify:path="11.2"  xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-012">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="11.2" id="Pueblo de San Ildefonso Council Res. No. SI-R17-012">
+  <num>SI-R17-012</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-012</heading>
-  <heading type="law">ACT AUTHORIZING FOURTH WITHDRAWAL OF AAMODT WATER SETTLEMENT TRUST FUNDS FROM THE OFFICE OF SPECIAL TRUSTEE TO FUND AAMODT SETTLEMENT IMPLEMENTATION ACTIVITIES REQUESTED BY PUEBLO IN COORDINATION WITH REGIONAL WATER SYSTEM WORK</heading>
+  <heading type="law">Act Authorizing Fourth Withdrawal of Aamodt Water Settlement Trust Funds from the Office of Special Trustee to Fund Aamodt Settlement Implementation Activities Requested by Pueblo in Coordination with Regional Water System Work</heading>
   <meta>
     <effective>2017-05-25</effective>
     <citations>
@@ -198,7 +199,7 @@
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED:</conjunction>
-      <text></text>
+      <text/>
       <para>
         <num>1.</num>
         <text>The Pueblo de San Ildefonso Council authorizes and directs the Governor to take all steps necessary to implement this resolution, including signing all documents needed for withdrawal of funds in the amount of $744,289.00 from the Pueblo's share of the Pueblo Conservation Fund held by the federal Office of Special Trustee, and hiring and contracting for the purposes described in the attached Scope of Work and Budget.</text>
@@ -210,7 +211,7 @@
       <codify:insert path="11.2.21">
         <section>
           <num>11.2.21.020</num>
-          <text></text>
+          <text/>
           <para>
             <num>(a)</num>
             <text>The Pueblo de San Ildefonso Council authorizes and directs the Governor to take all steps necessary to implement this resolution, including signing all documents needed for withdrawal of funds in the amount of $744,289.00 from the Pueblo's share of the Pueblo Conservation Fund held by the federal Office of Special Trustee, and hiring and contracting for the purposes described in the attached Scope of Work and Budget.</text>

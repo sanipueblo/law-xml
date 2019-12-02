@@ -40,7 +40,8 @@
       <prefix>Part</prefix>
       <num>2.1.2</num>
       <heading>Signatory Authority Act</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-018, dated April 18, 2012.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-018, dated April 18, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-018"/>
       <section>
         <num>2.1.2.010</num>
         <heading>Short Title</heading>
@@ -159,7 +160,8 @@
       <prefix>Part</prefix>
       <num>2.2.1</num>
       <heading>Authorizing Emergency Powers to Governor</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-003, dated January 3, 2012.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-003, dated January 3, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
       <section>
         <num>2.2.1.010</num>
         <heading>Findings</heading>
@@ -240,7 +242,8 @@
       <prefix>Part</prefix>
       <num>2.3.1</num>
       <heading>Delegating to the Governor Certain Governmental Authority of The Pueblo Over Joint Trust Lands in Albuquerque</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-012, dated April 9, 2013.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-012, dated April 9, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-012"/>
       <section>
         <num>2.3.1.010</num>
         <heading>Findings</heading>
@@ -345,7 +348,8 @@
       <prefix>Part</prefix>
       <num>2.3.2</num>
       <heading>Approving Amendment No. 2 to Perpetual Ground Lease of Former Albuquerque Indian School Property</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-014, dated April 22, 2013.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-014, dated April 22, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-014"/>
       <section>
         <num>2.3.2.010</num>
         <heading>Findings</heading>
@@ -416,7 +420,8 @@
       <prefix>Part</prefix>
       <num>2.3.4</num>
       <heading>Authorizing a Cooperative Agreement Between the State of New Mexico Taxation and Revenue Department and the Pueblo de San Ildefonso</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-038, dated September 23, 2013.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-038, dated September 23, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-038"/>
       <section>
         <num>2.3.4.010</num>
         <heading>Findings</heading>
@@ -457,7 +462,8 @@
       <prefix>Part</prefix>
       <num>2.3.5</num>
       <heading>Accepting the Memorandum of Agreement Between The U.S. Department of Energy/National Nuclear Security Administration and the Pueblo De San Ildefonso</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R14-023, dated June 5, 2014.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R14-023, dated June 5, 2014.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R14-023"/>
       <section>
         <num>2.3.5.010</num>
         <heading>Findings</heading>
@@ -667,7 +673,8 @@
       <prefix>Part</prefix>
       <num>2.4.1</num>
       <heading>Governor's Code of Ethics and Conduct</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-018, dated September 2, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-018, dated September 2, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-018"/>
       <section>
         <num>2.4.1.010</num>
         <heading>Findings</heading>

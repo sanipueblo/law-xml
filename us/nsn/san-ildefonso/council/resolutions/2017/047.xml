@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document codify:doc="Pueblo de San Ildefonso Code" codify:path="17.2" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo de San Ildefonso Council Res. No. SI-R17-047">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="17.2" id="Pueblo de San Ildefonso Council Res. No. SI-R17-047">
+  <num>SI-R17-047</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R17-047</heading>
-  <heading type="law">APPROVING AND ENACTING AMENDED ARTICLES OF ORGANIZATION AND AMENDED OPERATING AGREEMENT FOR SAN ILDEFONSO SERVICES, LLC</heading>
+  <heading type="law">Approving and Enacting Amended Articles of Organization and Amended Operating Agreement for San Ildefonso Services, LLC</heading>
   <meta>
     <effective>2017-12-29</effective>
     <citations>

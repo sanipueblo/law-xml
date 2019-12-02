@@ -11,7 +11,8 @@
       <prefix>Part</prefix>
       <num>11.1.1</num>
       <heading>Department of Natural Resources Enabling Act</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-025, dated June 18, 2012.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-025, dated June 18, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-025"/>
       <section>
         <num>11.1.1.010</num>
         <heading>Findings</heading>
@@ -172,7 +173,8 @@
       <prefix>Part</prefix>
       <num>11.2.1</num>
       <heading>Approving the United States Bureau of Reclamation to Perform River Maintenance within the Rio Grande River</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-032, dated August 20, 2012.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-032, dated August 20, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-032"/>
       <section>
         <num>11.2.1.010</num>
         <heading>Findings</heading>
@@ -236,7 +238,8 @@
       <prefix>Part</prefix>
       <num>11.2.2</num>
       <heading>Act Approving the Revised Settlement Agreement Dated April 19, 2012, the Cost-Sharing and System Integration Agreement, and Waivers and Releases of Some Claims in the Water Rights Adjudication, State v. Aamodt.</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-035, dated September 5, 2012.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-035, dated September 5, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-035"/>
       <section>
         <num>11.2.2.010</num>
         <heading>Findings</heading>
@@ -296,7 +299,8 @@
       <prefix>Part</prefix>
       <num>11.2.3</num>
       <heading>Act Authorizing Evaluation and Negotiation of Subsequent Agreements and Documents in State v. Aamodt.</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-036, dated September 5, 2012.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-036, dated September 5, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-036"/>
       <section>
         <num>11.2.3.010</num>
         <heading>Findings</heading>
@@ -365,7 +369,8 @@
       <prefix>Part</prefix>
       <num>11.2.4</num>
       <heading>Granting the Bureau of Reclamation and Its Contactors Permission to Survey Within the Exterior Boundaries of the Land Owned by the Pueblo de San Ildefonso In Order to Plan and Design the Pojoaque Basin Regional Water System as Authorized by the Aamodt Litigation Settlement Act – Public Law 111-291 Title VI, Enacted December 8, 2010.</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-042, dated October 9, 2012.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-042, dated October 9, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-042"/>
       <section>
         <num>11.2.4.010</num>
         <heading>Findings</heading>
@@ -402,7 +407,8 @@
       <prefix>Part</prefix>
       <num>11.2.5</num>
       <heading>Selection of Preferred Option 9 for River Diversion and Treatment Plant Location For Regional Water System as Part of the Settlement of the Water Rights Adjudication State v. Aamodt.</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-005, dated March 13, 2013.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-005, dated March 13, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-005"/>
       <section>
         <num>11.2.5.010</num>
         <heading>Findings</heading>
@@ -462,7 +468,8 @@
       <prefix>Part</prefix>
       <num>11.2.6</num>
       <heading>Support for Indian Health Services to Conduct an Environmental Assessment and Geotechnical Investigation for the Water Main to Pajarito; and Planning and Design of the New Black Mesa Pumphouse Near the Newly Drilled Black Mesa Well #2, Water Main Extension from Black Mesa Well #1 to the New Pumphouse, Water Main Extension From the Pumphouse to Water System, New Solenoid Valve, Water System Controls, Booster Station, and Water Main Extension from Booster Station to Pajarito Existing Water System, Which will Include Boring Under the Rio Grande.</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-009, dated April 9, 2013.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-009, dated April 9, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-009"/>
       <section>
         <num>11.2.6.010</num>
         <heading>Findings</heading>
@@ -561,7 +568,8 @@
       <prefix>Part</prefix>
       <num>11.2.7</num>
       <heading>An Act Approving Memorandum of Agreement (MOA) Between the Bureau of Reclamation and the Pueblo de San Ildefonso to Facilitate Pueblo de San Ildefonso Involvement in the Planning, Design and Construction of the Pojoaque Basin Regional Water System as Part of the Water Rights Settlement in the Aamodt Case.</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-015, dated May 28, 2013.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-015, dated May 28, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-015"/>
       <section>
         <num>11.2.7.010</num>
         <heading>Findings</heading>
@@ -637,7 +645,8 @@
       <prefix>Part</prefix>
       <num>11.2.8</num>
       <heading>An Act Approving Economic Development Water Agreement As Part of Water Rights Settlement in Aamodt Case.</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-016, dated May 7, 2013.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-016, dated May 7, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-016"/>
       <section>
         <num>11.2.8.010</num>
         <heading>Findings</heading>
@@ -717,7 +726,8 @@
       <prefix>Part</prefix>
       <num>11.2.9</num>
       <heading>Act Approving Amending Pueblo Economic Development Water Agreement As Part of Water Rights Settlement in Aamodt Case.</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-028, dated July 10, 2013.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-028, dated July 10, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-028"/>
       <section>
         <num>11.2.9.010</num>
         <heading>Findings</heading>
@@ -818,7 +828,8 @@
       <prefix>Part</prefix>
       <num>11.2.10</num>
       <heading>Approval for Bureau of Reclamation and Its Contractors to (1) Perform the Pilot Water Treatment Plant Study and Horizontal Collector Well Study for the Regional Water System, and (2) Establish Priority for Surveying Lands within Pueblo boundaries As Part of the Settlement of the Water Rights Adjudication, State v. Aamodt</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-040, dated October 4, 2013.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-040, dated October 4, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-040"/>
       <section>
         <num>11.2.10.010</num>
         <heading>Findings</heading>
@@ -897,7 +908,8 @@
       <prefix>Part</prefix>
       <num>11.2.11</num>
       <heading>Act Authorizing the Withdraw of Aamodt Water Settlement Trust Funds From the Office of Special Trustee to Fund Aamodt Settlement Implementation Activities Request by Pueblo in Coordination with  Regional Water System Work</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R14-015, dated April 30, 2014.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R14-015, dated April 30, 2014.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R14-015"/>
       <section>
         <num>11.2.11.010</num>
         <heading>Findings</heading>
@@ -970,7 +982,8 @@
       <prefix>Part</prefix>
       <num>11.2.12</num>
       <heading>Approving Water Uses by U.S. Bureau of Reclamation Connected with Work Developing Regional Water System as Part of the Settlement of the Water Rights Adjudication, State v. Aamodt.</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R14-020, dated May 23, 2014.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R14-020, dated May 23, 2014.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R14-020"/>
       <section>
         <num>11.2.12.010</num>
         <heading>Findings</heading>
@@ -1081,7 +1094,8 @@
       <prefix>Part</prefix>
       <num>11.2.13</num>
       <heading>Act Authorizing the Withdraw of $976,000 of Aamodt Water Settlement Trust Funds From the Office of Special Trustee to Fund Aamodt Settlement Implementation Activities Request by Pueblo in Coordination with Regional Water System Work.</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R14-025, dated July 7, 2014.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R14-025, dated July 7, 2014.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R14-025"/>
       <section>
         <num>11.2.13.010</num>
         <heading>Findings</heading>
@@ -1155,7 +1169,8 @@
       <prefix>Part</prefix>
       <num>11.2.14</num>
       <heading>Act Authorizing Third Withdrawal Of Aamodt Water Settlement Trust Funds From The Office Of Special Trustee To Fund Aamodt Settlement Implementation Activities Requested By Pueblo In Coordination With Regional Water System Work.</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-020, dated September 21, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-020, dated September 21, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-020"/>
       <section>
         <num>11.2.14.010</num>
         <heading>Findings</heading>
@@ -1244,7 +1259,8 @@
       <prefix>Part</prefix>
       <num>11.2.15</num>
       <heading>Acceptance Of Preliminary Engineering Report For Wastewater System Improvements For The Pueblo De San Ildefonso</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-024, dated November 6, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-024, dated November 6, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-024"/>
       <section>
         <num>11.2.15.010</num>
         <heading>Findings</heading>
@@ -1322,7 +1338,8 @@
       <prefix>Part</prefix>
       <num>11.2.16</num>
       <heading>Act To Withdraw Challenges Filed In 1983 To Non-Indian Water Rights, And Waiving The Right To File Any Additional Challenges To Non-Indian Water Rights In The Aamodt Case</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-028, dated December 2, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-028, dated December 2, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-028"/>
       <section>
         <num>11.2.16.010</num>
         <heading>Findings</heading>
@@ -1421,7 +1438,8 @@
       <prefix>Part</prefix>
       <num>11.2.17</num>
       <heading>Act Authorizing Signature Of Joint Powers Agreement As Part Of Aamodt Water Rights Settlement</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R17-004, dated March 21, 2017.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R17-004, dated March 21, 2017.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-004"/>
       <section>
         <num>11.2.17.010</num>
         <heading>Findings</heading>
@@ -1527,7 +1545,8 @@
       <prefix>Part</prefix>
       <num>11.2.18</num>
       <heading>Act Authorizing Location Of Water Treatment Plant As Part Of Aamodt Water Rights Settlement</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R17-005, dated March 21, 2017.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R17-005, dated March 21, 2017.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-005"/>
       <section>
         <num>11.2.18.010</num>
         <heading>Findings</heading>
@@ -1650,7 +1669,8 @@
       <prefix>Part</prefix>
       <num>11.3.1</num>
       <heading>Approving the National Resource Damage Assessment (NRDA) Plan Prepared by the Los Alamos National Laboratory Natural Resources Trustee Council</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R14-017, dated April 30, 2014.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R14-017, dated April 30, 2014.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R14-017"/>
       <section>
         <num>11.3.1.010</num>
         <heading>Findings</heading>
@@ -1744,7 +1764,8 @@
       <prefix>Part</prefix>
       <num>11.3.2</num>
       <heading>Approving the Second Memorandum of Agreement for Creation of a Natural Resource Trustee Council for the Los Alamos National Laboratory</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R14-016, dated April 30, 2014.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R14-016, dated April 30, 2014.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R14-016"/>
       <section>
         <num>11.3.2.010</num>
         <heading>Findings</heading>
@@ -2110,7 +2131,8 @@
       <prefix>Part</prefix>
       <num>11.4.4</num>
       <heading>The Livestock Confinement Act of 2012</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-033, dated November 5, 2012.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-033, dated November 5, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-033"/>
       <section>
         <num>11.4.4.010</num>
         <heading>Findings</heading>
@@ -2305,7 +2327,8 @@
       <prefix>Part</prefix>
       <num>11.5.1</num>
       <heading>Pueblo de San Ildefonso Fishing Lake Act</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-011, dated May 7, 2013.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-011, dated May 7, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-011"/>
       <section>
         <num>11.5.1.010</num>
         <heading>The Pueblo de San Ildefonso hereby enacts the attached law entitled "The Pueblo de San Ildefonso Fishing Lake Act."</heading>

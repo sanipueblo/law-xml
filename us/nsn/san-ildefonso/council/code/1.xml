@@ -7,7 +7,7 @@
     <prefix>Chapter</prefix>
     <num>1.1</num>
     <heading>Authority.</heading>
-    <annotation type="Editor's Notes">This law was originally enacted in the 1984 Code;</annotation>
+    <annotation type="History">1984 Code</annotation>
     <container>
       <prefix>Part</prefix>
       <num>1.1.1</num>
@@ -36,7 +36,7 @@
           <text>
             <em>The power to preserve internal order within the exterior boundaries of the Pueblo of San Ildefonso by punishing when necessary those under its jurisdiction who violate Pueblo civil or criminal law is absolutely essential to the existing sovereignty of the Pueblo of San Ildefonso.  Further, the Pueblo of San Ildefonso has neither waived or surrendered its civil jurisdiction over non-Indians within the jurisdiction and/or on the lands of the Pueblo of San Ildefonso and no treaty or federal law has withdrawn the civil jurisdiction of the Pueblo of San Ildefonso over non-Indians found on the lands of the Pueblo of San Ildefonso.</em>
           </text>
-          <annotation type="Editor's Notes">Amended pursuant to Council Resolution No. SI-R16-013.  See, Sec. 1.4.6 below.</annotation>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-013"/>
         </para>
       </section>
       <section>
@@ -59,7 +59,8 @@
       <prefix>Part</prefix>
       <num>1.1.4</num>
       <heading>Code Reform and Approval Act of 2016</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-013, dated July 7, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-013, dated July 7, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-013"/>
       <section>
         <num>1.1.4.010</num>
         <heading>Findings</heading>
@@ -69,7 +70,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>In 2011,<strong> t</strong>he Pueblo approved a new governing Agreement ("Agreement") that separates the different duties and functions for the Governor, Council, and Courts;</text>
+          <text>In 2011, the Pueblo approved a new governing Agreement ("Agreement") that separates the different duties and functions for the Governor, Council, and Courts;</text>
         </para>
         <para>
           <num>(c)</num>
@@ -178,30 +179,31 @@
     <prefix>Chapter</prefix>
     <num>1.2</num>
     <heading>Name of the Pueblo.</heading>
-    <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-017, dated May 7, 2013.</annotation>
+    <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-017, dated May 7, 2013.</annotation>
+    <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-017"/>
     <container>
       <prefix>Part</prefix>
       <num>1.2.1</num>
       <heading>Findings</heading>
       <section>
         <num>1.2.1.010</num>
-        <heading>The Pueblo is currently recognized by the Department of the Interior, Bureau of Indian Affairs (BIA) as the "Pueblo of San Ildefonso";</heading>
+        <text>The Pueblo is currently recognized by the Department of the Interior, Bureau of Indian Affairs (BIA) as the "Pueblo of San Ildefonso";</text>
       </section>
       <section>
         <num>1.2.1.020</num>
-        <heading>Subsequently, the Pueblo is identified as the "Pueblo of San Ildefonso" on the list of tribes published annually in the Federal Register, pursuant to the Federally Recognized Indian Tribe List Act of 1994, Public Law 103-454; §103(4), 108 Stat. 4791;</heading>
+        <text>Subsequently, the Pueblo is identified as the "Pueblo of San Ildefonso" on the list of tribes published annually in the Federal Register, pursuant to the Federally Recognized Indian Tribe List Act of 1994, Public Law 103-454; §103(4), 108 Stat. 4791;</text>
       </section>
       <section>
         <num>1.2.1.030</num>
-        <heading>The list of Federally Recognized Indian Tribes is used by Federal agencies and departments to determine eligibility for services;</heading>
+        <text>The list of Federally Recognized Indian Tribes is used by Federal agencies and departments to determine eligibility for services;</text>
       </section>
       <section>
         <num>1.2.1.040</num>
-        <heading>The name "the Pueblo de San Ildefonso" is used in the Agreement, as approved by the BIA;</heading>
+        <text>The name "the Pueblo de San Ildefonso" is used in the Agreement, as approved by the BIA;</text>
       </section>
       <section>
         <num>1.2.1.050</num>
-        <heading>The Council recognizes the need to formally adopt an official name, such that there is consistency between the Pueblo's Governance Agreement, recognition by the BIA, listing in the Federal Register, and all other Pueblo documents.</heading>
+        <text>The Council recognizes the need to formally adopt an official name, such that there is consistency between the Pueblo's Governance Agreement, recognition by the BIA, listing in the Federal Register, and all other Pueblo documents.</text>
       </section>
     </container>
     <container>
@@ -210,11 +212,11 @@
       <heading>Name</heading>
       <section>
         <num>1.2.2.010</num>
-        <heading>The Pueblo de San Ildefonso Council hereby formally adopts the "Pueblo de San Ildefonso" as the official name of the Pueblo;</heading>
+        <text>The Pueblo de San Ildefonso Council hereby formally adopts the "Pueblo de San Ildefonso" as the official name of the Pueblo;</text>
       </section>
       <section>
         <num>1.2.2.020</num>
-        <heading>The Council requests that the United States Department of Interior acknowledge and change the name of the Pueblo to Pueblo de San Ildefonso.</heading>
+        <text>The Council requests that the United States Department of Interior acknowledge and change the name of the Pueblo to Pueblo de San Ildefonso.</text>
       </section>
     </container>
   </container>
@@ -222,18 +224,19 @@
     <prefix>Chapter</prefix>
     <num>1.3</num>
     <heading>Government Organization.</heading>
-    <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-031, dated August 20, 2012.</annotation>
+    <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-031, dated August 20, 2012.</annotation>
+    <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-031"/>
     <container>
       <prefix>Part</prefix>
       <num>1.3.1</num>
       <heading>Findings</heading>
       <section>
         <num>1.3.1.010</num>
-        <heading>The Council finds that well organized governments promote efficient provision of services to members;</heading>
+        <text>The Council finds that well organized governments promote efficient provision of services to members;</text>
       </section>
       <section>
         <num>1.3.1.020</num>
-        <heading>The Councils finds it necessary to establish an organizational chart of the Pueblo including various departments;</heading>
+        <text>The Councils finds it necessary to establish an organizational chart of the Pueblo including various departments;</text>
       </section>
     </container>
     <container>
@@ -295,7 +298,8 @@
       <prefix>Part</prefix>
       <num>1.3.3</num>
       <heading>Governmental Organizational Act of 2016</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-015, dated July 21, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-015, dated July 21, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-015"/>
       <section>
         <num>1.3.3.010</num>
         <heading>Findings</heading>
@@ -380,7 +384,8 @@
       <prefix>Part</prefix>
       <num>1.3.4</num>
       <heading>Typographical Correction Act of 2016</heading>
-      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-012, dated July 7, 2016.</annotation>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-012, dated July 7, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-012"/>
       <section>
         <num>1.3.4.010</num>
         <heading>Findings</heading>
