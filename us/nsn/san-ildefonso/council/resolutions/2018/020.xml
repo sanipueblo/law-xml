@@ -18,28 +18,28 @@
       <prefix>Part</prefix>
       <num>2.3.10</num>
       <heading>Approving the North Central Regional Transit District Amended Intergovernmental Contract</heading>
-      <section>
-        <heading>Findings</heading>
-        <num>2.3.10.010</num>
-        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-020"/>
-      </section>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-020"/>
     </container>
   </codify:insert>
   <recitals codify:path="2.3.10.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
-      <codify:insert path="2.3.10.010">
-        <para>
-          <num>(a)</num>
-          <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
-        </para>
+      <codify:insert path="|2.3.10">
+        <section>
+          <heading>Findings</heading>
+          <num>2.3.10.010</num>
+          <para>
+            <num>(a)</num>
+            <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
+          </para>
+        </section>
       </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the voters of the Pueblo approved a new Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011 pursuant to Federal law; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(b)</num>
           <text>The voters of the Pueblo approved a new Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011 pursuant to Federal law.</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo Council ("Council") is the duly constituted Legislative body acting for the Pueblo; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(c)</num>
           <text>The Pueblo Council ("Council") is the duly constituted Legislative body acting for the Pueblo.</text>
@@ -59,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo pursuant to Section 5 of the Agreement; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(d)</num>
           <text>The Council is authorized to make laws for the Pueblo pursuant to Section 5 of the Agreement.</text>
@@ -69,7 +69,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>New Mexico governmental units are authorized to establish regional transit districts; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(e)</num>
           <text>New Mexico governmental units are authorized to establish regional transit districts.</text>
@@ -79,7 +79,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the initial signatories ("Initial Members") began working together to form such a district in 2003; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(f)</num>
           <text>The initial signatories ("Initial Members") began working together to form such a district in 2003.</text>
@@ -89,7 +89,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the District is requesting that all members execute a new Amended Intergovernmental Contract to add the Village of Chama as a new member and confirm the voting rights of each member; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(g)</num>
           <text>The District is requesting that all members execute a new Amended Intergovernmental Contract to add the Village of Chama as a new member and confirm the voting rights of each member.</text>
@@ -99,7 +99,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council has been fully briefed and has reviewed the attached Amended Intergovernmental Contract and has determined that it is in the best interest of the Pueblo to approve the Amended Contract, provided however, that the Council confirms that it is not waiving, limiting or modifying its sovereign immunity from suit by approving the Agreement.</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(h)</num>
           <text>The Council has been fully briefed and has reviewed the attached Amended Intergovernmental Contract and has determined that it is in the best interest of the Pueblo to approve the Amended Contract, provided however, that the Council confirms that it is not waiving, limiting or modifying its sovereign immunity from suit by approving the Agreement.</text>

@@ -18,28 +18,28 @@
       <prefix>Part</prefix>
       <num>6.6.7</num>
       <heading>Commitment to Develop and Implement an Asset Management Plan</heading>
-      <section>
-        <heading>Findings</heading>
-        <num>6.6.7.010</num>
-        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-031"/>
-      </section>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-031"/>
     </container>
   </codify:insert>
   <recitals codify:path="6.6.7.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe,  recognized as such by the United States of America, with the authority to govern its people, lands and other resources; and</text>
-      <codify:insert path="6.6.7.010">
-        <para>
-          <num>(a)</num>
-          <text>The Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America, with the authority to govern its people, lands and other resources.</text>
-        </para>
+      <codify:insert path="|6.6.7">
+        <section>
+          <heading>Findings</heading>
+          <num>6.6.7.010</num>
+          <para>
+            <num>(a)</num>
+            <text>The Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America, with the authority to govern its people, lands and other resources.</text>
+          </para>
+        </section>
       </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo provides water and wastewater services to residences in the three housing areas of the Pueblo (Pueblo Center, Northeast and Northwest) and operates and maintains said systems; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(b)</num>
           <text>The Pueblo provides water and wastewater services to residences in the three housing areas of the Pueblo (Pueblo Center, Northeast and Northwest) and operates and maintains said systems.</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo intends to undertake acquisition, construction and improvement of the wastewater system for the benefit of the community and its citizens; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(c)</num>
           <text>The Pueblo intends to undertake acquisition, construction and improvement of the wastewater system for the benefit of the community and its citizens.</text>
@@ -59,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo recognizes an Asset Management Plan is a dynamic tool and asset management planning is an ongoing effort by service providers to improve system maintenance, identify and prioritize repairs and/or replacement, and meet system users' demands; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(d)</num>
           <text>The Pueblo recognizes an Asset Management Plan is a dynamic tool and asset management planning is an ongoing effort by service providers to improve system maintenance, identify and prioritize repairs and/or replacement, and meet system users' demands.</text>
@@ -69,7 +69,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo has authorized the development and implementation of a San Ildefonso Asset Management Team to advise and assist the Pueblo tribal government in the development and recommendations of project proposals for future planning, design, and construction of Infrastructure Project(s); and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(e)</num>
           <text>The Pueblo has authorized the development and implementation of a San Ildefonso Asset Management Team to advise and assist the Pueblo tribal government in the development and recommendations of project proposals for future planning, design, and construction of Infrastructure Project(s).</text>
@@ -79,7 +79,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo has initiated asset management planning with Asset Inventories of the community water and wastewater systems, roads, irrigation, gas, electrical, telephone and fiber optic lines.</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(f)</num>
           <text>The Pueblo has initiated asset management planning with Asset Inventories of the community water and wastewater systems, roads, irrigation, gas, electrical, telephone and fiber optic lines.</text>
@@ -89,7 +89,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
       <text/>
-      <codify:insert path="6.6.7" num-value="6.6.7.020" tag="section"/>
+      <codify:insert path="6.6.7" num-value="6.6.7.020" tag="section" display-template="New {{cite}}"/>
       <num/>
       <para>
         <num codify:value="(a)">1.</num>
@@ -134,7 +134,7 @@
               <th>Year 4 &amp; Thereafter (2021+)</th>
             </tr>
             <tr>
-              <td proof="needed">
+              <td>
                 <p>Resolution committing to implementation of an AMP that incorporates the core asset management principles:</p>
                 <p>Current State of Assets</p>
                 <p>Level of Service</p>
@@ -145,7 +145,7 @@
                 <p>Results of the initial Asset Management IQ test.</p>
                 <p>Proposed schedule for implementation of the AMP.</p>
               </td>
-              <td proof="needed">
+              <td>
                 <p>Results of recent Asset Management IQ test.</p>
                 <p>Update on progress towards completion of the AMP, including explanation of third-party support and deliverables.</p>
                 <p>Completed AMP with the following elements:</p>

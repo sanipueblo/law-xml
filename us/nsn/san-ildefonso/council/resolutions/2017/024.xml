@@ -19,28 +19,28 @@
       <prefix>Part</prefix>
       <num>6.5.13</num>
       <heading>Submittal for 23 USC 202 Tribal Transportation Planning (66K) and the Tribal Transportation Program (TTP)(6K1) Funding</heading>
-      <section>
-        <heading>Findings</heading>
-        <num>6.5.13.010</num>
-        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-024"/>
-      </section>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-024"/>
     </container>
   </codify:insert>
   <recitals codify:path="6.5.13.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
-      <codify:insert path="6.5.13.010">
-        <para>
-          <num>(a)</num>
-          <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
-        </para>
+      <codify:insert path="|6.5.13">
+        <section>
+          <heading>Findings</heading>
+          <num>6.5.13.010</num>
+          <para>
+            <num>(a)</num>
+            <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
+          </para>
+        </section>
       </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement, the governing document of the Pueblo; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(b)</num>
           <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement, the governing document of the Pueblo.</text>
@@ -50,7 +50,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>under the authority granted by Chapter 2 of Title 23, United States Code, as amended by the Fixing America's Surface Transportation (FAST) Act, Pub. L. 114-94, and in accordance with the requirements of Public Law (Pub. L.) 93-638, as amended; 25 CFR Part 170 (TTP Regulations); the Southwest Regional Office, Department of Transportation (SWRO-DOT) hereby offers the Tribe the first right-of-refusal to contract available funds; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(c)</num>
           <text>Under the authority granted by Chapter 2 of Title 23, United States Code, as amended by the Fixing America's Surface Transportation (FAST) Act, Pub. L. 114-94, and in accordance with the requirements of Public Law (Pub. L.) 93-638, as amended; 25 CFR Part 170 (TTP Regulations); the Southwest Regional Office, Department of Transportation (SWRO-DOT) hereby offers the Tribe the first right-of-refusal to contract available funds.</text>
@@ -68,7 +68,7 @@
           <li>Tribal Resolution to Enter into a Pub. L. 93-638 contract</li>
         </ul>
       </text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(d)</num>
           <text>To contract the Tribal Transportation Planning (66K) and the Tribal Transportation Program (TTP)(6K1) funds, the Tribe is required to submit to the SWRO-DOT the following documents:</text>
@@ -94,7 +94,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the SWRO-DOT encourages the Tribe to submit the TTP-TTIP/Control Schedule for review and approval; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(e)</num>
           <text>The SWRO-DOT encourages the Tribe to submit the TTP-TTIP/Control Schedule for review and approval.</text>
@@ -116,7 +116,7 @@
           <li>Planning</li>
         </ul>
       </ul>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(f)</num>
           <text>The Pueblo has prepared a TTP-TTIP/Control Schedule for the following projects:</text>

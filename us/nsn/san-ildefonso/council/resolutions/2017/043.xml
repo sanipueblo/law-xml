@@ -19,28 +19,28 @@
       <prefix>Part</prefix>
       <num>6.3.14</num>
       <heading>New Funding Council Adjustment 2 (NF-2) to the Fiscal Year 2017-2018 Annual Budget</heading>
-      <section>
-        <heading>Findings</heading>
-        <num>6.3.14.010</num>
-        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-043"/>
-      </section>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-043"/>
     </container>
   </codify:insert>
   <recitals codify:path="6.3.14.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
-      <codify:insert path="6.3.14.010">
-        <para>
-          <num>(a)</num>
-          <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
-        </para>
+      <codify:insert path="|6.3.14">
+        <section>
+          <heading>Findings</heading>
+          <num>6.3.14.010</num>
+          <para>
+            <num>(a)</num>
+            <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+          </para>
+        </section>
       </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011, pursuant to Federal law; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(b)</num>
           <text>The voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011, pursuant to Federal law; and</text>
@@ -50,7 +50,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(c)</num>
           <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
@@ -62,7 +62,7 @@
       <text>currently the Pueblo's total FY2017-2018 total Annual Budget is $8,796,224.00, which consists of the following categories and amounts:</text>
       <text>
         <table>
-          <tr proof="needed">
+          <tr>
             <td>General Fund (GF)</td>
             <td>$2,509,447.00</td>
           </tr>
@@ -76,13 +76,13 @@
           </tr>
         </table>
       </text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(d)</num>
           <text>Currently the Pueblo's total FY2017-2018 total Annual Budget is $8,796,224.00, which consists of the following categories and amounts:</text>
           <text>
             <table>
-              <tr proof="needed">
+              <tr>
                 <td>General Fund (GF)</td>
                 <td>$2,509,447.00</td>
               </tr>
@@ -102,7 +102,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year, provided that budget modifications by the Council to obtain new grants, appropriate matching funds for new grants, or to expend new grant funds may be done at any time; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(e)</num>
           <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year, provided that budget modifications by the Council to obtain new grants, appropriate matching funds for new grants, or to expend new grant funds may be done at any time; and</text>
@@ -112,7 +112,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo enacted a law entitled, "Budget Modification Process Act" which establishes the "New Funding Council Adjustment" designation for all new grants, new matching funds, or new funds acquired by the Pueblo.  The budget adjustment for the new funding will be identified as "NF-1," NF-2," and so on; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(f)</num>
           <text>The Pueblo enacted a law entitled, "Budget Modification Process Act" which establishes the "New Funding Council Adjustment" designation for all new grants, new matching funds, or new funds acquired by the Pueblo.  The budget adjustment for the new funding will be identified as "NF-1," NF-2," and so on; and</text>
@@ -124,7 +124,7 @@
       <text>the Pueblo's FY 2017-2018 New Funding 2 (NF-2) is identified per the following:</text>
       <text>
         <table>
-          <tr proof="needed">
+          <tr>
             <td>(a) SRF: State Grants-in Aid to Public Libraries</td>
             <td>$7,598.00</td>
           </tr>
@@ -154,13 +154,13 @@
           </tr>
         </table>
       </text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(g)</num>
           <text>the Pueblo's FY 2017-2018 New Funding 2 (NF-2) is identified per the following:</text>
           <text>
             <table>
-              <tr proof="needed">
+              <tr>
                 <td>(a) SRF: State Grants-in Aid to Public Libraries</td>
                 <td>$7,598.00</td>
               </tr>
@@ -196,7 +196,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo's FY 2017-2018 new adjusted FY 2017-2018 Annual Budget will increase from $8,796,224.00 to $8,911,964.85; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(h)</num>
           <text>The Pueblo's FY 2017-2018 new adjusted FY 2017-2018 Annual Budget will increase from $8,796,224.00 to $8,911,964.85; and</text>
@@ -208,7 +208,7 @@
       <text>the Pueblo's modified FY 2017-2018 Annual Budget is as follows:</text>
       <text>
         <table>
-          <tr proof="needed">
+          <tr>
             <td>General Fund (GF)</td>
             <td>$2,509,447.00</td>
           </tr>
@@ -230,13 +230,13 @@
           </tr>
         </table>
       </text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(i)</num>
           <text>The Pueblo's modified FY 2017-2018 Annual Budget is as follows:</text>
           <text>
             <table>
-              <tr proof="needed">
+              <tr>
                 <td>General Fund (GF)</td>
                 <td>$2,509,447.00</td>
               </tr>
@@ -467,7 +467,7 @@
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
   <attachment id="law">
-    <codify:insert path="6.3.14" num-value="6.3.14.040" tag="section"/>
+    <codify:insert path="6.3.14" num-value="6.3.14.040" tag="section" display-template="New {{cite}}"/>
     <num/>
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>NEW FUNDING COUNCIL ADJUSTMENT 2 (NF-2) TO THE FY 2017-2018 ANNUAL BUDGET</heading>
@@ -479,7 +479,7 @@
       <text>The Council hereby approves the "New Funding Council Adjustment 2 (NF-2)" and adjusts           the Annual Budget for Fiscal Year 2017-2018 by addition of the following:</text>
       <text>
         <table>
-          <tr proof="needed">
+          <tr>
             <td>(a) SRF: State Grants-in Aid to Public Libraries</td>
             <td>$7,598.00</td>
           </tr>
@@ -515,7 +515,7 @@
       <text>The Annual Budget for Fiscal Year 2017-2018 is adjusted with new amounts as follows:</text>
       <text>
         <table>
-          <tr proof="needed">
+          <tr>
             <td>General Fund (GF)</td>
             <td>$2,509,447.00</td>
           </tr>

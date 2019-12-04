@@ -18,28 +18,28 @@
       <prefix>Part</prefix>
       <num>6.5.14</num>
       <heading>Authorizing Submittal of the FY 2017-2019 Johnson O'Malley Contract Application</heading>
-      <section>
-        <heading>Findings</heading>
-        <num>6.5.14.010</num>
-        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-029"/>
-      </section>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-029"/>
     </container>
   </codify:insert>
   <recitals codify:path="6.5.14.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe,  recognized as such by the United States of America, with the authority to govern its people, lands and other resources; and</text>
-      <codify:insert path="6.5.14.010">
-        <para>
-          <num>(a)</num>
-          <text>The Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America, with the authority to govern its people, lands and other resources.</text>
-        </para>
+      <codify:insert path="|6.5.14">
+        <section>
+          <heading>Findings</heading>
+          <num>6.5.14.010</num>
+          <para>
+            <num>(a)</num>
+            <text>The Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America, with the authority to govern its people, lands and other resources.</text>
+          </para>
+        </section>
       </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo, by and through United States Public Law 93-638, has contracted andadministered key functions for assistance to the tribe through the Bureau of Indian Affairs and through the Bureau of Indian Education that include the Johnson O'Malley (JOM) program; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(b)</num>
           <text>The Pueblo, by and through United States Public Law 93-638, has contracted andadministered key functions for assistance to the tribe through the Bureau of Indian Affairs and through the Bureau of Indian Education that include the Johnson O'Malley (JOM) program.</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Johnson O'Malley Act program funding provides programs to meet the special   educational needs of the Pueblo's eligible children, and funding to administer the program and costs related to the Indian Education Committee; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(c)</num>
           <text>The Johnson O'Malley Act program funding provides programs to meet the special educational needs of the Pueblo's eligible children, and funding to administer the program and costs related to the Indian Education Committee.</text>
@@ -59,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo currently operates and administers the JOM program under the Pueblo's   Education Department in compliance with all components of the application for contract; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(d)</num>
           <text>The Pueblo currently operates and administers the JOM program under the Pueblo's Education Department in compliance with all components of the application for contract.</text>
@@ -69,7 +69,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo wishes to continue contracting JOM funding for the 3-year period, FY 2017-2019 to assist in meeting the needs of our children.</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(e)</num>
           <text>The Pueblo wishes to continue contracting JOM funding for the 3-year period, FY 2017-2019 to assist in meeting the needs of our children.</text>
@@ -79,12 +79,12 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
       <text/>
-      <codify:insert path="6.5.14" num-value="6.5.14.020" tag="section"/>
+      <codify:insert path="6.5.14" num-value="6.5.14.020" tag="section" display-template="New {{cite}}"/>
       <num/>
       <para>
         <num codify:value="(a)">1.</num>
         <text>The Pueblo de San Ildefonso Council hereby approves submittal of the Application for Contract for the Johnson O'Malley program for a three-year term, 2017-2019; and</text>
-        <codify:find-replace position="last" count="1" path="6.5.14.020|(a)" find="; and" replace="." history="false" display-template=""/>
+        <codify:find-replace position="last" count="1" path="6.5.14.020|(a)" find="; and" replace="." history="false"/>
       </para>
       <para>
         <num codify:value="(b)">2.</num>
