@@ -19,28 +19,28 @@
       <prefix>Part</prefix>
       <num>6.3.16</num>
       <heading>Annual Budget Authorization for Fiscal Year 2018-2019</heading>
-      <section>
-        <heading>Findings</heading>
-        <num>6.3.16.010</num>
-        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-012"/>
-      </section>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-012"/>
     </container>
   </codify:insert>
   <recitals codify:path="6.3.16.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
-      <codify:insert path="6.3.16.010">
+      <codify:insert path="|6.3.16">
+      <section>
+        <heading>Findings</heading>
+        <num>6.3.16.010</num>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
         </para>
+      </section>
       </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011, pursuant to Federal law; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(b)</num>
           <text>The voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011, pursuant to Federal law; and</text>
@@ -50,7 +50,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo pursuant to Section 5 of the Agreement; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(c)</num>
           <text>The Council is authorized to make laws for the Pueblo pursuant to Section 5 of the Agreement; and</text>
@@ -60,7 +60,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(d)</num>
           <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and</text>
@@ -70,7 +70,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo's FY2018-2019 Annual Budget consists of three (3) fund types within the financial system: the General Fund that is the basic operating fund that accounts for everything not accounted for in another governmental fund; the Special Revenue Fund that is specific revenue fund sources that are limited to being used for a particular purpose; and the Capital Projects Fund for fund accounts for the construction, rehabilitation, and acquisition of capital assets, such as land, buildings, equipment, and roads; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(e)</num>
           <text>the Pueblo's FY2018-2019 Annual Budget consists of three (3) fund types within the financial system: the General Fund that is the basic operating fund that accounts for everything not accounted for in another governmental fund; the Special Revenue Fund that is specific revenue fund sources that are limited to being used for a particular purpose; and the Capital Projects Fund for fund accounts for the construction, rehabilitation, and acquisition of capital assets, such as land, buildings, equipment, and roads; and</text>
@@ -80,7 +80,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>for budget purposes, revenues are defined as increases in financial resources received during the year to meet financial obligations incurred during the year; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(f)</num>
           <text>For budget purposes, revenues are defined as increases in financial resources received during the year to meet financial obligations incurred during the year; and</text>
@@ -90,7 +90,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>as part of fiscal responsibility the Council directs that programs, when both federal or other funding as well as General Funds are budgeted, utilize and exhaust outside sources of funding first before utilizing Tribal funds (General Fund); and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(g)</num>
           <text>As part of fiscal responsibility the Council directs that programs, when both federal or other funding as well as General Funds are budgeted, utilize and exhaust outside sources of funding first before utilizing Tribal funds (General Fund); and</text>
@@ -100,7 +100,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Governor shall keep the Council informed of the Tribe's financial position by providing the Council with a monthly, written financial statement of the Pueblo; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(h)</num>
           <text>The Governor shall keep the Council informed of the Tribe's financial position by providing the Council with a monthly, written financial statement of the Pueblo; and</text>
@@ -110,7 +110,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>as part of the close monitoring of revenues, it is imperative that the Pueblo properly identify, record, and maximize use of revenues generated from long term right-of-way agreements for Pueblo property, and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(i)</num>
           <text>As part of the close monitoring of revenues, it is imperative that the Pueblo properly identify, record, and maximize use of revenues generated from long term right-of-way agreements for Pueblo property, and</text>
@@ -143,7 +143,7 @@
           </tr>
         </table>
       </text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(j)</num>
           <text>The Governor's Office, in coordination with the Council, finalized the proposed budget attached to this Resolution ("FY 2018-2019 Annual Budget") and have recommended approval of the attached FY 2018-2019 Annual Budget as summarized below; and</text>
@@ -176,7 +176,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council has reviewed the proposed FY 2018-2019 Annual Budget and has recommended to approve the attached Annual Budget.</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(k)</num>
           <text>The Council has reviewed the proposed FY 2018-2019 Annual Budget and has recommended to approve the attached Annual Budget.</text>
@@ -185,7 +185,7 @@
     </recital>
     <recital>
       <conjunction>NOW, THEREFORE, BE IT RESOLVED</conjunction>
-      <codify:insert path="6.3.16" num-value="6.3.16.020" tag="section"/>
+      <codify:insert path="6.3.16" num-value="6.3.16.020" tag="section" display-template="New {{cite}}"/>
       <num/>
       <text>that the Council hereby:</text>
       <para>

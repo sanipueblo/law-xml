@@ -19,28 +19,28 @@
       <prefix>Part</prefix>
       <num>6.5.18</num>
       <heading>Submittal for the 2017 Congressinal Directive-Allocation of Increased Road Maintenance Funding</heading>
-      <section>
-        <heading>Findings</heading>
-        <num>6.5.18.010</num>
-        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-015"/>
-      </section>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-015"/>
     </container>
   </codify:insert>
   <recitals codify:path="6.5.18.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
-      <codify:insert path="6.5.18.010">
+      <codify:insert path="|6.5.18">
+      <section>
+        <heading>Findings</heading>
+        <num>6.5.18.010</num>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
         </para>
+      </section>
       </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement, the governing document of the Pueblo; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(b)</num>
           <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement, the governing document of the Pueblo.</text>
@@ -50,7 +50,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>under the authority granted by the 2017 Congressional Directive – Allocation of Increased Road Maintenance Funding, and in accordance with the requirements of Public Law (Pub. L.) 93-638, as amended; 25 CFR Part §170.423 (TTP Regulations); the Southwest Regional Office, Department of Transportation (SWRO-DOT) hereby offers the Tribe the first right-of-refusal to contract available funds; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(c)</num>
           <text>Under the authority granted by the 2017 Congressional Directive – Allocation of Increased Road Maintenance Funding, and in accordance with the requirements of Public Law (Pub. L.) 93-638, as amended; 25 CFR Part §170.423 (TTP Regulations); the Southwest Regional Office, Department of Transportation (SWRO-DOT) hereby offers the Tribe the first right-of-refusal to contract available funds.</text>
@@ -67,7 +67,7 @@
           <li>Tribal Resolution to Enter into a Pub. L. 93-638 contract.</li>
         </ul>
       </text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(d)</num>
           <text>To contract the 2017 Congressional Directive one-time funds, the Tribe is required to submit to the SWRO-DOT the following documents:</text>
@@ -89,7 +89,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the SWRO-DOT encourages the Tribe to submit the Scope of Work, Budget and Tribal Resolution for review and approval; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(e)</num>
           <text>The SWRO-DOT encourages the Tribe to submit the Scope of Work, Budget and Tribal Resolution for review and approval.</text>
@@ -104,7 +104,7 @@
           <li>One-Time Congressional Road Maintenance Funding</li>
         </ul>
       </text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(f)</num>
           <text>The Pueblo has prepared a Scope of Work, Budget for the following project:</text>

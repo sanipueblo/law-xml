@@ -19,28 +19,28 @@
       <prefix>Part</prefix>
       <num>6.3.12</num>
       <heading>Authorization for Fiscal Year 2016-2017 Budget Modification No. 2</heading>
-      <section>
-        <heading>Findings</heading>
-        <num>6.3.12.010</num>
-        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-016"/>
-      </section>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-016"/>
     </container>
   </codify:insert>
   <recitals codify:path="6.3.12.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
-      <codify:insert path="6.3.12.010">
+      <codify:insert path="|6.3.12">
+      <section>
+        <heading>Findings</heading>
+        <num>6.3.12.010</num>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
         </para>
+      </section>
       </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(b)</num>
           <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
@@ -50,7 +50,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(c)</num>
           <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and</text>
@@ -60,7 +60,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(d)</num>
           <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year; and</text>
@@ -97,7 +97,7 @@
           </tr>
         </table>
       </text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(e)</num>
           <text>The Council approved the FY2016-2017 Annual Budget on June 16, 2016, and has implemented two New Funding Adjustments and one Budget Modification resulting in the current budget total as follows:</text>
@@ -134,7 +134,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>it has been determined that certain modifications to the FY 2016-17 Annual Budget are necessary; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(f)</num>
           <text>It has been determined that certain modifications to the FY 2016-17 Annual Budget are necessary; and</text>
@@ -144,7 +144,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council has reviewed the proposed Budget Modification No. 2 and has determined that it is in the best interest of the Pueblo to approve Budget Modification No. 2; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(g)</num>
           <text>The Council has reviewed the proposed Budget Modification No. 2 and has determined that it is in the best interest of the Pueblo to approve Budget Modification No. 2; and</text>
@@ -154,7 +154,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo's FY 2016-2017 Annual Budget amount will not increase as a result of Budget Modification No. 2; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(h)</num>
           <text>The Pueblo's FY 2016-2017 Annual Budget amount will not increase as a result of Budget Modification No. 2; and</text>
@@ -191,7 +191,7 @@
           </tr>
         </table>
       </text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(i)</num>
           <text>The Pueblo's FY 2016-2017 Annual Budget remains as follows:</text>
@@ -431,7 +431,7 @@
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
   <attachment id="law">
-    <codify:insert path="6.3.12" num-value="6.3.12.040" tag="section"/>
+    <codify:insert path="6.3.12" num-value="6.3.12.040" tag="section" display-template="New {{cite}}"/>
     <num/>
     <heading>AUTHORIZATION FOR FISCAL YEAR 2016-2017 BUDGET MODIFICATION NO. 2</heading>
     <para>

@@ -18,30 +18,30 @@
       <prefix>Part</prefix>
       <num>17.2.9</num>
       <heading>Approving and Enacting Amended Articles of Organization and Amended Operating Agreement for San Ildefonso Services, LLC</heading>
-      <annotation type="Editor's Notes">See <cite doc="San Ildefonso Servs. Fourth Amended Arts. of Org.">San Ildefonso Servs. Fourth Amended Arts. of Org.</cite>
+      <annotation type="Editor's Notes" dest="container">See <cite doc="San Ildefonso Servs. Fourth Amended Arts. of Org.">San Ildefonso Servs. Fourth Amended Arts. of Org.</cite>
       </annotation>
-      <section>
-        <heading>Findings</heading>
-        <num>17.2.9.010</num>
         <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-047"/>
-      </section>
     </container>
   </codify:insert>
   <recitals codify:path="17.2.9.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
-      <codify:insert path="17.2.9.010">
+      <codify:insert path="|17.2.9">
+      <section>
+        <heading>Findings</heading>
+        <num>17.2.9.010</num>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
         </para>
+      </section>
       </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the sovereign authority of the Pueblo is vested in its Council and Governor; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(b)</num>
           <text>The sovereign authority of the Pueblo is vested in its Council and Governor.</text>
@@ -51,7 +51,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>San Ildefonso Services, LLC, is chartered under tribal law as a single member limited liability company wholly owned by the Pueblo, and the Pueblo de San Ildefonso Governor and Council currently serve as the Member's Representatives; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(c)</num>
           <text>San Ildefonso Services, LLC, is chartered under tribal law as a single member limited liability company wholly owned by the Pueblo, and the Pueblo de San Ildefonso Governor and Council currently serve as the Member's Representatives.</text>
@@ -61,7 +61,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council has determined it is prudent and in the best interests of the Pueblo and San Ildefonso Services, LLC to reorganize the Member's Representatives and the Management of San Ildefonso Services, LLC to allow for more efficient oversight and management of the entity; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(d)</num>
           <text>The Council has determined it is prudent and in the best interests of the Pueblo and San Ildefonso Services, LLC to reorganize the Member's Representatives and the Management of San Ildefonso Services, LLC to allow for more efficient oversight and management of the entity.</text>
@@ -71,7 +71,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council has reviewed and approved the attached amended Articles of Organization and the Operating Agreement for San Ildefonso Services, LLC, effective as of March 31, 2018.</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(e)</num>
           <text>The Council has reviewed and approved the attached amended Articles of Organization and the Operating Agreement for San Ildefonso Services, LLC, effective as of March 31, 2018.</text>

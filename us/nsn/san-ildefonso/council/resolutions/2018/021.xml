@@ -18,28 +18,28 @@
       <prefix>Part</prefix>
       <num>6.5.19</num>
       <heading>Approving the I.H.S. Community Health Representative Program Beginnig FY 2019</heading>
-      <section>
-        <heading>Findings</heading>
-        <num>6.5.19.010</num>
-        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-021"/>
-      </section>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-021"/>
     </container>
   </codify:insert>
   <recitals codify:path="6.5.19.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
-      <codify:insert path="6.5.19.010">
+      <codify:insert path="|6.5.19">
+      <section>
+        <heading>Findings</heading>
+        <num>6.5.19.010</num>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
         </para>
+      </section>
       </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the voters of the Pueblo approved a new Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011 pursuant to Federal law; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(b)</num>
           <text>The voters of the Pueblo approved a new Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011 pursuant to Federal law.</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo Council ("Council") is the duly constituted Legislative body acting for the Pueblo; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(c)</num>
           <text>The Pueblo Council ("Council") is the duly constituted Legislative body acting for the Pueblo.</text>
@@ -59,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo pursuant to Section 5 of the Agreement; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(d)</num>
           <text>The Council is authorized to make laws for the Pueblo pursuant to Section 5 of the Agreement.</text>
@@ -69,7 +69,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso is currently a participant in the Public Health Service, Indian Health Service (IHS), Community Health Representative (CHR) Program; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(e)</num>
           <text>The Pueblo de San Ildefonso is currently a participant in the Public Health Service, Indian Health Service (IHS), Community Health Representative (CHR) Program.</text>
@@ -79,7 +79,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso acknowledges the benefits received from the CHR Program, both previous and current, in the area of community health care; and</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(f)</num>
           <text>The Pueblo de San Ildefonso acknowledges the benefits received from the CHR Program, both previous and current, in the area of community health care.</text>
@@ -89,7 +89,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Tribal Government recognizes the need to continue the CHR Program for a period of three years during which the program will provide those services for the community that cannot otherwise be provided.</text>
-      <codify:insert>
+      <codify:insert display-template="">
         <para>
           <num>(g)</num>
           <text>The Tribal Government recognizes the need to continue the CHR Program for a period of three years during which the program will provide those services for the community that cannot otherwise be provided.</text>
