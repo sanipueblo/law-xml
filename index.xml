@@ -10,11 +10,13 @@
       <xml-bulk>https://github.com/sanipueblo/law-xml</xml-bulk>
       <html-bulk>https://github.com/sanipueblo/law-html</html-bulk>
       <html>https://law.sanipueblo.org</html>
+      <static-assets>https://github.com/oll-test-repos/sanipueblo-law-static-assets</static-assets>
     </canonical-urls>
   </meta>
   <xi:include href="./us/nsn/san-ildefonso/council/code/index.xml"/>
   <collection name="us/nsn/san-ildefonso/council/resolutions">
     <heading>Council Resolutions</heading>
+    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2020/index.xml"/>    
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2019/index.xml"/>
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2018/index.xml"/>
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2017/index.xml"/>
