@@ -1287,22 +1287,22 @@
         <para>
           <num>(f)</num>
           <text>The PER provided four (4) Alternatives and is based on meeting the needs of the Pueblo over a 20-year planning period spanning from 2016 to 2036.  The Alternatives are as follows:</text>
+          <text>
+            <strong>Alternative #1 – "No Action"</strong>
+          </text>
+          <text>
+            <strong>Alternative #2 – "Four Separate Systems"</strong>
+          </text>
+          <text>North West, North East, Pueblo Central South and El Rancho;</text>
+          <text>
+            <strong>Alternative #3 – "Two Systems"</strong>
+          </text>
+          <text>North West and Combined North East, Pueblo Central South and El Rancho;</text>
+          <text>
+            <strong>Alternative #4 – "Three Systems"</strong>
+          </text>
+          <text>North West, North East, and Combined Pueblo Central South and El Rancho;</text>
         </para>
-        <text>
-          <strong>Alternative #1 – "No Action"</strong>
-        </text>
-        <text>
-          <strong>Alternative #2 – "Four Separate Systems"</strong>
-        </text>
-        <text>North West, North East, Pueblo Central South and El Rancho;</text>
-        <text>
-          <strong>Alternative #3 – "Two Systems"</strong>
-        </text>
-        <text>North West and Combined North East, Pueblo Central South and El Rancho;</text>
-        <text>
-          <strong>Alternative #4 – "Three Systems"</strong>
-        </text>
-        <text>North West, North East, and Combined Pueblo Central South and El Rancho;</text>
         <para>
           <num>(g)</num>
           <text>The selection of an Alternative and acceptance of the PER allows SMA to complete the final design based on a desired "Alternative;"</text>
@@ -2179,9 +2179,8 @@
         <heading>Definitions</heading>
         <para>
           <num>(a)</num>
-          <text>"Assignment" or "Land Assignment" means the land assigned by the Pueblo to a Pueblo member as shown on record with the Pueblo Realty</text>
+          <text>"Assignment" or "Land Assignment" means the land assigned by the Pueblo to a Pueblo member as shown on record with the Pueblo Realty Department.</text>
         </para>
-        <text>Department.</text>
         <para>
           <num>(b)</num>
           <text>"Estray" means livestock found running at large upon Pueblo lands, either fenced or unfenced, whose owner is unknown, or that is branded with a brand that is not on record in the office of the New Mexico Livestock Board or is a freshly branded or marked offspring not with its branded or marked mother, unless other proof of ownership is produced.</text>
@@ -2379,9 +2378,8 @@
         </para>
         <para>
           <num>(j)</num>
-          <text>"Fishing Permit" means the Pueblo de San Ildefonso</text>
+          <text>"Fishing Permit" means the Pueblo de San Ildefonso Fishing Permit.</text>
         </para>
-        <text>Fishing Permit.</text>
         <para>
           <num>(k)</num>
           <text>"Game fish" means bass, bluegills, catfish, crappie, perch, pike, salmon, sunfish, tiger muskie, trout and walleye.</text>
@@ -2424,9 +2422,8 @@
         </para>
         <para>
           <num>(u)</num>
-          <text>"Pueblo lands" means all lands and interests in land within the</text>
+          <text>"Pueblo lands" means all lands and interests in land within the exterior boundaries of the Pueblo and any additional lands acquired by the Pueblo. Also includes land assignments, community property areas, and public rights-of-way.</text>
         </para>
-        <text>exterior boundaries of the Pueblo and any additional lands acquired by the Pueblo.  Also includes land assignments, community property areas, and public rights-of-way.</text>
         <para>
           <num>(v)</num>
           <text>"Pueblo Fishing Lake" means the Pueblo de San Ildefonso Fishing Lake.</text>
