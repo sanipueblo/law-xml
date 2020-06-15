@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
   <prefix>Title</prefix>
   <num>25</num>
   <heading>TRAFFIC</heading>
@@ -1533,21 +1533,25 @@
           <text>Every motor vehicle or combination of motor-drawn vehicles shall be capable, at all times and under all conditions of loading, of being stopped on dry, smooth, level road, the distance specified below, or shall be capable of being decelerated at a sustained rate corresponding to these distances:</text>
           <text>
             <table>
-              <tr>
-                <th/>
-                <th>Feet to stop from 20 miles per hour</th>
-                <th>Deceleration in feet per second</th>
-              </tr>
-              <tr>
-                <td>Vehicles or combinations of vehicles Having brakes on all wheels</td>
-                <td>30</td>
-                <td>14</td>
-              </tr>
-              <tr>
-                <td>Vehicles or combination of vehicles Not having brakes on all wheels</td>
-                <td>40</td>
-                <td>10.7</td>
-              </tr>
+              <thead>
+                <tr>
+                  <th/>
+                  <th>Feet to stop from 20 miles per hour</th>
+                  <th>Deceleration in feet per second</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Vehicles or combinations of vehicles Having brakes on all wheels</td>
+                  <td>30</td>
+                  <td>14</td>
+                </tr>
+                <tr>
+                  <td>Vehicles or combination of vehicles Not having brakes on all wheels</td>
+                  <td>40</td>
+                  <td>10.7</td>
+                </tr>
+              </tbody>
             </table>
           </text>
         </para>
