@@ -425,11 +425,11 @@
   <attachment id="law">
     <codify:insert path="6.3.13" num-value="6.3.13.040" tag="section" display-template="New {{cite}}"/>
     <num/>
-    <text>PUEBLO DE SAN ILDEFONSO</text>
+    <text codify:omit="">PUEBLO DE SAN ILDEFONSO</text>
     <heading>NEW FUNDING COUNCIL ADJUSTMENT 1 (NF-1) TO THE FY 2017-2018 ANNUAL BUDGET</heading>
     <para>
       <num codify:value="(a)">1.</num>
-      <text>The Council hereby approves the New Funding Council Adjustment 1 (NF-1) and adjusts           the Annual Budget for Fiscal Year 2017-2018 by addition of the following:</text>
+      <text>The Council hereby approves the New Funding Council Adjustment 1 (NF-1) and adjusts the Annual Budget for Fiscal Year 2017-2018 by addition of the following:</text>
       <text>
         <table>
           <tr>

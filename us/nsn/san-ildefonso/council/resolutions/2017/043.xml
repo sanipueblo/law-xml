@@ -469,9 +469,9 @@
   <attachment id="law">
     <codify:insert path="6.3.14" num-value="6.3.14.040" tag="section" display-template="New {{cite}}"/>
     <num/>
-    <text>PUEBLO DE SAN ILDEFONSO</text>
+    <text codify:omit="">PUEBLO DE SAN ILDEFONSO</text>
     <heading>NEW FUNDING COUNCIL ADJUSTMENT 2 (NF-2) TO THE FY 2017-2018 ANNUAL BUDGET</heading>
-    <text class="center">
+    <text class="center" codify:omit="">
       <strong>NEW FUNDING COUNCIL ADJUSTMENT 2 (NF-2) TO THE FY 2017-2018 ANNUAL BUDGET</strong>
     </text>
     <para>

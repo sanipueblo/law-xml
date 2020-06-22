@@ -87,9 +87,8 @@
       </codify:insert>
     </recital>
     <recital>
-      <conjunction>NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
-      <text/>
       <codify:insert path="6.5.15" num-value="6.5.15.020" tag="section" display-template="New {{cite}}"/>
+      <conjunction codify:omit="">NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
       <num/>
       <para>
         <num codify:value="(a)">1.</num>

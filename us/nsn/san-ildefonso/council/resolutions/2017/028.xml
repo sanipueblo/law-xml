@@ -107,9 +107,8 @@
       </codify:insert>
     </recital>
     <recital>
-      <conjunction>NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
-      <text/>
       <codify:insert path="17.2.8" num-value="17.2.8.020" tag="section"/>
+      <conjunction codify:omit="">NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
       <num/>
       <para>
         <num codify:value="(a)">1.</num>
