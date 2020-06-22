@@ -1658,10 +1658,12 @@
                   <td>$    11,395,113.36</td>
                 </tr>
               </tbody>
+              <tfoot>
+                <tr>
+                  <td colspan="2">Annual Budget including program budgets is attached as a separate document.</td>
+                </tr>
+              </tfoot>
             </table>
-          </text>
-          <text>
-            <center>Annual Budget including program budgets is attached as a separate document.</center>
           </text>
         </para>
       </section>
@@ -2428,7 +2430,7 @@
           <heading>BIA – Indian Child Welfare Act (ICWA) (20-xxxx-200-221-17):</heading>
           <text>Increase budget by $11,857.00 due to funding agency increase.</text>
         </para>
-        <text>Modification Approval Sheets (packets) for each program are attached.</text>
+        <aftertext>Modification Approval Sheets (packets) for each program are attached.</aftertext>
       </section>
     </container>
   </container>
