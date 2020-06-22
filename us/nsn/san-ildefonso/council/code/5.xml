@@ -47,7 +47,7 @@
         <num>5.1.2.010</num>
         <heading>Election Commission.</heading>
         <text>The Election Commission shall be established in accordance with ELECTIONS AND VOTING, SECTION 2.  ELECTION COMMISSION (a) of the Agreement which states:</text>
-        <include proof="true">
+        <include>
           <text>
             <strong>There shall be an Election Commission comprised of five Commissioners with three Commissioners elected by the people, one Commissioner selected by the Governor, and one Commissioner selected by the Council.  The term of office for Election Commissioners shall be four years.  Whenever a term expires for the seat of an appointed Commissioner, the Governor or the Council shall appoint a Commissioner within fifteen days after being sworn into office.  Election Commissioners shall not be eligible to be a candidate for Governor or Council Representative.</strong>
           </text>
@@ -74,7 +74,7 @@
         <num>5.1.2.020</num>
         <heading>Authority and Responsibilities.</heading>
         <text>The Election Commission shall conduct all elections in accordance with Section 3 (b) of the Agreement which states:</text>
-        <include proof="true">
+        <include>
           <text>
             <strong>All elections shall be conducted by the Election Commission in a fair and impartial manner.</strong>
           </text>
@@ -167,7 +167,7 @@
           <num>(b)</num>
           <heading>General Election.</heading>
           <text>General Elections shall be held in accordance with Section 3.  ELECTIONS of the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>ELECTIONS AND VOTING.  SECTION 3.  ELECTIONS.</strong>
             </text>
@@ -230,7 +230,7 @@
           <para>
             <num>(2)</num>
             <text>The Election Commission shall prepare and make publically available a Candidate Nomination form which shall include a release permitting the Election Commission to conduct a criminal background check on each candidate as required by the Agreement.   The Election Commission shall use its best efforts to conduct candidate criminal background checks in a timely manner.  The Election Commission shall conduct all criminal background checks in accordance with Section 2 (d) of the Agreement which states:</text>
-            <include proof="true">
+            <include>
               <text>
                 <strong>The Election Commission shall conduct criminal background checks on all candidates and the results shall be made available to any enrolled Member of the Pueblo.</strong>
               </text>
@@ -281,7 +281,7 @@
         <para>
           <num>(a)</num>
           <text>All candidates for the Office of Governor shall meet the minimum qualifications as listed in the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>GOVERNOR, SECTION 2.  QUALIFICATIONS.</strong>
             </text>
@@ -293,7 +293,7 @@
         <para>
           <num>(b)</num>
           <text>All candidates for the Council Representative shall meet the minimum qualifications as listed in the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>THE GOVERNMENT SECTION 3 QUALIFICATIONS</strong>
             </text>
@@ -314,7 +314,7 @@
         <para>
           <num>(a)</num>
           <text>The voting age for any election shall be set in accordance with Section 1, Voting of the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>ELECTIONS AND VOTING.  SECTION 1.  VOTING.</strong>
             </text>
@@ -505,7 +505,7 @@
         <para>
           <num>(a)</num>
           <text>Recall elections shall be conducted in accordance with the ELECTIONS AND VOTING provision SECTION 4.  REMOVAL AND RECALL of the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>
                 <u>Recall</u>
@@ -544,7 +544,7 @@
         <para>
           <num>(a)</num>
           <text>Referendum elections shall be conducted in accordance with the ELECTIONS AND VOTING provision SECTION 6.  REFERENDUM of the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>The people reserve the power to subject any law to a binding referendum election and the Election Commission shall hold a Referendum Election upon a petition signed by at least fifty percent (50%) of the voters.  A simple majority of the votes cast shall decide the outcome of the Referendum Election.</strong>
             </text>

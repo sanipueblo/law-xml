@@ -1083,7 +1083,7 @@
         <num>17.2.6.020</num>
         <heading/>
         <text>The Member's Representatives hereby amend and replace Section 2.1 of the Fourth Amended Operating Agreement for San Ildefonso Services, LLC, as follows:</text>
-        <include proof="true">
+        <include>
           <para>
             <num>2.1</num>
             <heading>Management by Managers.</heading>

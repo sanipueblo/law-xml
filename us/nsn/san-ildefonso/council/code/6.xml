@@ -1813,9 +1813,9 @@
             <text>Increase budget by $79,000.00.</text>
           </para>
         </para>
-        <text>
+        <aftertext>
           <em>*Modification Approval Sheets (packets) for each program are attached.</em>
-        </text>
+        </aftertext>
         <para>
           <num>(c)</num>
           <text>Budget Modification No. 1 results in changes as follows:</text>
@@ -1967,9 +1967,9 @@
           <num>(e)</num>
           <text>By the terms of the previously authorized grant from which the funding must be spent.</text>
         </para>
-        <text>
+        <aftertext>
           <s>(c)	The Council shall authorize department or program activities for which funds can be spent.  An authorization can be general and not specify each item within the budget, provided that such budget items support the authorized Department or program goals and activities.  Council approval of a grant or contract authorizes the types of expenditures for which funds can be spent.  An item can be included in the annual budget if there is such an authorization.</s>
-        </text>
+        </aftertext>
         <annotation type="Editor's Notes" dest="container">Subsection (c) was deleted and a new subsection was added to the Fiscal Procedures Act pursuant to the Fiscal Procedures Act Amendments of 2016, Council Resolution No. SI-R16-016, dated August 6, 2016.</annotation>
         <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-016"/>
         <para>
@@ -3178,7 +3178,7 @@
       <section>
         <num>6.6.3.050</num>
         <heading>Statement of Investment Policy Objectives and Guidelines – Asset Appreciation (Long-Term) Investment Portfolio.</heading>
-        <include proof="true">
+        <include>
           <text>SCOPE OF THIS INVESTMENT POLICY</text>
           <text>This statement of investment policy ("Investment Policy" or "Statement"), reflects the investment policy, objectives, and constraints of the Pueblo de San Ildefonso ("Pueblo") Investment Account(s).</text>
           <text>PURPOSE OF THIS INVESTMENT POLICY STATEMENT</text>
@@ -3574,7 +3574,7 @@
       <section>
         <num>6.6.4.050</num>
         <heading>Statement of Investment Policy Objectives and Guidelines – High Income (Short-Term) Investment Portfolio.</heading>
-        <include proof="true">
+        <include>
           <text>SCOPE OF THIS INVESTMENT POLICY</text>
           <text>This statement of investment policy ("Investment Policy" or "Statement"), reflects the investment policy, objectives, and constraints of the Pueblo de San Ildefonso ("Pueblo") Investment Account(s).</text>
           <text>PURPOSE OF THIS INVESTMENT POLICY STATEMENT</text>
