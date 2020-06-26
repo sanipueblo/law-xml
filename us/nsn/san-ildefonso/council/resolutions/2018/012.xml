@@ -184,10 +184,10 @@
       </codify:insert>
     </recital>
     <recital>
-      <conjunction>NOW, THEREFORE, BE IT RESOLVED</conjunction>
       <codify:insert path="6.3.16" num-value="6.3.16.020" tag="section" display-template="New {{cite}}"/>
+      <conjunction codify:omit="">NOW, THEREFORE, BE IT RESOLVED</conjunction>
       <num/>
-      <text>that the Council hereby:</text>
+      <text><span codify:value="The">that the</span> Council hereby:</text>
       <para>
         <num codify:value="(a)">1.</num>
         <text>Approves and enacts the attached FY 2018-2019 Annual Budget in the total amount of $13,260.173.01 effective July 1, 2018 to June 30, 2019; and</text>
