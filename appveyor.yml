@@ -7,6 +7,16 @@ environment:
 # Do not build feature branch with open Pull Requests
 skip_branch_with_pr: true
 
+on_finish:
+  - ps: >-
+      if (Test-Path $env:APPVEYOR_BUILD_FOLDER\test_roundtrip.log){
+          Push-AppveyorArtifact test_roundtrip.log
+      };
+      If ($env:DEBUG -eq $True) {
+          $blockRdp = $true; iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/appveyor/ci/master/scripts/enable-rdp.ps1'))
+      };
+
+
 init:
   # exit if secure variables are unset (saves time if fired by a non-team pull request)
   - ps: if ($env:GH_SSH_PRIVATE_KEY -eq $null) { exit }
@@ -22,35 +32,38 @@ install:
   - ps: $key += $env:GH_SSH_PRIVATE_KEY.Replace(" ", "`n")
   - ps: $key += "`n-----END RSA PRIVATE KEY-----`n"
   - ps: Set-Content c:\users\appveyor\.ssh\id_rsa $key
-  - ps: $fileContent = "-----BEGIN RSA PRIVATE KEY-----`n"
-  - ps: $fileContent += $env:snapshot_key.Replace(" ", "`n")
-  - ps: $fileContent += "`n-----END RSA PRIVATE KEY-----`n"
-  - ps: Set-Content c:\users\appveyor\snapshot $fileContent
-  - ps: $fileContent = "-----BEGIN RSA PRIVATE KEY-----`n"
-  - ps: $fileContent += $env:timestamp_key.Replace(" ", "`n")
-  - ps: $fileContent += "`n-----END RSA PRIVATE KEY-----`n"
-  - ps: Set-Content c:\users\appveyor\timestamp $fileContent
-  - set DEFAULT_PARTNER=OLL_PARTNERS_US_NSN_SAN_ILDEFONSO_COUNCIL oll.partners.us.nsn.san_ildefonso.council
+  - set US_NSN_SAN_ILDEFONSO_COUNCIL_XML_CODIFIED_PATH=..\sanipueblo\law-xml-codified-preview
 
 
 before_build:
   - ps: Copy-Item $env:APPVEYOR_BUILD_FOLDER '..\sanipueblo\law-xml' -Recurse
-  - git clone git@github.com:sanipueblo/law-xml-codified.git ..\sanipueblo\law-xml-codified
-  - git clone git@github.com:sanipueblo/law-html.git ..\sanipueblo\law-html
   - git clone --depth 1 git@github.com:sanipueblo/law-xml-codified-preview.git ..\sanipueblo\law-xml-codified-preview
   - git clone --depth 1 git@github.com:sanipueblo/law-html-preview.git ..\sanipueblo\law-html-preview
   - git clone  git@github.com:sanipueblo/law.git ..\law
   
   # install versioned resources (if and only if the build is a tag or cron build)
   - "%PYTHON%\\python.exe -m pip -q install -r requirements.txt"
-  # print out the git commits for each repo
-  - git -C ..\sanipueblo\law-xml-codified rev-parse HEAD
-  - git -C ..\sanipueblo\law-html rev-parse HEAD
+  - "%PYTHON%\\python.exe -m pip -q install pytest"
+  # print out the git commits for xml repo
+  - git -C ..\sanipueblo\law-xml rev-parse HEAD
 
 build_script:
    - ps: $env:FLAG = if ($env:APPVEYOR_PULL_REQUEST_NUMBER -eq $null) { "--deploy" }
    - "%PYTHON%\\python.exe  -m oll.tools.cli ci build_preview --library-root .. --auth ../law %FLAG%"
 
-
 test_script:
-- echo Skipping doomed test discovery to save time
+  - echo Skipping doomed test discovery to save time
+  # run roundtrip tests
+  # uncomment when tests are implemented
+  - "cd %APPVEYOR_BUILD_FOLDER% && %PYTHON%\\python.exe -m pytest --pyargs oll.partners.us.nsn.san_ildefonso.council.tests.docs.code.roundtrip -m \"full_roundtrip\""
+
+notifications:
+  - provider: Slack
+    incoming_webhook:
+      # post to the fire channel
+      secure: KUaR+KAqX1jU0LF7kRDKHHGEAoItFzIHSjcreyRvnrT1vcX5+4iV77Ivysxl8jhh8ocUE0JCcmcKI0xPTb+M+EMfb8xk9L7+XCTdNubjU5w=
+    on_build_success: false
+
+artifacts:
+  - path: test_roundtrip.log
+    name: roundtrip log
