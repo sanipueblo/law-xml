@@ -10,6 +10,7 @@
       <xml-bulk>https://github.com/sanipueblo/law-xml</xml-bulk>
       <html-bulk>https://github.com/sanipueblo/law-html</html-bulk>
       <html>https://law.sanipueblo.org</html>
+      <static-assets>https://github.com/sanipueblo/law-static-assets</static-assets>
     </canonical-urls>
     <history-start>2017-04-19</history-start>
   </meta>
