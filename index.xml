@@ -31,5 +31,9 @@
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2012/index.xml"/>
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2011/index.xml"/>
   </collection>
+  <collection name="us/nsn/san-ildefonso/council/policies">
+    <heading>Pueblo de San Ildefonso Policies</heading>
+    <xi:include href="./us/nsn/san-ildefonso/council/policies/enrollment.xml"/>
+  </collection>
   <xi:include href="./us/nsn/san-ildefonso/corporations/san-ildefonso-services/index.xml"/>
 </library>
