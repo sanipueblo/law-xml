@@ -33,7 +33,8 @@
   </collection>
   <collection name="us/nsn/san-ildefonso/council/policies">
     <heading>Pueblo de San Ildefonso Policies</heading>
-    <xi:include href="./us/nsn/san-ildefonso/council/policies/enrollment.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/council/policies/enrollment_policy.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/council/policies/personnel_policy.xml"/>
   </collection>
   <xi:include href="./us/nsn/san-ildefonso/corporations/san-ildefonso-services/index.xml"/>
 </library>
