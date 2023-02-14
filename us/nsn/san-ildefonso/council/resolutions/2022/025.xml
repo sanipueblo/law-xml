@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Pueblo de San Ildefonso Council Res. No. SI-R22-025">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Pueblo de San Ildefonso Council Res. No. SI-R22-025"   codify:doc="Pueblo de San Ildefonso Code">
   <num>SI-R22-025</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R22-025</heading>
-  <heading type="law" proof="needed">FIRST AMENDMENT TO THE ABANDONED VEHICLE ACT OF 2018</heading>
+  <heading type="law">First Amendment to the Abandoned Vehicle Act of 2018</heading>
   <meta>
-    <effective proof="needed">__________</effective>
+    <effective>2022-12-14</effective>
     <citations>
-      <citation type="res" proof="needed">Council Resolution No. SI-R22-025</citation>
+      <citation type="res">Council Resolution No. SI-R22-025</citation>
     </citations>
     <history>
-      <adopted/>
+      <adopted>2022-12-08</adopted>
     </history>
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 8th day of December, 2022, the following law was adopted:</preamble>
@@ -41,7 +41,7 @@
         <u>CERTIFICATION</u>
       </strong>
     </text>
-    <text>The foregoing resolution was duly voted upon by the Council on <u>December 8</u> , 2022, at a meeting with a vote of <u>10</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>0</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>December 8</u>, 2022, at a meeting with a vote of <u>10</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>0</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Wayne Martinez, Council Secretary</text>
     <text>
       <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
@@ -64,72 +64,72 @@
           <tr>
             <td>Tom Garcia</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Thomas Gonzales</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>M. Wayne Martinez, Jr.</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Michael Martinez</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Nichole S. Martinez</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Raymond J. Martinez</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Thomas Martinez</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Denise Moquino</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Nathan Sanchez</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Irene Tse-Pe</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
         </tbody>
       </table>
@@ -137,12 +137,12 @@
     <text>
       <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
     </text>
-    <text>Resolution No. <u>SI-R22-025</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>8</u><sup><u>th</u></sup> day of <u>December</u> , 2022, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Resolution No. <u>SI-R22-025</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>8</u><sup><u>th</u></sup> day of <u>December</u>, 2022, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
     <text>Wayne Martinez, Council Secretary</text>
     <subheading>GOVERNOR'S ACTION:</subheading>
     <text>{ X } APPROVED</text>
     <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
-    <text>On this <u>14</u><sup><u>th</u></sup> day of <u>December</u> , 2022.</text>
+    <text>On this <u>14</u><sup><u>th</u></sup> day of <u>December</u>, 2022.</text>
     <text>Christopher A. Moquino, Governor</text>
     <text>Presented by the Governor to the Council on the _______ day of ________________, 2022.</text>
     <subheading>COUNCIL'S ACTION:</subheading>
@@ -163,73 +163,73 @@
         <tbody>
           <tr>
             <td>Raymond J. Martinez</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Tom Garcia</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Thomas Gonzales</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>M. Wayne Martinez, Jr.</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Nichole S. Martinez</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Michael Martinez</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Thomas Martinez</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Denise Moquino</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Nathan Sanchez</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Irene Tse-Pe</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
         </tbody>
       </table>
@@ -247,18 +247,25 @@
       <strong>PUEBLO DE SAN ILDEFONSO</strong>
     </text>
     <heading type="law" proof="needed">FIRST AMENDMENT TO THE ABANDONED VEHICLE ACT OF 2018</heading>
+    <codify:find-replace path="24.9.1|heading" count="1">
+      <find>Abandoned Vehicle Act of 2018</find>
+      <replace>First Amendment to the Abandoned Vehicle Act of 2018</replace>
+    </codify:find-replace>
     <section>
-      <num>1.1</num>
+      <codify:replace path="24.9.1.010" />
+      <num codify:value="24.9.1.010">1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "FIRST AMENDMENT TO THE ABANDONED VEHICLE ACT OF 2018" (the "Act").</text>
     </section>
     <section>
-      <num>1.2</num>
+      <codify:replace path="24.9.1.020" />
+      <num codify:value="24.9.1.020">1.2</num>
       <heading>Purpose</heading>
       <text>The Purpose of this Act is to promote a safe, clean, and healthy environment by removing abandoned vehicles from Pueblo Lands.</text>
     </section>
     <section>
-      <num>1.3</num>
+      <codify:replace path="24.9.1.030" />
+      <num codify:value="24.9.1.030">1.3</num>
       <heading>Findings</heading>
       <para>
         <num>(a)</num>
@@ -274,16 +281,17 @@
       </para>
     </section>
     <section>
-      <num>1.4</num>
+      <codify:replace path="24.9.1.040" />
+      <num codify:value="24.9.1.040">1.4</num>
       <heading>Abandoned Vehicle Act</heading>
       <para>
         <num>(a)</num>
-        <text>Title 25 - TRAFFIC, of the Pueblo Code, shall be amended by adding the following new</text>
-        <text>provisions:</text>
+        <text>Title 25 - TRAFFIC, of the Pueblo Code, shall be amended by adding the following new provisions:</text>
       </para>
     </section>
     <section>
-      <num>1.5</num>
+      <codify:replace path="24.9.1.050" />
+      <num codify:value="24.9.1.050">1.5</num>
       <heading>Definitions</heading>
       <para>
         <num>(a)</num>
@@ -295,8 +303,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>"Antique Vehicle" shall mean an in operable Vehicle that is more than twenty-five years</text>
-        <text>old.</text>
+        <text>"Antique Vehicle" shall mean an in operable Vehicle that is more than twenty-five years old.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -320,6 +327,7 @@
       </para>
     </section>
     <section>
+      <codify:insert path="24.9.1" num-value="24.9.1.060" />
       <num>1.6</num>
       <heading>Abandoned Vehicle Act Procedures</heading>
       <para>
@@ -330,11 +338,11 @@
         <num>(b)</num>
         <text>Prior to issuance of a citation pursuant to Section 1.6(a):</text>
         <para>
-          <num>1.</num>
+          <num codify:value="(1)">1.</num>
           <text>If a Code Enforcement Officer reasonably believes that an Abandoned Vehicle is located on Pueblo Lands, the Code Enforcement Officer shall meet with the Owner or Owners of the Abandoned Vehicle, or the person responsible for the property where the Abandoned Vehicle is located, and provide a copy of this Act to the Owner, or to the Person or Persons identified in Section 1.6(a) of this Act, with the date provided, and give written notice of a potential violation of this Act if the Abandoned Vehicle is not removed.</text>
         </para>
         <para>
-          <num>2.</num>
+          <num codify:value="(2)">2.</num>
           <text>If, after fourteen (14) calendar days from the issuance of a written notification, the Officer determines that the Abandoned Vehicle has not been removed from Pueblo Lands, the Code Enforcement Officer shall issue a citation as described in Section 1.6(a).</text>
         </para>
       </para>
