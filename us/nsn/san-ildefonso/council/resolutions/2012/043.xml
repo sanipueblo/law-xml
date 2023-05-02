@@ -2,14 +2,14 @@
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Pueblo de San Ildefonso Council Res. No. SI-R12-043">
   <num>SI-R12-043</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R12-043</heading>
-  <heading type="law" proof="needed">Approving Pueblo de San Ildefonso Big Game Hunting Act</heading>
+  <heading type="law">Approving Pueblo de San Ildefonso Big Game Hunting Act</heading>
   <meta>
-    <effective proof="needed">2012-10-25</effective>
+    <effective>2012-10-25</effective>
     <citations>
-      <citation type="res" proof="needed">Council Resolution No. SI-R12-043</citation>
+      <citation type="res">Council Resolution No. SI-R12-043</citation>
     </citations>
     <history>
-      <adopted>2023-03-14</adopted>
+      <adopted>2012-10-22</adopted>
     </history>
   </meta>
   <recitals>
@@ -164,7 +164,7 @@
     <text>Terry Aguilar, Governor</text>
   </procedural-data>
   <attachment id="law">
-    <heading type="law" proof="needed">PUEBLO DE SAN ILDEFONSO BIG GAME HUNTING ACT</heading>
+    <heading type="law">PUEBLO DE SAN ILDEFONSO BIG GAME HUNTING ACT</heading>
     <section>
       <num>1.1</num>
       <heading>Short Title</heading>
