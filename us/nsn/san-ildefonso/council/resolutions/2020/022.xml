@@ -351,7 +351,7 @@
         <text>All other items of the Business Lease shall remain in full force and effect.</text>
       </para>
     </section>
-    <section>
+    <section name="1.4~1">
       <codify:insert num-value="17.2.23.050"/>
       <num>1.4</num>
       <heading>Authorizations</heading>
