@@ -270,32 +270,32 @@
   <codify:insert>
     <container>
       <prefix>Part</prefix>
-      <num>15.1.14</num>
+      <num>15.1.15</num>
       <heading>Authorizing the San Ildefonso Housing Authority Apply for a 2023 Indian Housing Block Grant on Behalf of the Pueblo</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-001"/>
     </container>
   </codify:insert>
   <attachment id="law">
-    <codified:at path="15.1.14"/>
+    <codified:at path="15.1.15"/>
     <text class="center">
       <strong>PUEBLO DE SAN ILDEFONSO</strong>
     </text>
     <heading type="law">AUTHORIZING THE SAN ILDEFONSO HOUSING AUTHORITY APPLY FOR A 2023 INDIAN HOUSING BLOCK GRANT ON BEHALF OF THE PUEBLO</heading>
     <section>
       <codify:insert/>
-      <num codify:value="15.1.14.010">1.1</num>
+      <num codify:value="15.1.15.010">1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "AUTHORIZATION FOR THE SAN ILDEFONSO HOUSING AUTHORITY TO APPLY FOR A 2023 INDIAN COMMUNITY DEVELOPMENT BLOCK GRANT ON BEHALF OF THE PUEBLO" ("Act").</text>
     </section>
     <section>
       <codify:insert/>
-      <num codify:value="15.1.14.020">1.2</num>
+      <num codify:value="15.1.15.020">1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this resolution is to authorize the San Ildefonso Housing Authority to apply for an Indian Housing Block Grant (IHBG) for construction of new homes on the reservation for IHBG eligible families.</text>
     </section>
     <section>
       <codify:insert/>
-      <num codify:value="15.1.14.030">1.3</num>
+      <num codify:value="15.1.15.030">1.3</num>
       <heading>Findings</heading>
       <text>The San Ildefonso Council hereby finds that,</text>
       <para>
@@ -329,7 +329,7 @@
     </section>
     <section>
       <codify:insert/>
-      <num codify:value="15.1.14.040">1.4</num>
+      <num codify:value="15.1.15.040">1.4</num>
       <heading>Authorizations</heading>
       <text>The Council hereby,</text>
       <para>

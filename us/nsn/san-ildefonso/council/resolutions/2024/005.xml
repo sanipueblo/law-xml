@@ -254,32 +254,32 @@
   <codify:insert>
     <container>
       <prefix>Part</prefix>
-      <num>6.5.13</num>
+      <num>6.5.40</num>
       <heading>Act Authorizing Signature of Western Area Power Adminstration Contracts</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-005"/>
     </container>
   </codify:insert>
   <attachment id="law">
-    <codified:at path="6.5.13"/>
+    <codified:at path="6.5.40"/>
     <text>
       <strong>PUEBLO DE SAN ILDEFONSO</strong>
     </text>
     <heading type="law">ACT AUTHORIZING SIGNATURE OF WESTERN AREA POWER ADMINSTRATION CONTRACTS</heading>
     <section>
       <codify:insert/>
-      <num codify:value="6.5.13.010">1.1</num>
+      <num codify:value="6.5.40.010">1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "Act Authorizing Signature of Western Area Power Administration Contracts."</text>
     </section>
     <section>
       <codify:insert/>
-      <num codify:value="6.5.13.020">1.2</num>
+      <num codify:value="6.5.40.020">1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the Governor to negotiate and sign contracts with the Western Area Power Administration to allow the Pueblo to continue to receive benefits from long term power contracts.</text>
     </section>
     <section>
       <codify:insert/>
-      <num codify:value="6.5.13.030">1.3</num>
+      <num codify:value="6.5.40.030">1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
       <para>
@@ -309,7 +309,7 @@
     </section>
     <section>
       <codify:insert/>
-      <num codify:value="6.5.13.040">1.4</num>
+      <num codify:value="6.5.40.040">1.4</num>
       <heading>Authorizations and Waivers</heading>
       <para>
         <num>(a)</num>
