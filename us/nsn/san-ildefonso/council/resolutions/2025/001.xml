@@ -258,10 +258,10 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2025, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Raelene Martinez, Council Secretary</text>
   </procedural-data>
+  <codify:replace path="|24.2.11|heading">
+    <heading>First Amendment to the PNM Norton Hernandez 115 KV Transmission Easement Agreement Authorization Act</heading>
+  </codify:replace>
   <attachment id="law">
-    <codify:replace path="24.2.11|heading">
-      <heading>First Amendment to the PNM Norton Hernandez 115 KV Transmission Easement Agreement Authorization Act</heading>
-    </codify:replace>
     <section>
       <codify:replace path="24.2.11.010"/>
       <num codify:value="24.2.11.010">1.1</num>
